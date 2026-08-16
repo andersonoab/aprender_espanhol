@@ -687,3 +687,598 @@ Tiene sentido lo que dices. | What you say makes sense.
 No estoy seguro, pero lo averiguo. | I am not sure, but I will find out.
 Perdona, ¿puedes repetir más despacio? | Sorry, can you repeat more slowly?
 Entonces, ¿quedamos así? | So, are we agreed on this?
+
+El cuello de botella está en la aprobación. | The bottleneck is in the approval.
+Identificamos el cuello de botella del proceso. | We identified the bottleneck in the process.
+Este paso genera un cuello de botella. | This step creates a bottleneck.
+Necesitamos eliminar ese cuello de botella. | We need to remove that bottleneck.
+El cuello de botella retrasa toda la entrega. | The bottleneck delays the whole delivery.
+¿Dónde está el cuello de botella? | Where is the bottleneck?
+El mayor cuello de botella es la falta de datos. | The biggest bottleneck is the lack of data.
+Resolver el cuello de botella ahorró tiempo. | Solving the bottleneck saved time.
+Un solo cuello de botella frena al equipo. | A single bottleneck slows down the team.
+El sistema es el cuello de botella actual. | The system is the current bottleneck.
+El flujo de trabajo tiene varios cuellos de botella. | The workflow has several bottlenecks.
+Vamos a mapear cada cuello de botella. | We are going to map each bottleneck.
+La revisión manual es un cuello de botella. | The manual review is a bottleneck.
+Automatizar reduce el cuello de botella. | Automating reduces the bottleneck.
+El cuello de botella aumenta el costo. | The bottleneck increases the cost.
+Sin ese cuello de botella, todo fluye. | Without that bottleneck, everything flows.
+El equipo depende de un solo aprobador. | The team depends on a single approver.
+La tarea se acumula antes de la firma. | The task piles up before the signature.
+El proceso se traba en la validación. | The process gets stuck at the validation.
+Cada retraso empeora el cuello de botella. | Each delay worsens the bottleneck.
+Priorizamos según el cuello de botella. | We prioritize according to the bottleneck.
+El cuello de botella cambió de área. | The bottleneck moved to another area.
+Medimos el tiempo perdido en el cuello de botella. | We measure the time lost at the bottleneck.
+Reducir el cuello de botella es la meta. | Reducing the bottleneck is the goal.
+El proceso avanza más rápido ahora. | The process moves faster now.
+Distribuimos la carga para evitar el atasco. | We distribute the load to avoid the jam.
+El atasco ocurre siempre al final del mes. | The jam always happens at the end of the month.
+Optimizamos el paso más lento. | We optimized the slowest step.
+El resultado mejora al quitar el cuello de botella. | The result improves when the bottleneck is removed.
+Un buen diseño evita cuellos de botella. | A good design prevents bottlenecks.
+
+¿Cuál es la fecha de entrega? | What is the delivery date?
+Necesito confirmar la fecha exacta. | I need to confirm the exact date.
+La fecha de la reunión cambió. | The meeting date changed.
+Anota la fecha en el calendario. | Write the date on the calendar.
+¿Qué fecha te viene mejor? | What date works best for you?
+La fecha de admisión es el primero de marzo. | The hire date is March first.
+Debemos respetar la fecha base del convenio. | We must observe the collective bargaining date.
+La fecha tope para el pago es hoy. | The cutoff date for payment is today.
+¿Puedes adelantar la fecha? | Can you move the date earlier?
+La fecha de vencimiento ya pasó. | The due date has already passed.
+Fijamos la fecha para el próximo lunes. | We set the date for next Monday.
+La fecha de nacimiento está en el formulario. | The date of birth is on the form.
+No recuerdo la fecha exacta. | I do not remember the exact date.
+La fecha de la factura es de ayer. | The invoice date is from yesterday.
+Pon la fecha de hoy en el documento. | Put today's date on the document.
+La fecha de inicio del contrato es en abril. | The contract start date is in April.
+¿Cuál es la fecha de cierre de la nómina? | What is the payroll closing date?
+La fecha final del proyecto se aplazó. | The project end date was postponed.
+Confirma la fecha por correo, por favor. | Confirm the date by email, please.
+La fecha del evento aún no está definida. | The event date is not defined yet.
+Tenemos hasta esa fecha para responder. | We have until that date to respond.
+La fecha de la auditoría es en septiembre. | The audit date is in September.
+¿Coincide la fecha con el feriado? | Does the date coincide with the holiday?
+La fecha límite se acerca rápido. | The deadline is approaching fast.
+Cambiamos la fecha por un conflicto de agenda. | We changed the date due to a schedule conflict.
+La fecha quedó registrada en el sistema. | The date was recorded in the system.
+Elige una fecha entre lunes y jueves. | Choose a date between Monday and Thursday.
+La fecha de pago cae en fin de semana. | The payment date falls on the weekend.
+Necesitamos una fecha realista. | We need a realistic date.
+La fecha de firma será mañana. | The signing date will be tomorrow.
+
+Soy buceador desde hace cinco años. | I have been a diver for five years.
+Me gusta bucear en el mar. | I like to dive in the sea.
+El buceo es mi deporte favorito. | Diving is my favorite sport.
+Un buen buceador respeta la seguridad. | A good diver respects safety.
+El buceador revisa el equipo antes de entrar. | The diver checks the gear before going in.
+Necesito un traje para bucear. | I need a suit to dive.
+El instructor de buceo es muy experimentado. | The diving instructor is very experienced.
+Vamos a bucear mañana temprano. | We are going to dive early tomorrow.
+El buceador vio muchos peces de colores. | The diver saw many colorful fish.
+El buceo requiere mucha calma. | Diving requires a lot of calm.
+Aprendí a bucear en Brasil. | I learned to dive in Brazil.
+El buceador usa una botella de oxígeno. | The diver uses an oxygen tank.
+No se puede bucear sin certificación. | You cannot dive without certification.
+El agua estaba clara para el buceo. | The water was clear for diving.
+Cada buceador tiene un compañero. | Each diver has a buddy.
+El buceo profundo exige entrenamiento. | Deep diving requires training.
+Reservamos una salida de buceo. | We booked a diving trip.
+El buceador subió despacio a la superficie. | The diver went up slowly to the surface.
+Quiero certificarme como buceador. | I want to get certified as a diver.
+El buceo me relaja mucho. | Diving relaxes me a lot.
+La escuela de buceo abre a las ocho. | The diving school opens at eight.
+El buceador revisa la presión del aire. | The diver checks the air pressure.
+Bucear entre corales es increíble. | Diving among corals is amazing.
+El buceo nocturno es una experiencia distinta. | Night diving is a different experience.
+El buceador nada con mucha destreza. | The diver swims very skillfully.
+Llevo mi propia máscara de buceo. | I bring my own diving mask.
+El grupo de buceadores partió temprano. | The group of divers left early.
+Bucear cerca del arrecife es peligroso. | Diving near the reef is dangerous.
+El buceador respira con tranquilidad. | The diver breathes calmly.
+Después de bucear, descansamos en la playa. | After diving, we rested on the beach.
+
+Nosotros trabajamos en el mismo proyecto. | We work on the same project.
+Ustedes ya recibieron el informe. | You all already received the report.
+Nosotros vamos a resolverlo hoy. | We are going to solve it today.
+¿Ustedes están de acuerdo? | Do you all agree?
+Nosotros llegamos temprano a la oficina. | We arrive early at the office.
+Ustedes tienen razón en eso. | You all are right about that.
+Nosotros necesitamos más tiempo. | We need more time.
+¿Ustedes pueden enviar los datos? | Can you all send the data?
+Nosotros preparamos la presentación. | We prepared the presentation.
+Ustedes decidieron muy rápido. | You all decided very quickly.
+Nosotros somos responsables del área. | We are responsible for the area.
+¿Ustedes vieron el correo de ayer? | Did you all see yesterday's email?
+Nosotros revisamos cada detalle. | We review every detail.
+Ustedes conocen bien el proceso. | You all know the process well.
+Nosotros vamos a la reunión juntos. | We are going to the meeting together.
+¿Ustedes quieren participar? | Do you all want to participate?
+Nosotros confiamos en el equipo. | We trust the team.
+Ustedes hicieron un buen trabajo. | You all did a good job.
+Nosotros esperamos su respuesta. | We are waiting for your reply.
+¿Ustedes tienen alguna duda? | Do you all have any question?
+Nosotros terminamos antes del plazo. | We finished before the deadline.
+Ustedes deben firmar el documento. | You all must sign the document.
+Nosotros aprendemos algo nuevo cada día. | We learn something new every day.
+¿Ustedes vienen con nosotros? | Are you all coming with us?
+Nosotros vamos a apoyar el cambio. | We are going to support the change.
+Ustedes son parte del mismo equipo. | You all are part of the same team.
+Nosotros preferimos la primera opción. | We prefer the first option.
+¿Ustedes pueden ayudarnos con esto? | Can you all help us with this?
+Nosotros nos reunimos cada semana. | We meet every week.
+Ustedes tienen toda la información. | You all have all the information.
+
+Vamos a agendar una reunión. | Let us schedule a meeting.
+¿A qué hora empieza la videollamada? | What time does the video call start?
+Voy a enviar el enlace de la reunión. | I am going to send the meeting link.
+Por favor, silencia tu micrófono. | Please, mute your microphone.
+No se escucha bien el audio. | The audio is not clear.
+¿Puedes activar tu cámara? | Can you turn on your camera?
+Comparte tu pantalla, por favor. | Share your screen, please.
+La reunión se extendió demasiado. | The meeting ran too long.
+Vamos a tomar nota de los acuerdos. | Let us take note of the agreements.
+¿Quién va a liderar la reunión? | Who is going to lead the meeting?
+Reprogramemos para la próxima semana. | Let us reschedule for next week.
+La agenda tiene tres puntos. | The agenda has three items.
+Empecemos por el primer tema. | Let us start with the first topic.
+¿Alguien quiere agregar algo? | Does anyone want to add anything?
+Se cortó la conexión un momento. | The connection dropped for a moment.
+Voy a compartir el acta después. | I will share the minutes afterward.
+La reunión quedó grabada. | The meeting was recorded.
+Necesitamos una decisión al final. | We need a decision at the end.
+Dejemos ese punto para después. | Let us leave that point for later.
+Gracias por su tiempo hoy. | Thank you for your time today.
+La próxima reunión será el jueves. | The next meeting will be on Thursday.
+Confirmen su asistencia, por favor. | Please confirm your attendance.
+El presentador tuvo un problema técnico. | The presenter had a technical problem.
+Regresemos al punto principal. | Let us get back to the main point.
+¿Podemos terminar cinco minutos antes? | Can we finish five minutes early?
+Voy a resumir lo que decidimos. | I am going to summarize what we decided.
+Cada área presentará su avance. | Each area will present its progress.
+Mantengamos la reunión breve. | Let us keep the meeting short.
+Envíen sus comentarios por escrito. | Send your comments in writing.
+La reunión fue muy productiva. | The meeting was very productive.
+
+Voy a redactar el correo ahora. | I am going to write the email now.
+¿Puedes responder a todos? | Can you reply to all?
+Adjunto el archivo en este mensaje. | I attach the file in this message.
+Reenvía el correo al gerente. | Forward the email to the manager.
+El asunto del correo no está claro. | The subject of the email is not clear.
+Copié a tu jefe en el mensaje. | I copied your boss on the message.
+Recibí tu correo esta mañana. | I received your email this morning.
+Responderé antes del mediodía. | I will reply before noon.
+Por favor, revisa el borrador. | Please, review the draft.
+El mensaje quedó en borradores. | The message stayed in drafts.
+Confirma la recepción del archivo. | Confirm the receipt of the file.
+El correo llegó a la carpeta de spam. | The email went to the spam folder.
+Escribe un asunto más específico. | Write a more specific subject.
+Mándame la información por escrito. | Send me the information in writing.
+Adjunta la versión final, por favor. | Attach the final version, please.
+No olvides firmar el correo. | Do not forget to sign the email.
+Te escribo para confirmar la reunión. | I am writing to confirm the meeting.
+Disculpa la demora en responder. | Sorry for the delay in replying.
+Quedo atento a tu respuesta. | I remain attentive to your reply.
+El destinatario no recibió el mensaje. | The recipient did not receive the message.
+Revisa la dirección de correo. | Check the email address.
+Envié el recordatorio ayer. | I sent the reminder yesterday.
+Agradezco tu pronta respuesta. | I appreciate your prompt reply.
+El correo tiene un archivo pesado. | The email has a large file.
+Marca el mensaje como importante. | Mark the message as important.
+Te dejo mi número por si acaso. | I leave you my number just in case.
+Escribí un resumen en el cuerpo. | I wrote a summary in the body.
+Corrige el error antes de enviar. | Correct the mistake before sending.
+El correo quedó muy largo. | The email turned out too long.
+Cierra el mensaje de forma cordial. | Close the message in a cordial way.
+
+Vamos a abrir una vacante nueva. | We are going to open a new position.
+El candidato tiene buena experiencia. | The candidate has good experience.
+Programamos la entrevista para el lunes. | We scheduled the interview for Monday.
+La oferta de trabajo fue aceptada. | The job offer was accepted.
+Necesitamos los documentos del empleado. | We need the employee's documents.
+El contrato entra en vigor el lunes. | The contract takes effect on Monday.
+El nuevo colaborador empieza mañana. | The new coworker starts tomorrow.
+Preparamos la integración del equipo. | We prepared the team onboarding.
+El puesto exige inglés intermedio. | The position requires intermediate English.
+Revisamos el currículum con atención. | We reviewed the résumé carefully.
+La contratación depende del presupuesto. | The hiring depends on the budget.
+El período de prueba es de noventa días. | The probation period is ninety days.
+Definimos el salario de contratación. | We defined the starting salary.
+El empleado firmó el contrato hoy. | The employee signed the contract today.
+Actualiza el registro del personal. | Update the personnel record.
+Enviamos la carta de oferta ayer. | We sent the offer letter yesterday.
+El proceso de selección fue rápido. | The selection process was fast.
+Necesitamos verificar las referencias. | We need to verify the references.
+La descripción del cargo está lista. | The job description is ready.
+El candidato pasó a la segunda etapa. | The candidate moved to the second stage.
+Confirmamos la fecha de admisión. | We confirmed the hire date.
+El examen médico es obligatorio. | The medical exam is mandatory.
+Registramos al empleado en el sistema. | We registered the employee in the system.
+La vacante recibió muchas solicitudes. | The position received many applications.
+El gerente aprobó la contratación. | The manager approved the hire.
+El sueldo incluye beneficios. | The salary includes benefits.
+Vamos a integrar al nuevo empleado. | We are going to onboard the new employee.
+El puesto es de tiempo completo. | The position is full-time.
+La entrevista final es con dirección. | The final interview is with management.
+Cerramos la vacante esta semana. | We closed the position this week.
+
+La nómina se procesa cada mes. | Payroll is processed every month.
+El salario neto es menor que el bruto. | The net salary is lower than the gross.
+Aplicamos los descuentos legales. | We apply the statutory deductions.
+El beneficio de transporte está incluido. | The transportation benefit is included.
+El pago se realiza el quinto día. | The payment is made on the fifth day.
+La comisión varía según las ventas. | The commission varies according to sales.
+El vale de comida se recarga hoy. | The meal voucher is reloaded today.
+El seguro de salud cubre a la familia. | The health insurance covers the family.
+El bono se paga una vez al año. | The bonus is paid once a year.
+El descuento del sindicato es fijo. | The union deduction is fixed.
+Revisamos los recibos de pago. | We reviewed the pay slips.
+El aguinaldo se paga en diciembre. | The year-end bonus is paid in December.
+Hay un error en el cálculo del salario. | There is an error in the salary calculation.
+El anticipo se descuenta el mes siguiente. | The advance is deducted the following month.
+El empleado pidió un adelanto. | The employee asked for an advance.
+La hora extra se paga con recargo. | Overtime is paid with a surcharge.
+El impuesto se retiene en la fuente. | The tax is withheld at source.
+Actualizamos la tabla de salarios. | We updated the salary table.
+El plan de pensiones es opcional. | The pension plan is optional.
+El reajuste entra el próximo mes. | The adjustment starts next month.
+La deducción aparece en el recibo. | The deduction appears on the slip.
+El beneficio no cuenta como salario. | The benefit does not count as salary.
+El pago fue depositado en la cuenta. | The payment was deposited into the account.
+El salario base subió este año. | The base salary went up this year.
+Verificamos los datos bancarios. | We verified the bank details.
+El descuento fue mayor de lo esperado. | The deduction was higher than expected.
+Los beneficios mejoran la retención. | Benefits improve retention.
+La nómina cerró sin errores. | Payroll closed without errors.
+El bono depende del desempeño. | The bonus depends on performance.
+El recibo muestra todos los conceptos. | The slip shows all the items.
+
+Solicité mis vacaciones para julio. | I requested my vacation for July.
+El empleado está de licencia médica. | The employee is on medical leave.
+La jornada empieza a las nueve. | The workday starts at nine.
+Debo registrar mi hora de entrada. | I must record my clock-in time.
+Olvidé marcar la salida ayer. | I forgot to clock out yesterday.
+Las vacaciones se acumulan cada año. | Vacation accrues every year.
+Pedí un día libre para el viernes. | I asked for a day off on Friday.
+La ausencia debe justificarse. | The absence must be justified.
+El horario flexible ayuda al equipo. | The flexible schedule helps the team.
+Trabajo desde casa los martes. | I work from home on Tuesdays.
+La pausa para almorzar es de una hora. | The lunch break is one hour.
+El empleado faltó sin aviso. | The employee was absent without notice.
+Aprobé la solicitud de vacaciones. | I approved the vacation request.
+La baja médica dura una semana. | The sick leave lasts one week.
+Registra las horas en el sistema. | Record the hours in the system.
+La jornada nocturna paga más. | The night shift pays more.
+Tomé medio día de descanso. | I took half a day off.
+El calendario de vacaciones está lleno. | The vacation calendar is full.
+Necesito reponer las horas del lunes. | I need to make up Monday's hours.
+El permiso fue autorizado por el jefe. | The leave was authorized by the boss.
+La licencia de maternidad es de meses. | Maternity leave lasts for months.
+El empleado llegó tarde otra vez. | The employee arrived late again.
+Ajustamos el horario contractual. | We adjusted the contractual schedule.
+Las vacaciones vencen en diciembre. | The vacation expires in December.
+Solicita el permiso con anticipación. | Request the leave in advance.
+La jornada se redujo este mes. | The workday was reduced this month.
+Controlamos la asistencia a diario. | We track attendance daily.
+El descanso semanal es obligatorio. | The weekly rest is mandatory.
+El empleado volvió de sus vacaciones. | The employee returned from vacation.
+Programemos las vacaciones del equipo. | Let us schedule the team's vacation.
+
+El empleado presentó su renuncia formal. | The employee submitted his formal resignation.
+La rescisión se procesa esta semana. | The termination is processed this week.
+Calculamos las indemnizaciones. | We calculated the severance.
+El aviso previo es de treinta días. | The notice period is thirty days.
+El finiquito incluye las vacaciones. | The final settlement includes vacation.
+La empresa terminó el contrato. | The company ended the contract.
+El despido fue por reestructuración. | The dismissal was due to restructuring.
+Firmamos el acuerdo de salida. | We signed the exit agreement.
+El empleado devolvió el equipo. | The employee returned the equipment.
+Cancelamos su acceso al sistema. | We canceled his system access.
+El pago final se hace en cinco días. | The final payment is made in five days.
+La carta de renuncia está firmada. | The resignation letter is signed.
+El proceso de salida fue tranquilo. | The exit process was smooth.
+Actualizamos el estado del empleado. | We updated the employee's status.
+El finiquito no tuvo divergencias. | The settlement had no discrepancies.
+La liquidación incluye el aguinaldo. | The settlement includes the bonus.
+El empleado cumplió el aviso. | The employee worked the notice period.
+Retiramos su nombre de la nómina. | We removed his name from payroll.
+El acuerdo evitó un conflicto. | The agreement avoided a dispute.
+La entrevista de salida fue útil. | The exit interview was useful.
+Archivamos toda la documentación. | We filed all the documentation.
+El despido siguió la ley laboral. | The dismissal followed labor law.
+El empleado quedó satisfecho. | The employee was satisfied.
+La rescisión fue de común acuerdo. | The termination was by mutual agreement.
+Preparamos el cálculo del finiquito. | We prepared the settlement calculation.
+El beneficio termina al salir. | The benefit ends upon leaving.
+Confirmamos la fecha de baja. | We confirmed the termination date.
+El proceso respetó todos los plazos. | The process respected all deadlines.
+Notificamos al sindicato del despido. | We notified the union of the dismissal.
+El empleado recibió su documentación. | The employee received his paperwork.
+
+Debemos cumplir con la ley laboral. | We must comply with labor law.
+El contrato respeta el convenio colectivo. | The contract respects the collective agreement.
+La cláusula protege al trabajador. | The clause protects the worker.
+Necesitamos asesoría jurídica. | We need legal advice.
+La empresa evita riesgos legales. | The company avoids legal risks.
+Guardamos la evidencia del proceso. | We keep the evidence of the process.
+La política de privacidad es estricta. | The privacy policy is strict.
+No compartas datos personales. | Do not share personal data.
+El acceso a la información es limitado. | Access to the information is limited.
+Cumplimos con la protección de datos. | We comply with data protection.
+La normativa cambió este año. | The regulation changed this year.
+El auditor revisó los contratos. | The auditor reviewed the contracts.
+Cada decisión queda documentada. | Every decision is documented.
+La firma digital tiene validez legal. | The digital signature has legal validity.
+El sindicato defiende a los empleados. | The union defends the employees.
+Verificamos la regla vigente. | We check the current rule.
+El proceso judicial sigue en curso. | The lawsuit is still ongoing.
+La empresa respeta los derechos laborales. | The company respects labor rights.
+Preparamos la defensa del caso. | We prepared the defense of the case.
+El abogado analizó el contrato. | The lawyer analyzed the contract.
+La multa se aplica por incumplimiento. | The fine applies for non-compliance.
+Actualizamos las políticas internas. | We updated the internal policies.
+El empleado conoce sus derechos. | The employee knows his rights.
+La cláusula fue mal interpretada. | The clause was misinterpreted.
+Documentamos cada excepción. | We document every exception.
+El riesgo legal es bajo. | The legal risk is low.
+La ley exige un aviso formal. | The law requires a formal notice.
+Consultamos al departamento jurídico. | We consulted the legal department.
+El acuerdo cumple la normativa. | The agreement complies with the regulation.
+Preservamos la confidencialidad. | We preserve confidentiality.
+
+El sistema está fuera de servicio. | The system is down.
+Voy a reiniciar la computadora. | I am going to restart the computer.
+Abre un ticket de soporte. | Open a support ticket.
+La contraseña expiró ayer. | The password expired yesterday.
+No puedo acceder a la plataforma. | I cannot access the platform.
+El archivo no se abre. | The file does not open.
+Actualiza el programa a la última versión. | Update the software to the latest version.
+El servidor está lento hoy. | The server is slow today.
+Guarda una copia de seguridad. | Save a backup.
+El correo no se sincroniza. | The email does not sync.
+Reinstalamos la aplicación. | We reinstalled the application.
+El técnico revisó el equipo. | The technician checked the equipment.
+La conexión se cae con frecuencia. | The connection drops frequently.
+Necesito permisos de administrador. | I need administrator permissions.
+El error aparece al iniciar sesión. | The error appears when logging in.
+Descarga el archivo desde el enlace. | Download the file from the link.
+La actualización tardó una hora. | The update took an hour.
+Borra la memoria caché del navegador. | Clear the browser cache.
+El sistema pide un código de acceso. | The system asks for an access code.
+Configura el correo en el teléfono. | Set up the email on the phone.
+El programa se cerró solo. | The program closed by itself.
+Reporta el problema al equipo técnico. | Report the problem to the tech team.
+La impresora no responde. | The printer does not respond.
+Verifica la conexión a internet. | Check the internet connection.
+El disco está casi lleno. | The disk is almost full.
+Instalamos una nueva herramienta. | We installed a new tool.
+El sistema funciona mejor ahora. | The system works better now.
+Cambia tu contraseña cada mes. | Change your password every month.
+La copia de seguridad se hace de noche. | The backup runs at night.
+El soporte resolvió el caso rápido. | Support solved the case quickly.
+
+El informe muestra una mejora. | The report shows an improvement.
+Los datos no coinciden entre sí. | The data do not match each other.
+Cruzamos las dos bases de datos. | We cross-checked the two databases.
+El gráfico revela una tendencia. | The chart reveals a trend.
+El indicador subió este mes. | The indicator went up this month.
+Necesitamos limpiar los datos. | We need to clean the data.
+La planilla tiene una columna vacía. | The spreadsheet has an empty column.
+El resultado quedó por debajo de lo esperado. | The result came out below expectations.
+Analizamos la causa raíz del problema. | We analyzed the root cause of the problem.
+El promedio bajó respecto al año pasado. | The average dropped compared to last year.
+Filtramos los datos por región. | We filtered the data by region.
+El tablero se actualiza cada día. | The dashboard updates every day.
+La variación es del diez por ciento. | The variance is ten percent.
+Encontré una diferencia en los totales. | I found a difference in the totals.
+El reporte se genera automáticamente. | The report is generated automatically.
+Los números confirman la hipótesis. | The numbers confirm the hypothesis.
+Exportamos la tabla a Excel. | We exported the table to Excel.
+El análisis tomó dos días. | The analysis took two days.
+La muestra incluye cien casos. | The sample includes one hundred cases.
+El error se repite en cada fila. | The error repeats in every row.
+Validamos los datos con la fuente. | We validated the data against the source.
+La métrica principal mejoró. | The main metric improved.
+El pico ocurrió a fin de mes. | The peak happened at the end of the month.
+Redondeamos los valores a dos decimales. | We rounded the values to two decimals.
+El informe resume los hallazgos. | The report summarizes the findings.
+La tendencia es claramente positiva. | The trend is clearly positive.
+Comparamos los datos mes a mes. | We compared the data month by month.
+El total no cierra por un centavo. | The total is off by one cent.
+Presentamos el análisis al equipo. | We presented the analysis to the team.
+Los datos respaldan la decisión. | The data support the decision.
+
+Necesitamos llegar a un acuerdo. | We need to reach an agreement.
+Propongo una solución intermedia. | I propose a middle-ground solution.
+Estoy abierto a negociar el plazo. | I am open to negotiating the deadline.
+Cedamos un poco de cada lado. | Let us give a little from each side.
+La propuesta beneficia a ambas partes. | The proposal benefits both parties.
+Tomemos una decisión hoy. | Let us make a decision today.
+El costo supera el beneficio. | The cost outweighs the benefit.
+Prefiero evaluar todas las opciones. | I prefer to evaluate all the options.
+Este punto no es negociable. | This point is not negotiable.
+Busquemos una alternativa mejor. | Let us look for a better alternative.
+El riesgo es demasiado alto. | The risk is too high.
+Aceptamos la contrapropuesta. | We accepted the counteroffer.
+Definamos los criterios primero. | Let us define the criteria first.
+La decisión depende del presupuesto. | The decision depends on the budget.
+Pesemos los pros y los contras. | Let us weigh the pros and cons.
+Necesito tiempo para pensarlo. | I need time to think about it.
+El acuerdo quedó por escrito. | The agreement was put in writing.
+Estoy de acuerdo con la condición. | I agree with the condition.
+Reconsideremos el precio. | Let us reconsider the price.
+La otra parte pidió más garantías. | The other side asked for more guarantees.
+Cerramos el trato ayer. | We closed the deal yesterday.
+La negociación fue justa. | The negotiation was fair.
+Ofrezcamos un descuento pequeño. | Let us offer a small discount.
+La decisión final es del director. | The final decision is the director's.
+Documentemos lo que acordamos. | Let us document what we agreed.
+El plazo es el punto más difícil. | The deadline is the hardest point.
+Llegamos a un buen acuerdo. | We reached a good agreement.
+Revisemos el contrato antes de firmar. | Let us review the contract before signing.
+La propuesta necesita ajustes. | The proposal needs adjustments.
+Confío en que lleguemos a un acuerdo. | I trust that we will reach an agreement.
+
+¿Tienen mesa para cuatro? | Do you have a table for four?
+Quisiera reservar para esta noche. | I would like to book for tonight.
+¿Cuál es el plato del día? | What is the dish of the day?
+Prefiero algo ligero. | I prefer something light.
+¿Este plato lleva gluten? | Does this dish contain gluten?
+La carne está muy sabrosa. | The meat is very tasty.
+¿Me trae la carta de postres? | Can you bring me the dessert menu?
+Quiero el pescado a la parrilla. | I want the grilled fish.
+¿Puede ser sin cebolla? | Can it be without onion?
+La comida tardó bastante. | The food took quite a while.
+Todo estuvo delicioso, gracias. | Everything was delicious, thank you.
+¿Nos trae la cuenta, por favor? | Can you bring us the check, please?
+¿Aceptan tarjeta de crédito? | Do you accept credit cards?
+Dejemos una buena propina. | Let us leave a good tip.
+El restaurante estaba lleno. | The restaurant was full.
+Pedimos entrada y plato principal. | We ordered an appetizer and a main course.
+El café está frío. | The coffee is cold.
+¿Podría calentar la comida? | Could you heat up the food?
+Quiero probar un postre típico. | I want to try a typical dessert.
+La bebida viene sin hielo. | The drink comes without ice.
+¿Hay opciones vegetarianas disponibles? | Are there vegetarian options available?
+El servicio fue excelente. | The service was excellent.
+Reservé una mesa junto a la ventana. | I booked a table by the window.
+La cuenta llegó con un error. | The check came with a mistake.
+Volveremos pronto a este lugar. | We will come back to this place soon.
+
+¿Cuánto cuesta esto? | How much does this cost?
+Es demasiado caro para mí. | It is too expensive for me.
+¿Hay algún descuento hoy? | Is there any discount today?
+Voy a pagar en efectivo. | I am going to pay in cash.
+¿Puedo pagar en cuotas? | Can I pay in installments?
+Necesito el comprobante de compra. | I need the proof of purchase.
+El producto está en oferta esta semana. | The product is on sale this week.
+¿Tienen otra talla? | Do you have another size?
+Necesito devolver este producto. | I need to return this product.
+Mi tarjeta no funcionó. | My card did not work.
+Me dieron mal el cambio. | They gave me the wrong change.
+¿Aceptan pagos con el teléfono? | Do you accept phone payments?
+El precio incluye impuestos. | The price includes taxes.
+Busco algo más barato. | I am looking for something cheaper.
+La garantía dura un año. | The warranty lasts one year.
+¿Puedo cambiarlo por otro? | Can I exchange it for another one?
+El total es más de lo que pensé. | The total is more than I thought.
+Compré todo en oferta. | I bought everything on sale.
+¿Dónde está la caja? | Where is the checkout?
+Guarda el recibo por si acaso. | Keep the receipt just in case.
+Este modelo es más nuevo. | This model is newer.
+El envío es gratis. | Shipping is free.
+Pagué con tarjeta de débito. | I paid with a debit card.
+La tienda cierra en diez minutos. | The store closes in ten minutes.
+Ahorré bastante con la promoción. | I saved quite a bit with the promotion.
+
+Mi vuelo sale a las seis. | My flight leaves at six.
+Perdí el tren por poco. | I barely missed the train.
+¿A qué hora llega el autobús? | What time does the bus arrive?
+Necesito un taxi al aeropuerto. | I need a taxi to the airport.
+El vuelo tiene un retraso de una hora. | The flight has a one-hour delay.
+¿Dónde recojo el equipaje? | Where do I pick up the luggage?
+Reservé un hotel cerca del centro. | I booked a hotel near downtown.
+El check-in es a las tres. | Check-in is at three.
+¿Me puede indicar el camino? | Can you show me the way?
+Está a diez minutos a pie. | It is ten minutes on foot.
+Tomamos el metro hasta la plaza. | We took the subway to the square.
+El billete de ida y vuelta es más barato. | The round-trip ticket is cheaper.
+Se me olvidó el pasaporte en el hotel. | I forgot my passport at the hotel.
+¿Hay wifi en la habitación? | Is there Wi-Fi in the room?
+El conductor no encontró la dirección. | The driver could not find the address.
+Alquilamos un coche por tres días. | We rented a car for three days.
+El aeropuerto está muy lejos. | The airport is very far.
+Facturé una sola maleta. | I checked one suitcase.
+La estación está por allí. | The station is over there.
+El viaje duró cinco horas. | The trip lasted five hours.
+Confirma tu reserva con anticipación. | Confirm your booking in advance.
+El hotel incluye el desayuno. | The hotel includes breakfast.
+Bajamos en la próxima parada. | We get off at the next stop.
+El vuelo fue muy tranquilo. | The flight was very smooth.
+Volveré a casa el domingo. | I will return home on Sunday.
+
+No me siento bien hoy. | I do not feel well today.
+Tengo que ir al médico. | I have to go to the doctor.
+Me duele mucho la espalda. | My back hurts a lot.
+Necesito descansar un poco. | I need to rest a little.
+Tomé un medicamento para el dolor. | I took medicine for the pain.
+Duermo mejor cuando hago ejercicio. | I sleep better when I exercise.
+Debo beber más agua. | I must drink more water.
+El médico me recomendó reposo. | The doctor recommended rest.
+Me siento mucho mejor ahora. | I feel much better now.
+Camino todos los días media hora. | I walk half an hour every day.
+Tengo una cita con el dentista. | I have a dentist appointment.
+La receta es por una semana. | The prescription is for one week.
+Trato de comer más sano. | I try to eat healthier.
+El estrés me quita el sueño. | Stress keeps me from sleeping.
+Hago pausas durante el trabajo. | I take breaks during work.
+Me tomé el día para recuperarme. | I took the day off to recover.
+La salud es lo más importante. | Health is the most important thing.
+Necesito reducir el café. | I need to cut down on coffee.
+Empecé a hacer ejercicio de nuevo. | I started exercising again.
+El chequeo salió bien. | The checkup went well.
+Me cuido más que antes. | I take better care of myself than before.
+El descanso mejora mi ánimo. | Rest improves my mood.
+Voy al gimnasio por la mañana. | I go to the gym in the morning.
+La buena alimentación da energía. | Good nutrition gives energy.
+Aprendí a manejar el estrés. | I learned to manage stress.
+
+Me despierto a las seis. | I wake up at six.
+Preparo el café antes de salir. | I make coffee before leaving.
+La casa está muy ordenada. | The house is very tidy.
+Tengo que lavar los platos. | I have to wash the dishes.
+El vecino es muy amable. | The neighbor is very kind.
+Salgo de casa a las siete. | I leave home at seven.
+Hoy me toca cocinar. | Today it is my turn to cook.
+La lavadora dejó de funcionar. | The washing machine stopped working.
+Voy al mercado los sábados. | I go to the market on Saturdays.
+Apaga las luces al salir. | Turn off the lights when you leave.
+Necesito arreglar la puerta. | I need to fix the door.
+El perro necesita un paseo. | The dog needs a walk.
+Guardé la compra en la nevera. | I put the groceries in the fridge.
+Riego las plantas por la mañana. | I water the plants in the morning.
+Llamé al técnico por la fuga. | I called the technician about the leak.
+La casa tiene buena iluminación. | The house has good lighting.
+Ordeno el escritorio cada noche. | I tidy the desk every night.
+El ascensor está en reparación. | The elevator is under repair.
+Cerré la llave del gas. | I turned off the gas valve.
+Pago las cuentas a fin de mes. | I pay the bills at the end of the month.
+Barrí la cocina esta mañana. | I swept the kitchen this morning.
+El barrio es muy tranquilo. | The neighborhood is very quiet.
+Preparo la ropa para mañana. | I get the clothes ready for tomorrow.
+Descanso los domingos por la tarde. | I rest on Sunday afternoons.
+La rutina me mantiene organizado. | The routine keeps me organized.
+
+¿Qué te parece la idea? | What do you think of the idea?
+En mi opinión, es lo correcto. | In my opinion, it is the right thing.
+Estoy totalmente de acuerdo. | I completely agree.
+No estoy tan seguro de eso. | I am not so sure about that.
+Tienes toda la razón. | You are absolutely right.
+Depende de cómo lo veas. | It depends on how you see it.
+Me parece una buena señal. | It seems like a good sign to me.
+¿Puedo darte mi opinión? | Can I give you my opinion?
+Prefiero no opinar sobre eso. | I prefer not to comment on that.
+Creo que vale la pena intentarlo. | I think it is worth trying.
+Es más complicado de lo que parece. | It is more complicated than it seems.
+Estoy de acuerdo, pero con dudas. | I agree, but with doubts.
+Cada uno tiene su punto de vista. | Everyone has their own point of view.
+Me alegra mucho oír eso. | I am very glad to hear that.
+Qué buena noticia. | What good news.
+No me lo esperaba. | I did not expect that.
+Cuéntame más sobre eso. | Tell me more about that.
+Suena bien para mí. | It sounds good to me.
+Lo pensaré con calma. | I will think it over calmly.
+Hablamos luego con más detalle. | Let us talk later in more detail.
+Gracias por tu punto de vista. | Thank you for your point of view.
+Entiendo lo que quieres decir. | I understand what you mean.
+No lo había visto así. | I had not seen it that way.
+Estoy contigo en eso. | I am with you on that.
+Podríamos verlo de otra forma. | We could look at it another way.
+Es una pregunta interesante. | That is an interesting question.
+Prefiero ser sincero contigo. | I prefer to be honest with you.
+Me convenciste con ese argumento. | You convinced me with that argument.
+Respeto tu decisión. | I respect your decision.
+Fue un placer conversar contigo. | It was a pleasure talking with you.
