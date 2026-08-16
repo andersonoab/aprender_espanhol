@@ -1,916 +1,509 @@
-Hola, ¿cómo estás?
-Muy bien, gracias.
-¿Y tú?
-¿Qué tal tu día?
-Buenos días.
-Buenas tardes.
-Buenas noches.
-¿Cómo te va?
-Encantado de conocerte.
-Mucho gusto.
-¿De dónde eres?
-Soy de Brasil.
-¿Hablas español?
-Sí, hablo un poco de español.
-No entiendo.
-¿Puedes ayudarme?
-Claro, ¿en qué puedo ayudarte?
-Gracias.
-Muchas gracias.
-De nada.
-Por favor.
-Disculpa.
-Perdón.
-Lo siento.
-No hay problema.
-¿Cuánto cuesta?
-¿Dónde está el baño?
-Estoy perdido.
-¿Puedes repetir, por favor?
-No comprendo.
-Habla más despacio, por favor.
-¿Qué hora es?
-Es la una.
-Son las dos.
-Hoy hace buen tiempo.
-Hace calor.
-Hace frío.
-Está lloviendo.
-Está soleado.
-¿Qué día es hoy?
-Hoy es lunes.
-Mañana será martes.
-Ayer fue domingo.
-¿Dónde vives?
-Vivo en São Paulo.
-¿Tienes hermanos?
-Sí, tengo dos hermanos.
-No, soy hijo único.
-¿Qué estudias?
-Estudio derecho.
-Trabajo en recursos humanos.
-Me gusta aprender idiomas.
-Estoy aprendiendo español.
-Me encanta viajar.
-¿Te gusta la música?
-Sí, me gusta mucho.
-¿Cuál es tu comida favorita?
-Mi comida favorita es la paella.
-¿Tienes mascotas?
-Sí, tengo un perro.
-No tengo mascotas.
-¿Quieres un café?
-Sí, por favor.
-No, gracias.
-¿A qué te dedicas?
-Soy abogado.
-Trabajo como especialista de payroll.
-¿Dónde trabajas?
-Trabajo en Cromex.
-Me siento feliz.
-Estoy cansado.
-Tengo hambre.
-Tengo sed.
-Tengo sueño.
-Estoy ocupado.
-Estoy libre.
-Estoy enfermo.
-Me duele la cabeza.
-Necesito descansar.
-Voy al supermercado.
-Voy al trabajo.
-Voy a casa.
-Voy al cine.
-¿Quieres acompañarme?
-Sí, con gusto.
-No puedo.
-Lo haré luego.
-Tengo que irme.
-Hasta luego.
-Adiós.
-Nos vemos mañana.
-Cuídate.
-Que tengas un buen día.
-Felicidades.
-Feliz cumpleaños.
-¡Salud!
-Bienvenido.
-Bienvenida.
-¿Cómo estuvo tu fin de semana?
-Pasé un buen fin de semana.
-¿Qué planes tienes para hoy?
-No tengo planes.
-Voy a estudiar.
-Voy a trabajar.
-Necesito ayuda con esto.
-¿Puedes mostrarme?
-Claro, mira.
-Te llamaré después.
-Llámame cuando llegues.
-Estoy de acuerdo.
-No estoy de acuerdo.
-Tienes razón.
-No tienes razón.
-¿Qué piensas?
-Pienso que es una buena idea.
-Me parece bien.
-¡Buena suerte!
-¡Feliz Navidad!
-¡Feliz Año Nuevo!
-Disfruta tu viaje.
-Buen viaje.
-Pase lo que pase.
-Sin problema.
-Entendido.
-Comprendido.
-Estoy listo.
-¿Estás listo?
-¿Qué pasa?
-Nada.
-Todo bien.
-¿Qué es esto?
-Esto es un libro.
-Eso es todo.
-No es nada.
-¿Por qué?
-Porque sí.
-¡Claro que sí!
-¡Claro que no!
-Tal vez llueva mañana.
-Quizás podamos salir mañana.
-¿Cómo puedo llegar al aeropuerto?
-Necesito hablar contigo.
-Tengo una reunión a las tres.
-¿Puedes enviarme el informe?
-Te enviaré el informe mañana.
-¿A qué hora empieza la reunión?
-Empieza a las nueve.
-¿Dónde nos reunimos?
-Nos reunimos en la sala de juntas.
-¿Tienes tiempo libre hoy?
-Sí, tengo un rato.
-No, estoy ocupado todo el día.
-¿Puedes ayudarme con este proyecto?
-Claro, envíame los detalles.
-¿Dónde puedo encontrar un taxi?
-Puedes encontrar un taxi en la calle principal.
-¿Cuál es tu número de teléfono?
-Mi número es 12345-67890.
-¿Me puedes llamar luego?
-Te llamaré en una hora.
-Perdí mi teléfono.
-¿Por qué no probaste reiniciar?
-Reiniciar a menudo soluciona el problema.
-¿Qué te parece esta idea?
-Creo que es excelente.
-No estoy seguro.
-Tengo dudas al respecto.
-Tenemos que tomar una decisión.
-Estoy esperando tu respuesta.
-Gracias por tu paciencia.
-Disculpa la demora.
-Se me olvidó llamarte.
-Lo siento por el retraso.
-¿Quieres ir a comer?
-¿Dónde prefieres ir a comer?
-Me gustaría ir a un restaurante italiano.
-¿Te gusta la comida mexicana?
-Me encanta la comida mexicana.
-¿Prefieres té o café?
-Prefiero café.
-¿Puedo probar un poco?
-Claro, adelante.
-¿Te gustaría algo más?
-No, eso es todo.
-¿Puedes pasarme la sal?
-Aquí tienes.
-Esto está delicioso.
-Me siento mejor ahora.
-¿Estás de buen humor?
-Sí, estoy contento.
-No mucho.
-Todo está bajo control.
-No te preocupes.
-Estoy esperando el autobús.
-El autobús llegó tarde.
-Necesito comprar un regalo.
-¿Qué me recomiendas?
-Te recomiendo esta tienda.
-¡Disfruta tu día!
-Gracias por todo.
-Hola, soy Anderson Marinho, especialista en nómina y recursos humanos.
-Tengo más de 15 años de experiencia gestionando procesos de pago.
-Me gradué en Derecho por la Unia ABC en 2017.
-También tengo formación en Desarrollo de Sistemas por Unopar desde 2022.
-Trabajo en Cromex desde abril de 2019 como especialista de nómina.
-He implementado proyectos de migración de nómina en grandes corporaciones.
-Domino sistemas ERP como ADP, Totvs Protheus, Datasul y Oracle HR.
-Tengo experiencia con SAP para procesos de RR. HH.
-Soy responsable de validar y conferir actividades de payroll tercerizadas.
-Garantizo el cumplimiento de la legislación laboral vigente.
-Manejo eSocial y FGTS Digital en sus etapas de envío y carga de datos.
-Participo en auditorías de beneficios y control presupuestario.
-Gestiono el proceso completo de admisiones y rescisiones.
-Elaboro y analizo indicadores de desempeño de RR. HH.
-Desarrollo dashboards en Power BI para análisis de KPIs de nómina.
-Programo en Python para automatizar tareas de RH y administración.
-Diseñé una interfaz con CustomTkinter para presentar layouts CNAB 240.
-Implementé en Streamlit un panel de seguimiento de horas extras y banco de horas.
-Convierto aplicaciones Streamlit a Flask para generar un único ejecutable.
-Integro TTS de Google en proyectos de lectura de normativas legales.
-Uso VBA en Excel y Outlook para automatizar la gestión de correos.
-Creo formularios en Microsoft Forms para medir eNPS y satisfacción interna.
-Desarrollo en Java una herramienta para firmar PDFs con hash lateral.
-Hago análisis de absenteísmo y rotación en el Hospital Alemão Oswaldo Cruz.
-Trabajo con sistemas Senior y Tasy para conciliación de folha de pago.
-Implemento fluxos de aprovação y compliance en procesos de RH.
-Gestiono beneficios de salud, dental, VT, VA y negociaciones con proveedores.
-Oriento a gestores sobre políticas de férias y banco de horas.
-Participo en controle de afastamentos e perícias INSS.
-Suporto em processos trabalhistas e entrevistas de desligamento.
-Planeo e controlo escalas de plantão e trocas de turno.
-Desenvolvo planos de ação de Gente e Gestión para o HAOC.
-Crio indicadores de custo médio por colaborador e horas extras.
-Analiso desvios anormais em contas contábeis da folha.
-Consolido bases de dados de janeiro a maio para evolução de despesas.
-Destaco variações atípicas em cartões de alerta no dashboard.
-Trabalho com DAX para cálculos avançados no Power BI.
-Criei o logotipo da Igarapé Digital e aplico em todas as imagens.
-Desenvolvo roteiros de treinamento em automação para RH.
-Dou aulas de inglês com foco em termos de folha de pagamento.
-Elaboro glossários bilíngues ao final de cada sessão de estudo.
-Projetei um projeto de Arduino para simular um micro-ondas em C.
-Sigo um roadmap de aprendizado de C orientado a hardware.
-Participo como headhunter para vagas de analista sênior de folha.
-Crio mensagens privadas para recrutadores no LinkedIn.
-Gero modelos de currículo ATS-friendly com palavras-chave ocultas.
-Tenho experiência com ConARH e debates sobre automação de e-mails.
-Desenvolvo VBA para ler e classificar perguntas não estruturadas de colaboradores.
-Participei da missão de informatização do FGTS Digital.
-Realizei carga de desligados no eSocial versão 2018.
-Implantei projetos de cultura organizacional em M&A globais.
-Liderei equipes em General Electric, Clear Channel e Nippon Seiki.
-Desenvolvi soluções de people analytics para RH estratégico.
-Analiso dados de atendimento de Gente e Gestão por colaborador.
-Gero relatórios exportáveis para Excel em Streamlit.
-Transformo relatórios complexos em visualizações interativas.
-Planejo dinâmicas de puzzle sobre eventos do eSocial.
-Criei quizzes interativos para treinamento de gestores.
-Usei QR codes e contadores de tempo em dinâmicas de equipe.
-Desenvolvi puzzles em HTML, CSS e JavaScript para reuniões.
-Defini peças de quebra-cabeça com perguntas sobre folha e SST.
-Integrei o ChatGPT para orientar atividades de dinâmicas presenciais.
-Criei espaço colaborativo “COLABORAÇÃO HAOC” em puzzle interativo.
-Avaliei impacto de descumprimento de regras de ponto e férias.
-Treinei gestores sobre impactos de não conformidade em SST e estágio.
-Estruturei um descritivo de serviços de consultoria para Cromex.
-Consolidei templates de 21 chefias em orçamento de Desenvolvimento Humano.
-Atualizei premissas orçamentárias e verifiquei contas gerais em SAP.
-Entreguei carga final de orçamento com consolidação detalhada.
-Coordenei revisão e carga geral com prazos de 05/10 e 12/10.
-Criei script VBA para Outlook que salva remetentes em planilha OneDrive.
-Implementei classificação automática de assuntos de e-mail.
-Salvei e-mails com anexos em pastas estruturadas no OneDrive.
-Projetei sistema de leitura online de frases em várias línguas.
-Desenvolvi ferramenta para aprender inglês com slots de palavras.
-Integro base de frases do GitHub automaticamente no app.
-Aprimoro layout e design de dashboards de atendimento.
-Forneço dicas de formatação de gráficos em Power BI.
-Aprendo frases coloquiais em inglês para entrevistas de payroll.
-Repito cada frase palavra por palavra para melhorar a pronúncia.
-Crio listas de 500 frases temáticas para memorizar estruturas.
-Organizo livro “Parceiros de Viagem” em ordem cronológica linear.
-Estruturo conteúdos narrativos para facilitar a leitura.
-Implemento verificadores de headcount e produtividade hospitalar.
-Analiso número de pacientes versus colaboradores em UI, PA e UTI.
-Automatizo cruzamentos de dados de INSS e eSocial mensalmente.
-Projetos em Python para layout CNAB 240 de folha robusto.
-Desenvolvo apps em Flask para gerar executáveis sem dependências.
-Integro bibliotecas de voz a projetos jurídicos de leitura de leis.
-Ensino programação e inglês como pilares da Igarapé Digital.
-Sirvo de ponte entre tecnologia e jurídico em RH.
-Busco constantemente novas soluções para aumentar a produtividade.
-Meu método é lógico y socrático, promoviendo el pensamiento crítico.
-Me adapto rápido a nuevos sistemas y estándares de compliance.
-Valoro la precisión legal y la eficiencia en cada proceso.
-Comparto conocimientos en Python, VBA, Java y DAX con colegas.
-Soy apasionado por la innovación en recursos humanos.
-Trabajo colaborativamente para optimizar flujos de trabajo.
-Mi objetivo es impulsar la transformación digital en RH.
-Me involucro en cada detalle para asegurar la calidad.
-Mantengo una comunicación clara y estructurada con los equipos.
-Desarrollo soluciones escalables para organizaciones complejas.
-Estoy siempre disponible para ofrecer soporte y mentoría.
-Adapto mis enseñanzas al nivel de cada aprendiz.
-Fomento el aprendizaje continuo y la mejora de procesos.
-Me defino como un profesional comprometido y proactivo.
-Espero continuar aportando valor a tu empresa con mi experiencia.
-He estado trabajando en este informe desde principios de marzo y casi está listo.
-Cuando comience la reunión, ya habré recopilado todos los datos necesarios.
-Sugirió implementar un nuevo flujo de trabajo para optimizar nuestros procesos.
-Si hubiera sabido del cambio de política antes, habría ajustado el presupuesto.
-A pesar de la fecha límite tan ajustada, el equipo logró entregar el proyecto a tiempo.
-Había completado la formación antes de asumir el rol de liderazgo.
-Siempre que el servidor se caiga, seguimos un procedimiento de escalada predefinido.
-Aunque nos encontramos con varios obstáculos, el resultado final fue satisfactorio.
-Estoy considerando si debo invertir en herramientas de automatización adicionales el próximo trimestre.
-Si hubieran consultado al asesor legal antes, podrían haber evitado esas responsabilidades.
-La nueva actualización del software ha mejorado significativamente el rendimiento del sistema.
-Deberías haber recibido mi correo electrónico ya; házmelo saber si no es así.
-En caso de cualquier discrepancia, notifique al departamento de cumplimiento de inmediato.
-Se sorprendió al descubrir que su propuesta había sido aceptada sin revisiones.
-Al revisar informes anteriores, puedes identificar patrones y pronosticar tendencias futuras.
-Para cuando termine el mes, habrán completado la fase de pruebas beta.
-De estar en tu lugar, priorizaría los comentarios de los interesados por encima de la reducción de costes.
-Después de finalizar el análisis, elaboró un resumen ejecutivo exhaustivo.
-Es esencial que todos los miembros del equipo cumplan los nuevos protocolos de seguridad.
-A pesar de tener poca experiencia en programación, aprendió Python con rapidez.
-El director financiero insistió en que presentáramos las previsiones financieras en PDF y Excel.
-Una vez firmado el contrato, podremos comenzar la fase de implementación.
-Recomiendo asignar más recursos al departamento de atención al cliente.
-Si la campaña de marketing hubiera sido más dirigida, las tasas de participación habrían aumentado.
-Debemos asegurar el cumplimiento de las normativas locales e internacionales.
-Siempre que sea posible, intenta automatizar las tareas repetitivas para ahorrar tiempo.
-Aunque la inversión inicial fue considerable, el retorno superó las expectativas.
-Explicó el motivo de los recortes presupuestarios durante la revisión trimestral.
-Delegando responsabilidades de forma eficaz, puedes mejorar la productividad del equipo.
-Si no hubieras asistido al taller, aún podrías desconocer esas herramientas.
-Habiendo completado la evaluación de riesgos, presentó las estrategias de mitigación.
-Están planeando lanzar la nueva interfaz la próxima semana.
-Deberíamos haber actualizado la base de datos antes de generar el informe final.
-Aunque el cliente solicitó cambios en el último momento, los acomodamos.
-Se pregunta si los niveles de personal actuales son suficientes para el proyecto.
-Al cruzar los registros de nómina y control horario, se identificaron discrepancias.
-Si encuentras algún error, borra la caché del navegador y vuelve a intentarlo.
-Presentará los resultados trimestrales en la reunión de la junta mañana.
-A pesar de la complejidad de la tarea, la afrontó con entusiasmo.
-Si hubiéramos sabido del cambio normativo antes, podríamos haber evitado sanciones.
-Es crucial mantener una documentación precisa durante todo el proceso de auditoría.
-Siempre que lancen una nueva funcionalidad, recopilan retroalimentación de los usuarios.
-Aunque habla español con fluidez, prefiere negociar en inglés.
-Estoy planeando colaborar con el departamento de TI en un proyecto de integración.
-Analizando datos históricos, podemos anticipar fluctuaciones del mercado.
-Si hubiera seguido el protocolo, el incidente no habría escalado.
-Fomentan el teletrabajo para reducir los costes de oficina.
-A pesar del escepticismo inicial, el programa piloto demostró claros beneficios.
-Lleva más de cinco años liderando equipos multifuncionales.
-Debemos evaluar el impacto de estos cambios en la moral de los empleados.
-Si hubieras completado la encuesta, habrías influido en el diseño final.
-Enfatizó la importancia de la formación continua para el desarrollo profesional.
-Siempre que sea posible, documenta cada paso del proceso para futuras referencias.
-Aunque el presupuesto es ajustado, debemos invertir en medidas esenciales de ciberseguridad.
-Espero con interés debatir estas propuestas en el taller.
-Al integrar analíticas en tiempo real, mejoramos la toma de decisiones.
-Si no hubiéramos pospuesto la reunión, ya habríamos resuelto ese asunto.
-A pesar de las diferencias culturales, el equipo colaboró eficazmente.
-La consultora recomendó revisar los procedimientos de control interno.
-Con el fin de cumplir el plazo, trabajamos durante el fin de semana.
-Aunque el informe era extenso, logró mantener la atención de la audiencia.
-Se comprometió a responder todas las consultas antes del viernes.
-Para garantizar la calidad, implementamos un proceso de revisión por pares.
-Si me hubieras consultado, te habría aconsejado otra estrategia.
-Al diseñar el tablero de control, priorizamos la usabilidad.
-Aunque carecíamos de datos completos, tomamos decisiones informadas.
-La reunión se aplazó debido a problemas técnicos imprevistos.
-Cuando finalices el proyecto, prepara una presentación para la dirección.
-Aunque no era su responsabilidad directa, asumió la tarea sin dudar.
-Con el aumento de la demanda, consideramos contratar personal adicional.
-Si hace buen tiempo mañana, haremos la sesión de formación al aire libre.
-A pesar de las críticas iniciales, la propuesta fue bien recibida.
-Llevamos a cabo una revisión exhaustiva de los procesos operativos.
-Para mejorar la retención, es fundamental analizar las causas de rotación.
-Aunque el sistema falló, logramos restaurar los servicios en pocas horas.
-Se ha demostrado que la automatización reduce los errores humanos.
-Si el proveedor no cumple, iniciaremos el procedimiento de rescisión.
-Con la nueva normativa, adaptamos nuestros procedimientos internos.
-Aunque no es común, podemos realizar ajustes extraordinarios si es necesario.
-El equipo de calidad supervisa cada fase del proyecto.
-Para optimizar recursos, centralizamos ciertas funciones administrativas.
-Si hubiera disponibilidad presupuestaria, ampliaríamos el programa de formación.
-A pesar de la presión, mantuvo la calma y resolvió el conflicto.
-Cuando haya finalizado la auditoría, compartiremos las conclusiones.
-Aunque recibió una oferta mejor, decidió permanecer en la empresa.
-Con el objetivo de incrementar la eficiencia, revisamos los indicadores clave.
-Si las condiciones cambian, revaluaremos el plan estratégico.
-Aunque parezca una tarea sencilla, requiere una planificación meticulosa.
-Para garantizar la confidencialidad, establecimos protocolos de acceso.
-Si encontramos irregularidades, informaremos al comité de ética.
-A pesar de las restricciones legales, cumplimos con todos los requisitos.
-Cuando el proyecto esté en marcha, evaluaremos los resultados semestralmente.
-Aunque el mercado sea volátil, mantendremos una estrategia conservadora.
-Con el nuevo software, agilizamos los procesos de aprobación.
-Si el equipo necesita apoyo adicional, organizaré sesiones de capacitación.
-Aunque trabajamos de forma remota, fomentamos la comunicación constante.
-Para mejorar la transparencia, publicaremos un informe mensual de avances.
-Si deseas contribuir, envía tus sugerencias antes del mediodía.
-A pesar de su experiencia limitada, demostró gran capacidad de adaptación.
-Cuando completes la tarea, notificaré a los interesados.
-Aunque la fase de pruebas fue larga, redujo significativamente los riesgos.
-Para maximizar el rendimiento, mantén actualizados todos los sistemas.
-Si recibes feedback negativo, considera proponer soluciones alternativas.
-A pesar de las diferencias de zona horaria, coordinamos reuniones efectivas.
-Cuando revisemos el presupuesto, tendremos en cuenta los costes imprevistos.
-Aunque carecemos de ciertos recursos, seguiremos buscando soluciones creativas.
-Para asegurar el éxito, definimos objetivos SMART para cada fase.
-Si el informe no cumple los estándares, solicitaremos una revisión adicional.
-A pesar de las barreras lingüísticas, logramos una comunicación clara con el cliente.
-Cuando el plan esté aprobado, iniciaremos la ejecución de inmediato.
-El vaso está vacío.
-La vaca come hierba.
-El bebé juega con su balón.
-Vicente visita el valle.
-Silvia sube la colina.
-El volcán entró en erupción.
-El viento mueve el velero.
-Borja volvió tarde.
-Las aves vuelan alto.
-La bomba explota en el edificio.
-Bovinos pastan en el campo.
-La bobina vibra con la corriente.
-En la cueva viven murciélagos.
-El violín suena con melodía.
-La biblioteca está abierta.
-Valencia es una ciudad costera.
-El vaso se rompió.
-Bilbao es mi ciudad favorita.
-Vladimir vino a visitar.
-El bronce brilla al sol.
-El búho vuela de noche.
-El borde del valle es abrupto.
-El cielo está despejado.
-El ciervo cruza el camino.
-La sesión comienza a las siete.
-Marta cose la tela con cuidado.
-El cocinero cocina sopa.
-El cosquilleo es molesto.
-La casa de mi amigo es blanca.
-La caza del zorro finalizó temprano.
-El celular suena constantemente.
-Cecilia cenó cereal saludable.
-El cereal está caducado.
-El circo llegó a la ciudad.
-Cecilia sacó la caja del coche.
-El ciempiés tiene cien patas.
-La ciencia avanza rápidamente.
-El cisne nada en el lago.
-La cita fue cancelada.
-El ciclón causó caos.
-El zapato está en la sala.
-La zona azul está prohibida.
-El zorro cazó una presa.
-La fuerza de la corriente es intensa.
-El zumo de frutas está frío.
-El abrazo fue sincero.
-La ansiedad es alta antes de la cena.
-El pez estaba vivo en la pecera.
-Ella zambulle su cuerpo en el agua.
-La cerveza está helada.
-El gesto del juez fue justo.
-Jorge juega al golf.
-Las galletas de jengibre saben bien.
-El gigante gritó con fuerza.
-El viaje fue largo.
-El juez juzgó al joven.
-Georgia es un estado de EE. UU.
-El girasol gira con el sol.
-Su juguete es de plástico.
-La jirafa da zancadas.
-El yate salió temprano.
-La llave está en la puerta.
-Lloret de Mar es turístico.
-Ella lloró de emoción.
-El mexicano usa yuca en sus platos.
-El valle y la llanura se extienden.
-El llanto resonó en la lluvia.
-Cambiaron la llave por la yarda.
-El río lleva la lluvia al valle.
-El caballo lleva la carga.
-El perro corre por el parque.
-El pero no entiende la broma.
-El carro pasó por la carretera.
-La región recibe frecuentes lluvias.
-El arroz estaba en el plato.
-Mario rió al escuchar el chiste.
-La torre medieval es muy antigua.
-El toro atraviesa la arena.
-El autor escribió un relato.
-La corriente eléctrica es peligrosa.
-El humo del hogar huele mal.
-Hubo un huracán anoche.
-Honestamente, no recuerdo nada.
-El héroe halló la huella del lobo.
-El horno está caliente.
-Hervir el agua antes de usarla.
-El dato es importante.
-El trato fue justo.
-El alumno dictó el discurso.
-El disco contiene datos valiosos.
-El pato nada en el estanque.
-El plato está sobre la mesa.
-El queso está derretido.
-La química es fascinante.
-México exporta mezcal.
-La xilografía es una técnica antigua.
-El año nuevo celebra el comienzo.
-Encontré un niño en el jardín.
-El restaurante reabrió hace un mes.
-El equipo de proyecto entregó el informe a tiempo.
-La gente aprecia la transparencia en la comunicación.
-Actualmente estamos analizando los datos de nómina.
-Por favor, colócalo en la carpeta compartida.
-Compruébalo antes de enviarlo al cliente.
-¿Puedes traerme los documentos pendientes?
-Recordé enviar el correo ayer por la tarde.
-Ellos asisten a la capacitación cada martes.
-Ella firmó el contrato sin inconvenientes.
-Estamos revisando las especificaciones técnicas.
-La oficina central cierra a las seis de la tarde.
-Necesito actualizar el presupuesto mensual.
-Por favor, resúmelo en un documento breve.
-El cliente aprobó la propuesta sin modificaciones.
-Implementaron nuevas reglas de compliance este trimestre.
-Lo adjunté al correo electrónico para tu revisión.
-Entregaron los resultados antes de la fecha límite.
-La política de beneficios incluye seguro médico.
-Revisaremos las facturas y notificaremos cualquier error.
-La empresa ofreció un taller de desarrollo profesional.
-Solicita la información con antelación suficiente.
-El sistema registra automáticamente las horas extras.
-Hemos optimizado el proceso de auditoría interna.
-Descarté los duplicados para evitar discrepancias.
-La colaboración entre departamentos ha mejorado.
-Generé el informe financiero con gráficos dinámicos.
-Integramos el software de gestión de recursos humanos.
-Ajustamos los cálculos según las nuevas normativas.
-Convocamos una reunión urgente para tratar el tema.
-El director aprobó el plan estratégico 2025.
-Mandé la invitación a todos los asistentes.
-Ellos confirmaron su asistencia antes del mediodía.
-La contabilidad cerró el ejercicio fiscal sin deudas.
-Cualquier modificación debe registrarse oficialmente.
-La auditoría externa comenzó la revisión ayer.
-Me aseguraré de enviarlo antes del viernes.
-Analizamos las tendencias de rotación de personal.
-La cubierta del manual fue diseñada profesionalmente.
-Cumplimos con todos los requisitos legales vigentes.
-Enviaré la versión final para tu aprobación.
-Configuramos alertas para los pagos vencidos.
-Actualiza los indicadores de desempeño semanalmente.
-Validamos los datos en el sistema de ERP.
-Promovimos la cultura de feedback continuo.
-Gestionamos el calendario de vacaciones anualmente.
-Supervisé la implantación del módulo de nómina.
-Exporté las plantillas a formato editable.
-Recopilé las firmas electrónicas de todos.
-Solicitamos una extensión de plazo al proveedor.
-Dividimos el proyecto en tareas semanales.
-Actualizaré el archivo con los nuevos porcentajes.
-Presentamos el resumen ejecutivo a la junta.
-Ajusta el formato según el manual de estilo.
-La plantilla de Excel calcula automáticamente totales.
-Coordinaron la sesión de capacitación con RR. HH.
-Agregué comentarios para aclarar los puntos críticos.
-Aprobamos el cronograma con los plazos definidos.
-Cargué el documento en la plataforma interna.
-Realizamos pruebas de validación de datos.
-Negociamos las tarifas con los proveedores clave.
-Escalé el incidente al equipo de TI.
-Finalicé la implementación antes de fin de mes.
-Actualizamos el manual de procedimientos internos.
-En caso de dudas, contacta al soporte técnico.
-Programé una alerta para el vencimiento de contratos.
-La recopilación de datos fue más eficiente.
-Presentamos un informe comparativo de costos.
-Elaboramos un plan de contingencia para retrasos.
-Eliminé los registros obsoletos del sistema.
-Lo verifiqué dos veces para evitar errores.
-Confirmé la conformidad con la normativa ISO.
-Impulsamos iniciativas de people analytics global.
-Registramos las métricas de productividad mensual.
-Incluimos un análisis de desviaciones presupuestarias.
-Subí la documentación al repositorio de SharePoint.
-Establecimos indicadores clave de rendimiento.
-Programamos la ejecución automática de reportes.
-Supervisaron la conciliación bancaria diariamente.
-Detallé los importes de cargas sociales por empleado.
-Ajustamos las horas extraordinarias conforme a la ley.
-Generamos un dashboard interactivo en Power BI.
-Realicé una presentación para el comité directivo.
-Gestiono las licencias laborales y ausencias médicas.
-Informé a la dirección sobre riesgos potenciales.
-Comparé los resultados con el presupuesto proyectado.
-Ensayé la demostración del sistema antes de la entrega.
-Elaboré un tutorial para usuarios nuevos.
-Realicé un análisis de brechas de cumplimiento.
-Asigné responsables para cada fase del proyecto.
-Envío recordatorios automáticos a los colaboradores.
-Elaboramos políticas de remuneración equitativa.
-Verifiqué la correcta imputación contable de pagos.
-Configuré permisos de acceso a la carpeta segura.
-Validamos la autenticidad de los comprobantes.
-Programamos auditorías periódicas de la nómina.
-Analizamos el impacto de cambios legislativos.
-Enlaza con el sistema bancario mediante API.
-Documentamos las mejoras implementadas.
-Presenté un informe de people analytics trimestral.
-Revisamos los procedimientos tras cada cierre mensual.
-El diseño de un plan de acogida efectivo mejora la integración de los nuevos empleados.
-La evaluación del desempeño anual debe basarse en objetivos SMART y feedback continuo.
-El análisis de rotación de personal permite identificar causas de desmotivación y absentismo.
-Implementar un programa de mentores favorece el desarrollo de talento interno.
-La gestión de la nómina requiere precisión en cálculos de horas extras y deducciones.
-El registro de la formación continua garantiza el cumplimiento de normativas de capacitación.
-Un buen employer branding atrae candidatos con competencias alineadas a la cultura organizacional.
-Los indicadores de clima laboral ayudan a diseñar acciones de bienestar y engagement.
-La elaboración de descripciones de puestos claras evita confusiones sobre responsabilidades.
-La automatización de procesos de selección reduce tiempos de respuesta y mejora la experiencia del candidato.
-El análisis de people analytics facilita la toma de decisiones basadas en datos de RR. HH.
-Un sistema HRIS centralizado optimiza la gestión de datos y reportes de recursos humanos.
-El desarrollo de planes de sucesión asegura la continuidad del liderazgo en la organización.
-La comunicación interna transparente fortalece la confianza entre los colaboradores.
-La política de diversidad e inclusión promueve ambientes laborales más equitativos.
-La negociación de convenios colectivos implica la participación activa de representantes sindicales.
-Una estrategia de retención de talento debe contemplar incentivos y oportunidades de crecimiento.
-La gestión de ausencias y permisos requiere un control preciso para evitar brechas operativas.
-La implementación de encuestas de pulso periódicas permite medir el clima en tiempo real.
-La formación en habilidades blandas complementa los programas técnicos de capacitación.
-La evaluación 360 grados aporta una visión integral del desempeño de cada empleado.
-Un proceso de selección estructurado incluye pruebas psicométricas y entrevistas por competencias.
-La gestión de expatriados implica el cumplimiento de normativas fiscales y de seguridad social.
-La planificación de turnos debe equilibrar la carga de trabajo y garantizar el descanso mínimo.
-La conciliación de beneficios suplementarios requiere acuerdos claros con proveedores externos.
-El análisis de costo-beneficio de un programa de formación justifica la inversión realizada.
-La actualización constante del libro de políticas internas garantiza la conformidad legal.
-La implementación de un sistema de reconocimiento incrementa la motivación de los equipos.
-La elaboración de un plan de igualdad de género responde a exigencias legales y éticas.
-El proceso de desvinculación debe incluir entrevistas de salida para recabar feedback valioso.
-La gestión de conflictos laborales se resuelve eficazmente mediante mediación interna.
-La planificación estratégica de RR. HH. alinea el talento con los objetivos corporativos.
-La evaluación del potencial identifica a los futuros líderes dentro de la organización.
-Un programa de bienestar físico y mental reduce el ausentismo y mejora la productividad.
-La digitalización de expedientes de personal agiliza auditorías y consultoría interna.
-La definición de competencias clave orienta la selección y el desarrollo de colaboradores.
-La calendarización de evaluaciones parciales permite un seguimiento continuo del desempeño.
-La gestión de la movilidad interna promueve el desarrollo profesional y la retención.
-La optimización de procesos de onboarding reduce la tasa de abandono temprana.
-La elaboración de informes trimestrales de RR. HH. apoya la toma de decisiones directivas.
-La garantía de privacidad de datos personales cumple con la legislación de protección de datos.
-La adaptación de políticas a entornos de teletrabajo requiere un enfoque flexible y equitativo.
-La integración de chatbots en procesos de consulta mejora la atención al empleado.
-La creación de un portal de autoservicio incrementa la eficiencia en trámites internos.
-La gestión de capacitaciones virtuales amplía el acceso al aprendizaje de forma remota.
-La evaluación de riesgos psicosociales protege la salud mental de los colaboradores.
-La definición de metas trimestrales en equipo fomenta la responsabilidad compartida.
-La coordinación entre Recursos Humanos y Finanzas asegura la coherencia en presupuestos.
-La implementación de un programa de referidos incentiva la captación de talento cualificado.
-La modernización de procesos con RPA agiliza tareas repetitivas de administración de personal.
-La medición de la tasa de conversión de candidatos a empleados identifica puntos de mejora.
-La planificación de eventos de integración fortalece la cultura de equipo.
-La revisión anual de sueldos y salario variable responde a las condiciones del mercado laboral.
-La creación de mapas de talento visualiza las capacidades disponibles y las brechas de competencias.
-La elaboración de manuales de bienvenida facilita la adaptación de los nuevos colaboradores.
-La gestión de la marca empleadora a través de redes sociales atrae perfiles congruentes.
-El desarrollo de itinerarios de carrera motiva a los empleados a proyectarse a largo plazo.
-La implementación de evaluaciones de salud ocupacional preserva el bienestar físico.
-La segmentación de la comunicación interna permite mensajes específicos para cada área.
-La integración de analytics en RR. HH. mejora la predicción de necesidades de personal.
-La adaptación a normativas locales e internacionales requiere seguimiento permanente.
-La coordinación de planes de formación interna y externa equilibra costos y calidad.
-La implementación de jornadas flexibles mejora la conciliación entre vida laboral y personal.
-La supervisión periódica de indicadores clave de RR. HH. mantiene el control operativo.
-La elaboración de programas de mentoring inverso fomenta el intercambio generacional.
-La evaluación del retorno de la inversión en formación mide el impacto en resultados.
-La elaboración de políticas de teletrabajo requiere definir derechos y responsabilidades claras.
-La gestión de expatriaciones incluye apoyo en reubicación y adaptación cultural.
-La ejecución de auditorías de cumplimiento laboral previene sanciones regulatorias.
-La definición de umbrales de absentismo activa planes de acción preventivos.
-La coordinación de beneficios voluntarios aumenta el atractivo del paquete retributivo.
-La planificación de la plantilla debe considerar picos de demanda estacionales.
-La implementación de sistemas de VR para capacitación mejora la retención de información.
-La revisión de estructuras organizativas optimiza la eficiencia y reduce la burocracia.
-La gestión de permisos retribuidos y no retribuidos requiere trazabilidad completa.
-La generación de informes de diversidad muestra el avance en políticas inclusivas.
-La estructura de comités de igualdad fortalece la gobernanza interna de RR. HH.
-La planificación de sustituciones críticas garantiza la continuidad operativa.
-La elaboración de cláusulas de confidencialidad protege la información estratégica.
-La monitorización de riesgos legales laborales reduce la exposición a litigios.
-La coordinación de planes de vacaciones previene acumulaciones excesivas de días.
-La revisión de políticas de compensación variable favorece la motivación por resultados.
-La medición de la satisfacción interna tras cambios organizativos mide su eficacia.
-La generación de paneles de control gamificados aumenta el engagement en RR. HH.
-La gestión de contingencias en emergencias sanitarias requiere protocolos claros.
-La elaboración de informes de benchmarking compara las prácticas con el mercado.
-La definición de perfiles de liderazgo orienta la formación y sucesión interna.
-La implementación de chat de voz y video para consultas agiliza la comunicación.
-La automatización de nómina con blockchain mejora la seguridad y la trazabilidad.
-La creación de alianzas con universidades enriquece el pipeline de talento joven.
-La estructuración de planes de acción de diversidad mide resultados concretos.
-La elaboración de mapas de calor de desempeño identifica áreas de alto rendimiento.
-La definición de objetivos anuales alineados con la estrategia corporativa es esencial.
-La coordinación de planes de incorporación de Software HR agiliza implementaciones.
-La gestión de conflictos interpersonales se aborda con mediación especializada.
-La actualización de políticas de retribución equitativa previene discriminaciones.
-La elaboración de estudios de satisfacción post-cambio organiza feedback sistemático.
-La creación de comunidades de práctica fomenta el intercambio de conocimiento.
-La medición del costo de rotación de personal sustenta las iniciativas de retención.
-La implementación de dashboards interactivos facilita la visualización de KPIs de RR. HH.
-Que la fuerza del análisis de datos esté contigo en cada informe de nómina.
-La vida es como una nómina: siempre hay sorpresas ocultas en las deducciones.
-Estamos adentrándonos en un territorio desconocido: aprieta los cinturones y revisa los cálculos.
-Volví al sistema de nómina como un héroe solitario, listo para enfrentar el cierre mensual.
-No subestimes el poder de los indicadores; ellos siempre encuentran la forma de hablar.
-Yo soy el guardián de los registros, el que protege el flujo de información de people analytics.
-En un mundo de variables, solo los persistentes dominan el tablero de indicadores.
-Tú no puedes manejar la verdad… del informe de horas extras.
-Cada gran viaje empieza con un solo clic en el ERP.
-Dijeron que era imposible migrar el sistema a tiempo; nosotros lo hicimos realidad.
-Ella irrumpió en la sala como un rayo de claridad en los procesos de nómina.
-A veces, descubrir quién eres requiere perder todos los respaldos.
-Esta no es una auditoría cualquiera; es la prueba final que definirá nuestro destino.
-Corrió contra el reloj para cerrar la contabilidad antes de medianoche.
-El secreto de la eficiencia está oculto en las celdas más profundas de la hoja de cálculo.
-Cuando el sistema falla, respira hondo y solicita ayuda al soporte técnico.
-Soy tu gestor, y tienes prohibido alterar mi informe.
-El código estaba corrupto, pero la esperanza persistía entre líneas de Python.
-No todos los héroes llevan capa; algunos escriben macros en VBA.
-Creíste que era solo un correo electrónico, pero es la furia de un flujo de aprobaciones sin fin.
-El futuro de RR. HH. vive en la nube, y no me refiero a la lluvia.
-Despierta tu potencial y convierte datos crudos en escenas épicas.
-Ella firmó esa nómina con la determinación de un comandante.
-Nada une a un equipo como enfrentar juntos una conciliación bancaria.
-La última hora extra decide quién eres antes de fichar la salida.
-En ningún lugar es tan desolado como una nómina sin revisión.
-Dicen que el control presupuestario es aburrido; no sabían de plazos incumplidos.
-Detrás de cada dashboard de people analytics hay una historia esperando ser contada.
-“Quiero ver confianza en mi hoja de cálculo”, grité al gerente.
-Construye buenos indicadores y los reportes vendrán a ti.
-Estudió cada línea de datos como un detective busca pistas.
-La noche cayó y los monitores revelaron errores ocultos.
-Algunos juegan con datos, pero nosotros dominamos el arte de encontrar patrones.
-Secretos de compliance reposan en las notas al pie de contratos.
-Cuando el plazo se acerca, la adrenalina supera al café más fuerte.
-Encuentra la fórmula perfecta y serás recordado en la saga de la nómina.
-Ellos regresan… cada vez que aparece un error 500.
-Sé el protagonista de tu propia automatización de procesos.
-El hackeo fue el inicio; el verdadero reto es mantener la seguridad.
-Nadie puede detenernos si hablamos el idioma de las APIs.
-Ella susurró: “Actualiza el ERP” y el mundo respondió en código.
-¿Has mirado directamente a los ojos de un dashboard vacío?
-La cuenta regresiva comenzó en cuanto se cargó el primer lote de datos.
-Somos la resistencia ante el caos contable.
-El Código Da Vinci guarda menos misterios que ese módulo sin documentación.
-Subestimar el manual de procedimientos puede ser fatal.
-Cada fin de mes es la oportunidad de reescribir la leyenda.
-Creyó en promesas que se evaporaron al generar los reportes.
-En silencio, actualizó la estructura salarial y cambió el destino de la empresa.
-“Estamos a bordo del navío de la nómina”, declaró el capitán de RR. HH.
-Prepárate para la revolución digital dentro del departamento.
-La clave de la eficiencia se halla entre IFs y VLOOKUPs magistrales.
-Algunos ven filas y columnas; nosotros vemos mapas del tesoro corporativo.
-Vinieron en son de paz… y trajeron auditorías sorpresa.
-No hay vuelta atrás cuando se habla de cierre de nómina.
-La última celda editada selló el destino financiero de la compañía.
-No eres solo analista, eres arquitecto de people analytics.
-En cada fórmula arde nuestra determinación.
-Recorrí galaxias de datos y regresé con insights.
-Cuando el sistema cae, nos levantamos con un backup actualizado.
-La furia de un gestor de RR. HH. es peor que el villano más temido.
-Descubre al héroe que hay en ti antes del próximo lote de payroll.
-Ellos intentarán sabotear tus scripts; estarás preparado.
-La contabilidad es ajedrez; nosotros movemos las piezas maestras.
-Si la vida es un film, nuestra banda sonora es el tecleo frenético de macros.
-Al final, el balance de cuentas siempre prevalece.
-Creyeron que los datos eran fríos; probamos que tienen alma.
-“Veo contornos de fraude y vengo por ellos”, susurró el auditor.
-El universo conspiró para retrasarnos, pero resistimos.
-¿Estás listo para ejecutar el script más crucial de tu carrera?
-Cuando el polvo se asiente, quedarán solo logs y relatos de superación.
-No te arrepientas de pulsar “Guardar” dos veces.
-La tormenta de notificaciones ha llegado; es hora de actuar.
-Alguien debe narrar la historia detrás de cada 0 y cada 1.
-El reloj marcó medianoche y el cierre de nómina se consumó.
-Nació una nueva era de automatización en aquel laboratorio.
-El poder de una hoja bien organizada puede transformar realidades.
-Dicen que payroll es burocracia; nosotros hacemos de ella innovación.
-Si controlas las variables, controlas el futuro laboral.
-“Este módulo es indestructible”, exclamó el desarrollador.
-Cuando todo falle, recuerda: la nómina siempre habla con claridad.
-Construimos puentes entre áreas, línea a línea de código.
-Eres la última esperanza contra el caos financiero.
-No hay villano peor que “Error 404: reporte no encontrado”.
-Intentaron silenciarnos con planillas corruptas; fracasaron.
-Subestimar un buen índice es jugar con fuego.
-Solo estamos empezando a redactar el próximo capítulo de RR. HH.
-La aventura más épica es optimizar procesos en tiempo récord.
-El epílogo será un payroll impecable y un equipo de héroes.
-Cada dato procesado es un paso hacia la victoria.
-En la penumbra del sistema, hallamos la solución.
-No hay obstáculo demasiado grande para un script bien escrito.
-La redención de un cierre fallido comienza con un backup vigente.
-Toda gran hazaña exige coraje y un plan de contingencia.
-La fuerza de un buen KPI puede mover montañas corporativas.
-En cada auditoría, yace una oportunidad de mejora.
-El eco de los reportes resuena en los pasillos del poder.
-El susurro de una alerta temprana puede salvar un trimestre.
-Los auténticos héroes del payroll nunca duermen antes de la fecha de pago.
-Al final del día, el verdadero premio es un cierre sin errores y un equipo unido.
-La primera semana de enero tuvo 7 sesiones de entrenamiento.
-En el mes de febrero realizamos 2 auditorías internas.
-Durante la primavera organizamos 5 talleres de liderazgo.
-La tercera semana de marzo coincidió con 3 feriados nacionales.
-En el mes de abril se registraron 10 solicitudes de vacaciones.
-Durante el verano se realizaron 4 eventos corporativos.
-La segunda semana de mayo incluyó 6 reuniones de seguimiento.
-En el mes de junio reportamos 8 incidencias de nómina.
-Durante el otoño implementamos 9 mejoras en el sistema.
-La cuarta semana de julio cerramos 11 proyectos pendientes.
-En el mes de agosto analizamos 12 indicadores clave.
-Durante el invierno planificamos 7 auditorías de compliance.
-La quinta semana de septiembre tuvo 13 entrevistas de selección.
-En el mes de octubre aprobamos 14 presupuestos de formación.
-Durante la primavera lanzamos 15 encuestas de clima laboral.
-La sexta semana de noviembre coincidió con 16 capacitaciones.
-En el mes de diciembre gestionamos 17 bonus de fin de año.
-El primer mes del trimestre registró 18 descuentos por préstamos.
-En la segunda semana del año realizamos 19 ajustes de salarios.
-Durante el verano de 2025 recibimos 20 solicitudes de contratación.
-La tercera semana de enero de 2025 tuvo 21 variaciones de jornada.
-En el mes de febrero de 2025 contabilizamos 22 horas extras.
-En la primavera del 2025 planificamos 23 entrevistas de salida.
-La cuarta semana de marzo sumó 24 incidencias de ausentismo.
-En el mes de abril registramos 25 bajas voluntarias.
-Durante el verano elaboramos 26 reportes de productividad.
-La segunda semana de mayo mostró 27 casos de licencias médicas.
-En el mes de junio contabilizamos 28 evaluaciones de desempeño.
-Durante el otoño implementamos 29 procesos de onboarding.
-La cuarta semana de julio incluyó 30 notificaciones de nómina.
-En el mes de agosto hubo 31 movimientos de personal.
-Durante el invierno realicé 32 análisis de indicadores de rotación.
-La primera semana de septiembre arrancó con 33 solicitudes de permisos.
-En el mes de octubre validamos 34 comprobantes de pago.
-Durante la primavera completamos 35 scripts de automatización.
-La tercera semana de noviembre tuvo 36 ajustes contables.
-En el mes de diciembre cerramos 37 expedientes de remuneración.
-El primer mes del año registró 38 transacciones de FGTS.
-La segunda semana del trimestre reportó 39 conciliaciones bancarias.
-Durante el verano actualizamos 40 reglas de cálculo de nómina.
-La quinta semana de marzo analizó 41 datos de banco de horas.
-En el mes de abril planificamos 42 sesiones de mentoring.
-Durante el otoño registramos 43 movimientos de escala.
-La tercera semana de mayo incluyó 44 solicitudes de teletrabajo.
-En el mes de junio procesamos 45 reportes de absentismo.
-Durante el invierno registramos 46 evaluaciones de clima laboral.
-La cuarta semana de julio cerró 47 casos de litigios laborales.
-En el mes de agosto aprobamos 48 contratos temporales.
-Durante la primavera validamos 49 asientos contables.
-La segunda semana de septiembre revisó 50 archivos de onboarding.
-En el mes de octubre realizamos 51 auditorías de beneficios.
-Durante el verano generamos 52 dashboards de people analytics.
-La primera semana de noviembre gestioné 53 licencias de maternidad.
-En el mes de diciembre contabilicé 54 transferencias bancarias.
-Durante el invierno organicé 55 talleres de actualización.
-La tercera semana de enero implementé 56 ajustes de reclutamiento.
-En el mes de febrero evaluamos 57 competencias del personal.
-Durante el otoño programamos 58 notificaciones de seguridad social.
-La cuarta semana de marzo coordinó 59 conciliaciones de payroll.
-En el mes de abril gestionamos 60 expedientes de vacaciones.
-Durante el verano instalamos 61 mejoras en el sistema ERP.
-La segunda semana de mayo analizó 62 reportes de productividad.
-En el mes de junio planificamos 63 entrevistas de onboarding remoto.
-Durante la primavera ajustamos 64 procesos de contratación.
-La quinta semana de julio cerró 65 solicitudes de reembolso.
-En el mes de agosto contabilicé 66 horas de capacitación online.
-Durante el invierno validamos 67 comprobantes de nómina electrónica.
-La primera semana de septiembre revisé 68 registros de eSocial.
-En el mes de octubre procesé 69 movimientos de ajuste salarial.
-Durante el otoño elaboramos 70 planes de sucesión.
-La tercera semana de noviembre gestionó 71 incidencias de sistema.
-En el mes de diciembre introdujimos 72 cambios en beneficios.
-Durante el verano redacté 73 informes de análisis de rotación.
-La quinta semana de marzo incluyó 74 validaciones de timesheet.
-En el mes de abril generamos 75 cálculos de indemnización.
-Durante la primavera procesamos 76 solicitudes de prórroga.
-La segunda semana de mayo analizó 77 métricas de desempeño.
-En el mes de junio implantamos 78 flujos de aprobación de nómina.
-Durante el invierno revisé 79 procedimientos de auditoría interna.
-La tercera semana de enero gestioné 80 ajustes de banco de horas.
-En el mes de febrero reporté 81 errores de conciliación.
-Durante el otoño coordiné 82 sesiones de formación online.
-La cuarta semana de marzo validamos 83 archivos de planillas.
-En el mes de abril realicé 84 conciliaciones con sistema bancario.
-Durante el verano organizamos 85 webinars de compliance laboral.
-La primera semana de mayo procesé 86 licencias por enfermedad.
-En el mes de junio implementé 87 dashboards automatizados.
-Durante la primavera programé 88 recordatorios de fechas límite.
-La segunda semana de julio analicé 89 informes de absentismo.
-En el mes de agosto validamos 90 expedientes de ingreso.
-Durante el invierno gestionamos 91 ajustes fiscales.
-La tercera semana de enero coordinó 92 procesos de reclutamiento.
-En el mes de febrero procesamos 93 órdenes de pago.
-Durante el otoño completé 94 reconciliaciones contables.
-La primera semana de marzo generó 95 informes de productividad.
-En el mes de abril aprobamos 96 solicitudes de teletrabajo.
-Durante el verano validé 97 registros de horas extras.
-La segunda semana de mayo organizó 98 actividades de bienvenida.
-En el mes de junio programamos 99 conciliaciones de nómina.
-Durante la primavera registramos 100 actualizaciones de políticas.
+Hola, ¿cómo estás? | Hello, how are you?
+Estoy muy bien, gracias. | I am very well, thank you.
+¿Cómo te llamas? | What is your name?
+Me llamo Anderson. | My name is Anderson.
+Mucho gusto en conocerte. | Nice to meet you.
+¿De dónde eres? | Where are you from?
+Soy de Brasil. | I am from Brazil.
+Vivo en São Paulo. | I live in São Paulo.
+Estoy aprendiendo español. | I am learning Spanish.
+También quiero mejorar mi inglés. | I also want to improve my English.
+¿Puedes hablar más despacio? | Can you speak more slowly?
+¿Puedes repetir la frase? | Can you repeat the sentence?
+No entendí esa palabra. | I did not understand that word.
+¿Qué significa esta expresión? | What does this expression mean?
+¿Cómo se dice esto en inglés? | How do you say this in English?
+Entiendo casi todo. | I understand almost everything.
+Necesito practicar un poco más. | I need to practice a little more.
+Quiero hablar con confianza. | I want to speak with confidence.
+Estoy listo para empezar. | I am ready to begin.
+Vamos a practicar juntos. | Let us practice together.
+Buenos días a todos. | Good morning, everyone.
+Buenas tardes, señora. | Good afternoon, ma'am.
+Buenas noches, señor. | Good evening, sir.
+Hasta mañana. | See you tomorrow.
+Nos vemos más tarde. | See you later.
+Que tengas un buen día. | Have a good day.
+Gracias por tu ayuda. | Thank you for your help.
+De nada, fue un placer. | You are welcome, it was a pleasure.
+Por favor, siéntate aquí. | Please, sit here.
+Perdón por el retraso. | Sorry for the delay.
+No hay ningún problema. | There is no problem.
+Con permiso, voy a pasar. | Excuse me, I am going through.
+Lo siento mucho. | I am very sorry.
+Estoy de acuerdo contigo. | I agree with you.
+No estoy de acuerdo con eso. | I do not agree with that.
+Tal vez tengas razón. | Maybe you are right.
+Claro que sí. | Of course.
+Por supuesto que puedo ayudarte. | Of course I can help you.
+Depende de la situación. | It depends on the situation.
+Déjame pensarlo un momento. | Let me think about it for a moment.
+No estoy seguro todavía. | I am not sure yet.
+Eso me parece bien. | That sounds good to me.
+¿Qué opinas de esta idea? | What do you think about this idea?
+Creo que es una buena opción. | I think it is a good option.
+Prefiero la primera alternativa. | I prefer the first alternative.
+¿Puedes darme un ejemplo? | Can you give me an example?
+Ahora lo entiendo mejor. | Now I understand it better.
+Gracias por la explicación. | Thank you for the explanation.
+Fue un gusto hablar contigo. | It was nice talking to you.
+Espero verte pronto. | I hope to see you soon.
+
+Trabajo en Recursos Humanos. | I work in Human Resources.
+Soy responsable de la nómina. | I am responsible for payroll.
+Necesito revisar este informe. | I need to review this report.
+¿Puedes enviarme el archivo? | Can you send me the file?
+Ya envié el correo electrónico. | I already sent the email.
+Todavía no recibí una respuesta. | I have not received a response yet.
+Voy a verificar mi bandeja de entrada. | I am going to check my inbox.
+El documento está adjunto. | The document is attached.
+No puedo abrir el archivo. | I cannot open the file.
+¿Puedes enviarlo nuevamente? | Can you send it again?
+La información está actualizada. | The information is up to date.
+Encontré una diferencia en los valores. | I found a difference in the amounts.
+Necesitamos comprobar los datos. | We need to verify the data.
+El sistema está funcionando correctamente. | The system is working correctly.
+Hay un error en la plataforma. | There is an error on the platform.
+Voy a abrir un ticket. | I am going to open a ticket.
+¿Cuál es el número del caso? | What is the case number?
+El equipo técnico está investigando. | The technical team is investigating.
+Esperamos una solución hoy. | We expect a solution today.
+Te avisaré cuando tenga noticias. | I will let you know when I have news.
+Esta tarea tiene alta prioridad. | This task has high priority.
+El plazo termina mañana. | The deadline ends tomorrow.
+Necesitamos terminar antes del mediodía. | We need to finish before noon.
+Voy a actualizar el control. | I am going to update the tracker.
+La planilla contiene todos los registros. | The spreadsheet contains all the records.
+Falta completar dos columnas. | Two columns still need to be completed.
+Por favor, revisa los campos obligatorios. | Please review the required fields.
+Los números no coinciden. | The numbers do not match.
+Voy a cruzar las dos bases. | I am going to cross-check the two databases.
+El resultado parece correcto. | The result seems correct.
+Necesitamos una segunda revisión. | We need a second review.
+Aplicaremos el principio de cuatro ojos. | We will apply the four-eyes principle.
+¿Quién aprobará la solicitud? | Who will approve the request?
+La aprobación sigue pendiente. | The approval is still pending.
+El gerente ya dio su visto bueno. | The manager has already given approval.
+Podemos continuar con el proceso. | We can continue with the process.
+Voy a documentar esta decisión. | I am going to document this decision.
+Guardaremos todas las evidencias. | We will keep all the evidence.
+La carpeta está organizada por mes. | The folder is organized by month.
+Este archivo contiene datos confidenciales. | This file contains confidential data.
+No compartas esta información externamente. | Do not share this information externally.
+Debemos respetar la política de privacidad. | We must follow the privacy policy.
+Voy a ocultar los datos personales. | I am going to hide the personal data.
+El acceso está restringido al equipo. | Access is restricted to the team.
+Necesito permiso para continuar. | I need permission to continue.
+La solicitud fue autorizada. | The request was authorized.
+El proceso está casi completo. | The process is almost complete.
+Solo falta la validación final. | Only the final validation is missing.
+Enviaré el resultado al equipo. | I will send the result to the team.
+Gracias por la rápida respuesta. | Thank you for the quick response.
+
+La nómina se cierra mañana. | Payroll closes tomorrow.
+El pago será el último día hábil. | Payment will be made on the last business day.
+Necesitamos validar los salarios. | We need to validate the salaries.
+El salario fue actualizado este mes. | The salary was updated this month.
+La comisión está incluida en la nómina. | The commission is included in payroll.
+Falta calcular el descanso semanal remunerado. | The paid weekly rest still needs to be calculated.
+El bono tiene carácter excepcional. | The bonus is exceptional in nature.
+Este pago no crea un derecho adquirido. | This payment does not create a vested right.
+Los descuentos legales serán aplicados. | Statutory deductions will be applied.
+El impuesto fue calculado correctamente. | The tax was calculated correctly.
+La contribución fue enviada al gobierno. | The contribution was sent to the government.
+Necesitamos corregir la declaración. | We need to correct the filing.
+La corrección puede tardar treinta días. | The correction may take thirty days.
+El empleado fue contratado hoy. | The employee was hired today.
+La fecha de admisión es correcta. | The hire date is correct.
+El contrato está listo para firmar. | The contract is ready to be signed.
+Falta la firma del gerente. | The manager's signature is missing.
+La empleada está de vacaciones. | The employee is on vacation.
+Debemos programar las vacaciones con anticipación. | We must schedule vacation in advance.
+El aviso debe enviarse treinta días antes. | The notice must be sent thirty days in advance.
+El período de vacaciones vence en octubre. | The vacation period expires in October.
+El empleado solicitó su renuncia. | The employee submitted his resignation.
+La rescisión será procesada hoy. | The termination will be processed today.
+Necesitamos calcular las indemnizaciones. | We need to calculate the severance payments.
+Los beneficios terminan este mes. | Benefits end this month.
+El seguro médico sigue activo. | The health insurance is still active.
+Debemos cancelar el acceso al sistema. | We must cancel system access.
+El examen médico ya fue programado. | The medical examination has already been scheduled.
+El certificado médico fue recibido. | The medical certificate was received.
+El documento tiene una firma válida. | The document has a valid signature.
+El registro de jornada está incompleto. | The time record is incomplete.
+Falta registrar la hora de salida. | The clock-out time is missing.
+Las horas extra necesitan autorización. | Overtime requires authorization.
+El empleado trabajó el sábado. | The employee worked on Saturday.
+Debemos revisar el horario contractual. | We must review the contractual schedule.
+La tolerancia diaria es de diez minutos. | The daily tolerance is ten minutes.
+El intervalo para almorzar es de una hora. | The lunch break is one hour.
+El convenio colectivo fue actualizado. | The collective bargaining agreement was updated.
+Debemos respetar la fecha base. | We must observe the collective bargaining date.
+El sindicato recibió la propuesta. | The union received the proposal.
+La negociación continuará la próxima semana. | The negotiation will continue next week.
+El reajuste salarial será retroactivo. | The salary adjustment will be retroactive.
+La diferencia será pagada en la próxima nómina. | The difference will be paid in the next payroll.
+El empleado cambió de puesto. | The employee changed positions.
+La transferencia fue aprobada. | The transfer was approved.
+El nuevo gerente empieza el lunes. | The new manager starts on Monday.
+La descripción del puesto está actualizada. | The job description is up to date.
+Necesitamos confirmar el código ocupacional. | We need to confirm the occupational code.
+La vacante sigue abierta. | The position is still open.
+La candidata aceptó la oferta. | The candidate accepted the offer.
+
+¿Podemos empezar la reunión? | Can we start the meeting?
+Voy a compartir mi pantalla. | I am going to share my screen.
+¿Puedes ver mi pantalla? | Can you see my screen?
+No puedo oírte. | I cannot hear you.
+Tu micrófono está apagado. | Your microphone is muted.
+La conexión está inestable. | The connection is unstable.
+Voy a entrar nuevamente. | I am going to join again.
+Esperemos dos minutos más. | Let us wait two more minutes.
+Todos están presentes. | Everyone is present.
+Comencemos con la agenda. | Let us begin with the agenda.
+El primer tema es la nómina. | The first topic is payroll.
+Tengo una pregunta sobre el proceso. | I have a question about the process.
+Necesito una aclaración. | I need clarification.
+¿Puedes explicar ese punto? | Can you explain that point?
+Eso tiene sentido. | That makes sense.
+No comprendí la última parte. | I did not understand the last part.
+Volvamos al tema principal. | Let us return to the main topic.
+¿Cuál es el siguiente paso? | What is the next step?
+¿Quién será el responsable? | Who will be responsible?
+¿Cuándo estará listo? | When will it be ready?
+La fecha límite es el viernes. | The deadline is Friday.
+El principal cuello de botella está aquí. | The main bottleneck is here.
+Esta actividad depende de otro equipo. | This activity depends on another team.
+Necesitamos adaptar el proceso localmente. | We need to adapt the process locally.
+El proceso global es diferente. | The global process is different.
+Brasil tiene requisitos específicos. | Brazil has specific requirements.
+México compartirá el modelo. | Mexico will share the model.
+Voy a registrar los acuerdos. | I am going to record the agreements.
+Enviaré el acta después de la reunión. | I will send the minutes after the meeting.
+Tenemos tres acciones pendientes. | We have three pending actions.
+La primera acción ya está terminada. | The first action is already finished.
+La segunda acción está en curso. | The second action is in progress.
+La tercera acción aún no comenzó. | The third action has not started yet.
+Necesitamos revisar las prioridades. | We need to review the priorities.
+Este riesgo necesita mitigación. | This risk needs mitigation.
+Prepararemos un plan de acción. | We will prepare an action plan.
+Cada acción tendrá un responsable. | Each action will have an owner.
+Vamos a monitorear el progreso semanalmente. | We will monitor progress weekly.
+El indicador mejoró este mes. | The indicator improved this month.
+El resultado está por debajo de la meta. | The result is below target.
+Necesitamos analizar la causa raíz. | We need to analyze the root cause.
+Los datos muestran una tendencia positiva. | The data show a positive trend.
+El volumen aumentó un veinte por ciento. | Volume increased by twenty percent.
+El costo por empleado disminuyó. | The cost per employee decreased.
+La productividad se mantuvo estable. | Productivity remained stable.
+La automatización ahorrará tiempo. | Automation will save time.
+Podemos eliminar esta tarea manual. | We can eliminate this manual task.
+Voy a presentar una demostración. | I am going to present a demonstration.
+¿Alguien tiene otra pregunta? | Does anyone have another question?
+Gracias a todos por participar. | Thank you all for participating.
+
+¿Qué hora es? | What time is it?
+Son las ocho de la mañana. | It is eight in the morning.
+La reunión empieza a las nueve. | The meeting starts at nine.
+Hoy es lunes. | Today is Monday.
+Mañana será martes. | Tomorrow will be Tuesday.
+Ayer fue domingo. | Yesterday was Sunday.
+Estamos en agosto. | It is August.
+Mi cumpleaños es en noviembre. | My birthday is in November.
+La fecha de hoy es quince de agosto. | Today's date is August fifteenth.
+Llegaré en diez minutos. | I will arrive in ten minutes.
+Estoy llegando ahora. | I am arriving now.
+Llegué hace cinco minutos. | I arrived five minutes ago.
+¿Cuándo tienes tiempo? | When do you have time?
+Tengo tiempo por la tarde. | I have time in the afternoon.
+Esta semana está muy ocupada. | This week is very busy.
+La próxima semana será mejor. | Next week will be better.
+Tenemos una cita mañana. | We have an appointment tomorrow.
+El evento será el próximo mes. | The event will be next month.
+La capacitación dura dos horas. | The training lasts two hours.
+La sesión terminó temprano. | The session ended early.
+Trabajamos de lunes a viernes. | We work from Monday to Friday.
+La oficina abre a las ocho. | The office opens at eight.
+La tienda cierra a las seis. | The store closes at six.
+El plazo vence al mediodía. | The deadline expires at noon.
+Enviaré el documento antes de las cinco. | I will send the document before five.
+Terminé el informe anoche. | I finished the report last night.
+Empecé este proyecto en abril. | I started this project in April.
+Trabajo aquí desde hace cinco años. | I have worked here for five years.
+Viví allí durante dos meses. | I lived there for two months.
+Volveré dentro de una hora. | I will return in an hour.
+Espera un momento, por favor. | Wait a moment, please.
+Necesito unos minutos más. | I need a few more minutes.
+Lo terminaré lo antes posible. | I will finish it as soon as possible.
+La respuesta llegó a tiempo. | The response arrived on time.
+El pago está atrasado. | The payment is late.
+La factura vence hoy. | The invoice is due today.
+El contrato comienza el primero de septiembre. | The contract begins on September first.
+El período termina el treinta de marzo. | The period ends on March thirtieth.
+El sistema estará fuera de servicio esta noche. | The system will be unavailable tonight.
+El mantenimiento empieza a las dos. | Maintenance starts at two.
+El acceso volverá mañana. | Access will return tomorrow.
+Programé una alarma para las siete. | I set an alarm for seven.
+Cambiaré la fecha de la reunión. | I will change the meeting date.
+¿Podemos adelantar la llamada? | Can we move the call earlier?
+Necesitamos posponer la decisión. | We need to postpone the decision.
+La entrega fue reprogramada. | The delivery was rescheduled.
+El calendario está actualizado. | The calendar is up to date.
+Tengo otra reunión después de esta. | I have another meeting after this one.
+Hablemos nuevamente el jueves. | Let us talk again on Thursday.
+Nos reuniremos cada dos semanas. | We will meet every two weeks.
+
+¿Dónde está el aeropuerto? | Where is the airport?
+Necesito pedir un taxi. | I need to call a taxi.
+¿A qué hora sale el vuelo? | What time does the flight leave?
+Mi vuelo está retrasado. | My flight is delayed.
+El vuelo fue cancelado. | The flight was canceled.
+Tengo una reserva a mi nombre. | I have a reservation under my name.
+Quisiera hacer el registro. | I would like to check in.
+¿Puedo ver su pasaporte? | May I see your passport?
+Aquí tiene mi documento. | Here is my document.
+¿Dónde está la puerta de embarque? | Where is the boarding gate?
+La puerta cambió hace poco. | The gate changed recently.
+El embarque comienza en veinte minutos. | Boarding begins in twenty minutes.
+Solo llevo equipaje de mano. | I only have carry-on luggage.
+Mi maleta es muy pesada. | My suitcase is very heavy.
+¿Dónde puedo recoger el equipaje? | Where can I collect my luggage?
+Mi maleta no llegó. | My suitcase did not arrive.
+Necesito completar este formulario. | I need to complete this form.
+¿Cuál es la dirección del hotel? | What is the hotel's address?
+El hotel está cerca del centro. | The hotel is near downtown.
+Tengo una habitación reservada. | I have a room reserved.
+Quisiera registrarme, por favor. | I would like to check in, please.
+¿El desayuno está incluido? | Is breakfast included?
+¿A qué hora sirven el desayuno? | What time is breakfast served?
+Mi habitación está en el tercer piso. | My room is on the third floor.
+Necesito la contraseña del wifi. | I need the Wi-Fi password.
+El aire acondicionado no funciona. | The air conditioning does not work.
+¿Pueden cambiarme de habitación? | Can you change my room?
+Necesito una toalla limpia. | I need a clean towel.
+Quisiera solicitar la salida tardía. | I would like to request a late checkout.
+¿Dónde está la estación de metro? | Where is the subway station?
+¿Cómo llego al centro? | How do I get downtown?
+Sigue todo recto. | Go straight ahead.
+Gira a la derecha en la esquina. | Turn right at the corner.
+Gira a la izquierda después del puente. | Turn left after the bridge.
+Está cerca de aquí. | It is near here.
+Está un poco lejos. | It is a little far.
+Puedes ir caminando. | You can walk there.
+Toma la segunda calle. | Take the second street.
+Cruza la avenida con cuidado. | Cross the avenue carefully.
+El museo está frente al parque. | The museum is across from the park.
+El banco está al lado de la farmacia. | The bank is next to the pharmacy.
+La estación queda detrás del edificio. | The station is behind the building.
+Me perdí en el camino. | I got lost on the way.
+¿Puedes mostrarme el mapa? | Can you show me the map?
+Quiero visitar el centro histórico. | I want to visit the historic center.
+¿Hay una visita guiada en inglés? | Is there a guided tour in English?
+Necesito comprar un boleto. | I need to buy a ticket.
+¿Cuánto dura el viaje? | How long does the trip take?
+Mañana regreso a Brasil. | Tomorrow I return to Brazil.
+Este viaje fue inolvidable. | This trip was unforgettable.
+
+Tengo hambre. | I am hungry.
+Tengo sed. | I am thirsty.
+Quisiera una mesa para dos. | I would like a table for two.
+¿Tienen una mesa disponible? | Do you have a table available?
+¿Puedo ver el menú? | May I see the menu?
+¿Qué me recomienda? | What do you recommend?
+Quisiera pedir una ensalada. | I would like to order a salad.
+Voy a pedir el plato del día. | I will order the dish of the day.
+¿Este plato contiene carne? | Does this dish contain meat?
+No como alimentos picantes. | I do not eat spicy food.
+Soy alérgico a los frutos secos. | I am allergic to nuts.
+¿Tienen opciones vegetarianas? | Do you have vegetarian options?
+Quiero la carne bien cocida. | I want the meat well done.
+La sopa está demasiado caliente. | The soup is too hot.
+La comida está deliciosa. | The food is delicious.
+Necesito un poco más de sal. | I need a little more salt.
+¿Puedes traer más agua? | Can you bring more water?
+Quisiera otro café. | I would like another coffee.
+Sin azúcar, por favor. | Without sugar, please.
+La cuenta, por favor. | The check, please.
+¿El servicio está incluido? | Is service included?
+Voy a pagar con tarjeta. | I am going to pay by card.
+¿Aceptan pagos sin contacto? | Do you accept contactless payments?
+Necesito un recibo. | I need a receipt.
+El precio parece correcto. | The price seems correct.
+¿Cuánto cuesta esta camisa? | How much does this shirt cost?
+¿Tiene una talla más grande? | Do you have a larger size?
+¿Puedo probarme estos zapatos? | Can I try on these shoes?
+El probador está al fondo. | The fitting room is in the back.
+Esta chaqueta me queda bien. | This jacket fits me well.
+El pantalón está demasiado ajustado. | The pants are too tight.
+Prefiero el color azul. | I prefer the color blue.
+¿Hay algún descuento? | Is there any discount?
+Este producto está en oferta. | This product is on sale.
+Quiero devolver este artículo. | I want to return this item.
+Tengo el comprobante de compra. | I have the proof of purchase.
+El producto llegó dañado. | The product arrived damaged.
+Quisiera cambiarlo por otro. | I would like to exchange it for another one.
+La tienda está cerrada. | The store is closed.
+El supermercado abre los domingos. | The supermarket opens on Sundays.
+Necesito comprar leche y pan. | I need to buy milk and bread.
+También necesitamos frutas frescas. | We also need fresh fruit.
+¿Dónde están los productos de limpieza? | Where are the cleaning products?
+El carrito está lleno. | The cart is full.
+Olvidé traer una bolsa. | I forgot to bring a bag.
+La fila está muy larga. | The line is very long.
+Esta caja está disponible. | This checkout is available.
+El pago fue aprobado. | The payment was approved.
+La tarjeta fue rechazada. | The card was declined.
+Gracias por su compra. | Thank you for your purchase.
+
+Mi familia vive en Brasil. | My family lives in Brazil.
+Tengo dos hermanos. | I have two brothers.
+Mi hermana es más joven que yo. | My sister is younger than me.
+Mis padres viven cerca. | My parents live nearby.
+Visitamos a mis abuelos los domingos. | We visit my grandparents on Sundays.
+Mi hijo estudia por la mañana. | My son studies in the morning.
+Mi hija está aprendiendo a leer. | My daughter is learning to read.
+Tenemos un perro muy amigable. | We have a very friendly dog.
+El gato está durmiendo en el sofá. | The cat is sleeping on the couch.
+Nuestra casa tiene tres habitaciones. | Our house has three bedrooms.
+La cocina es pequeña pero cómoda. | The kitchen is small but comfortable.
+El baño está al final del pasillo. | The bathroom is at the end of the hall.
+La ventana está abierta. | The window is open.
+Cierra la puerta, por favor. | Close the door, please.
+La llave está sobre la mesa. | The key is on the table.
+No encuentro mi teléfono. | I cannot find my phone.
+Mira debajo de la cama. | Look under the bed.
+La luz del dormitorio está encendida. | The bedroom light is on.
+Apaga la televisión. | Turn off the television.
+El internet dejó de funcionar. | The internet stopped working.
+Voy a llamar al proveedor. | I am going to call the provider.
+La tubería tiene una fuga. | The pipe has a leak.
+Necesitamos llamar a un técnico. | We need to call a technician.
+El ascensor está fuera de servicio. | The elevator is out of service.
+Vivimos en el quinto piso. | We live on the fifth floor.
+Los vecinos son muy tranquilos. | The neighbors are very quiet.
+El barrio es seguro. | The neighborhood is safe.
+Hay un parque cerca de casa. | There is a park near our house.
+Me gusta caminar por la mañana. | I like walking in the morning.
+Hoy hace mucho calor. | It is very hot today.
+Hace frío por la mañana. | It is cold in the morning.
+Está lloviendo mucho. | It is raining heavily.
+El cielo está nublado. | The sky is cloudy.
+Mañana estará soleado. | Tomorrow will be sunny.
+Necesito llevar un paraguas. | I need to take an umbrella.
+No me siento bien. | I do not feel well.
+Me duele la cabeza. | I have a headache.
+Tengo dolor de garganta. | I have a sore throat.
+Creo que tengo fiebre. | I think I have a fever.
+Necesito ir al médico. | I need to see a doctor.
+¿Tiene una cita programada? | Do you have an appointment scheduled?
+Estoy tomando este medicamento. | I am taking this medication.
+Debes descansar y beber agua. | You should rest and drink water.
+Me siento mucho mejor hoy. | I feel much better today.
+Intento comer de forma saludable. | I try to eat healthily.
+Camino treinta minutos al día. | I walk for thirty minutes a day.
+Necesito dormir más. | I need to sleep more.
+El descanso es importante. | Rest is important.
+Estoy cuidando mejor mi salud. | I am taking better care of my health.
+Mi familia me apoya mucho. | My family supports me a lot.
+
+Yo trabajo desde casa. | I work from home.
+Tú hablas español muy bien. | You speak Spanish very well.
+Él necesita nuestra ayuda. | He needs our help.
+Ella está en una reunión. | She is in a meeting.
+Nosotros aprendemos juntos. | We learn together.
+Ustedes llegaron temprano. | You arrived early.
+Ellos viven cerca de la oficina. | They live near the office.
+Quiero hacerlo hoy. | I want to do it today.
+Puedo ayudarte ahora. | I can help you now.
+Debo terminar el informe. | I must finish the report.
+Voy a llamar más tarde. | I am going to call later.
+Acabo de enviar el mensaje. | I have just sent the message.
+Estoy revisando los números. | I am reviewing the numbers.
+Ya hemos terminado. | We have already finished.
+Nunca he estado en México. | I have never been to Mexico.
+Ayer hablé con el gerente. | Yesterday I spoke with the manager.
+La semana pasada recibimos el archivo. | Last week we received the file.
+Antes trabajaba en otra empresa. | I used to work at another company.
+Cuando era niño, vivía en el campo. | When I was a child, I lived in the countryside.
+Mañana presentaré los resultados. | Tomorrow I will present the results.
+El próximo año aprenderé otro idioma. | Next year I will learn another language.
+Si tengo tiempo, lo haré. | If I have time, I will do it.
+Si pudiera, viajaría más. | If I could, I would travel more.
+Si lo hubiera sabido, habría llamado. | If I had known, I would have called.
+Cuando llegue, te avisaré. | When I arrive, I will let you know.
+Aunque sea difícil, continuaré. | Even if it is difficult, I will continue.
+Lo hice porque era necesario. | I did it because it was necessary.
+Trabajamos para que todos puedan participar. | We work so that everyone can participate.
+Sin embargo, necesitamos más datos. | However, we need more data.
+Además, debemos revisar el costo. | In addition, we must review the cost.
+Por lo tanto, cambiaremos el plan. | Therefore, we will change the plan.
+A pesar del retraso, terminamos a tiempo. | Despite the delay, we finished on time.
+En cuanto reciba la respuesta, te escribiré. | As soon as I receive the response, I will write to you.
+Mientras esperas, revisa el documento. | While you wait, review the document.
+Después de terminar, guarda el archivo. | After finishing, save the file.
+Antes de enviar, verifica los datos. | Before sending, verify the data.
+Es importante que todos entiendan. | It is important that everyone understand.
+Quiero que me expliques el proceso. | I want you to explain the process to me.
+Espero que tengas un buen viaje. | I hope you have a good trip.
+Dudo que la información sea correcta. | I doubt that the information is correct.
+Ojalá podamos resolverlo hoy. | Hopefully we can solve it today.
+Puede que llegue un poco tarde. | I may arrive a little late.
+Aunque tenga experiencia, sigo aprendiendo. | Although I have experience, I keep learning.
+No creo que sea un problema. | I do not think it is a problem.
+Es posible que necesitemos ayuda. | It is possible that we may need help.
+Habríamos terminado antes con más recursos. | We would have finished earlier with more resources.
+El informe debe ser revisado. | The report must be reviewed.
+Los datos fueron enviados ayer. | The data were sent yesterday.
+Se habla español en muchos países. | Spanish is spoken in many countries.
+Aquí se trabaja con mucha atención. | People work very carefully here.
+
+Estoy contento con el resultado. | I am happy with the result.
+Me siento orgulloso del equipo. | I feel proud of the team.
+Estoy preocupado por el plazo. | I am worried about the deadline.
+La situación me parece difícil. | The situation seems difficult to me.
+Tengo confianza en nuestra decisión. | I am confident in our decision.
+Necesito mantener la calma. | I need to remain calm.
+No quiero tomar una decisión apresurada. | I do not want to make a hasty decision.
+Prefiero analizar todas las opciones. | I prefer to analyze all the options.
+Esta propuesta ofrece más flexibilidad. | This proposal offers more flexibility.
+La segunda opción cuesta menos. | The second option costs less.
+El beneficio supera el riesgo. | The benefit outweighs the risk.
+Debemos considerar el impacto legal. | We must consider the legal impact.
+La empresa necesita protegerse. | The company needs to protect itself.
+Esta cláusula requiere más claridad. | This clause requires more clarity.
+El contrato define las responsabilidades. | The contract defines the responsibilities.
+Las partes deben cumplir sus obligaciones. | The parties must fulfill their obligations.
+Necesitamos obtener asesoramiento jurídico. | We need to obtain legal advice.
+La legislación cambió recientemente. | The legislation changed recently.
+Debemos confirmar la regla vigente. | We must confirm the current rule.
+La evidencia debe ser preservada. | The evidence must be preserved.
+El documento será firmado digitalmente. | The document will be signed digitally.
+La firma confirma la aceptación. | The signature confirms acceptance.
+El registro muestra la fecha y la hora. | The record shows the date and time.
+Los controles reducen el riesgo. | Controls reduce risk.
+La auditoría comenzará el próximo mes. | The audit will begin next month.
+Tenemos que preparar las evidencias. | We have to prepare the evidence.
+El auditor solicitó una muestra. | The auditor requested a sample.
+La muestra contiene veinte casos. | The sample contains twenty cases.
+Encontramos dos excepciones. | We found two exceptions.
+Cada excepción tendrá un plan de acción. | Each exception will have an action plan.
+El responsable deberá informar el progreso. | The owner must report progress.
+La fecha objetivo es el treinta de septiembre. | The target date is September thirtieth.
+El tablero muestra los indicadores principales. | The dashboard shows the main indicators.
+Podemos filtrar los datos por región. | We can filter the data by region.
+El gráfico muestra la evolución mensual. | The chart shows the monthly trend.
+El costo total aumentó ligeramente. | The total cost increased slightly.
+La variación se explica por nuevas contrataciones. | The variance is explained by new hires.
+El número de empleados se mantuvo estable. | The headcount remained stable.
+La rotación disminuyó este trimestre. | Turnover decreased this quarter.
+El ausentismo está por encima de la meta. | Absenteeism is above target.
+Necesitamos investigar las principales causas. | We need to investigate the main causes.
+La encuesta mostró buenos resultados. | The survey showed good results.
+La mayoría de los empleados respondió. | Most employees responded.
+El equipo propone una nueva solución. | The team proposes a new solution.
+Vamos a probarla durante treinta días. | We will test it for thirty days.
+Mediremos el tiempo ahorrado. | We will measure the time saved.
+También evaluaremos la calidad. | We will also evaluate quality.
+Si funciona, ampliaremos el proyecto. | If it works, we will expand the project.
+Este aprendizaje puede aplicarse a otros procesos. | This learning can be applied to other processes.
+Siempre podemos mejorar un poco más. | We can always improve a little more.
