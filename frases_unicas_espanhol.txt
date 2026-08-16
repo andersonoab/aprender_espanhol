@@ -507,3 +507,183 @@ También evaluaremos la calidad. | We will also evaluate quality.
 Si funciona, ampliaremos el proyecto. | If it works, we will expand the project.
 Este aprendizaje puede aplicarse a otros procesos. | This learning can be applied to other processes.
 Siempre podemos mejorar un poco más. | We can always improve a little more.
+
+Soy estudiante de español. | I am a Spanish student.
+Ella es abogada. | She is a lawyer.
+Nosotros somos del mismo equipo. | We are from the same team.
+¿Eres tú el responsable? | Are you the person in charge?
+El informe es importante. | The report is important.
+ 
+Estoy ocupado ahora. | I am busy now.
+El archivo está en la carpeta. | The file is in the folder.
+¿Dónde estás? | Where are you?
+La reunión está por empezar. | The meeting is about to start.
+Todavía estamos esperando. | We are still waiting.
+ 
+Él es tranquilo. | He is a calm person.
+Él está tranquilo hoy. | He is calm today.
+La puerta es de metal. | The door is made of metal.
+La puerta está abierta. | The door is open.
+Soy consciente de que estás cansado. | I am aware that you are tired.
+ 
+Tengo una pregunta. | I have a question.
+Tengo treinta años. | I am thirty years old.
+¿Tienes un momento? | Do you have a moment?
+No tenemos más tiempo. | We do not have more time.
+Ella tiene la razón. | She is right.
+ 
+Tengo que enviar el correo. | I have to send the email.
+Tienes que revisar los datos. | You have to check the data.
+Tenemos que decidir hoy. | We have to decide today.
+No tienes que preocuparte. | You do not have to worry.
+¿Qué tengo que hacer ahora? | What do I have to do now?
+ 
+Hay un problema en el sistema. | There is a problem in the system.
+Hay muchas tareas pendientes. | There are many pending tasks.
+No hay ningún error. | There is no error.
+¿Hay alguna pregunta? | Is there any question?
+Aquí hay algo importante. | There is something important here.
+ 
+Voy a llamar al cliente. | I am going to call the client.
+Vamos a empezar la reunión. | We are going to start the meeting.
+¿Vas a venir mañana? | Are you going to come tomorrow?
+Ella va a enviar el archivo. | She is going to send the file.
+No voy a tardar mucho. | I am not going to take long.
+ 
+Quiero aprender rápido. | I want to learn fast.
+¿Quieres tomar un café? | Do you want to have a coffee?
+Queremos mejorar el proceso. | We want to improve the process.
+No quiero molestarte. | I do not want to bother you.
+Quisiera hacer una pregunta. | I would like to ask a question.
+ 
+¿Puedes ayudarme? | Can you help me?
+Puedo terminar esto hoy. | I can finish this today.
+No podemos esperar más. | We cannot wait any longer.
+¿Podrías repetir, por favor? | Could you repeat, please?
+Nadie puede abrir el archivo. | Nobody can open the file.
+ 
+Debo confirmar la información. | I must confirm the information.
+Debes firmar el documento. | You must sign the document.
+Necesito tu aprobación. | I need your approval.
+Necesitamos más recursos. | We need more resources.
+No debemos cometer ese error. | We must not make that mistake.
+ 
+¿Qué significa esto? | What does this mean?
+¿Quién es el responsable? | Who is the person in charge?
+¿Dónde guardaste el archivo? | Where did you save the file?
+¿Qué necesitas de mí? | What do you need from me?
+¿Con quién debo hablar? | Who should I talk to?
+ 
+¿Cuándo es la reunión? | When is the meeting?
+¿Cómo funciona esto? | How does this work?
+¿Por qué está atrasado? | Why is it late?
+¿Cuánto cuesta el servicio? | How much does the service cost?
+¿Cuál es la mejor opción? | Which is the best option?
+ 
+Me gusta esta idea. | I like this idea.
+No me gusta esperar. | I do not like to wait.
+¿Te gusta trabajar aquí? | Do you like working here?
+Me parece una buena solución. | It seems like a good solution to me.
+Nos falta un dato importante. | We are missing an important piece of data.
+ 
+Te llamo más tarde. | I will call you later.
+Lo entiendo perfectamente. | I understand it perfectly.
+¿Puedes enviármelo hoy? | Can you send it to me today?
+Le expliqué el proceso. | I explained the process to him.
+No la encontré en el sistema. | I did not find it in the system.
+ 
+Me levanto temprano. | I get up early.
+Me preparo para la reunión. | I get ready for the meeting.
+La oficina se cierra a las seis. | The office closes at six.
+Nos reunimos cada semana. | We meet every week.
+El proceso se hace en dos pasos. | The process is done in two steps.
+ 
+¿Qué haces ahora? | What are you doing now?
+No sé la respuesta. | I do not know the answer.
+Veo el problema claramente. | I see the problem clearly.
+Te doy un ejemplo. | I will give you an example.
+Siempre digo la verdad. | I always tell the truth.
+ 
+Ayer envié el informe. | Yesterday I sent the report.
+Terminamos el proyecto a tiempo. | We finished the project on time.
+¿Recibiste mi mensaje? | Did you receive my message?
+Hablé con el gerente esta mañana. | I spoke with the manager this morning.
+No encontré el error. | I did not find the error.
+ 
+Fui a la reunión sin él. | I went to the meeting without him.
+Tuve un problema con el sistema. | I had a problem with the system.
+Hice todo lo posible. | I did everything possible.
+Estuve fuera toda la semana. | I was away all week.
+No pude abrir el documento. | I could not open the document.
+ 
+He terminado la tarea. | I have finished the task.
+¿Has revisado los números? | Have you checked the numbers?
+Nunca he visto ese error. | I have never seen that error.
+Todavía no hemos decidido. | We have not decided yet.
+Ya he enviado la respuesta. | I have already sent the reply.
+ 
+Antes revisaba todo a mano. | I used to check everything by hand.
+Cuando era niño, hablaba poco. | When I was a child, I spoke little.
+Siempre llegábamos temprano. | We always used to arrive early.
+El sistema funcionaba mal. | The system used to work badly.
+Ella quería ayudar. | She wanted to help.
+ 
+Enviaré el documento mañana. | I will send the document tomorrow.
+Te avisaré cuando esté listo. | I will let you know when it is ready.
+El equipo revisará los datos. | The team will review the data.
+Hablaremos la próxima semana. | We will talk next week.
+No tardará mucho. | It will not take long.
+ 
+¿Podrías enviarme el archivo? | Could you send me the file?
+Me gustaría confirmar la fecha. | I would like to confirm the date.
+Sería mejor esperar. | It would be better to wait.
+Yo haría lo mismo. | I would do the same.
+¿Te importaría revisar esto? | Would you mind reviewing this?
+ 
+Si tengo tiempo, te ayudo. | If I have time, I will help you.
+Si envías hoy, llega mañana. | If you send today, it arrives tomorrow.
+Si hay un error, avísame. | If there is an error, let me know.
+Si no funciona, probamos otra cosa. | If it does not work, we will try something else.
+Puedes llamarme si necesitas. | You can call me if you need.
+ 
+Quiero que revises el informe. | I want you to review the report.
+Es importante que llegues a tiempo. | It is important that you arrive on time.
+Espero que todo salga bien. | I hope everything goes well.
+Necesito que me confirmes hoy. | I need you to confirm to me today.
+No creo que sea difícil. | I do not think it is difficult.
+ 
+Cuando llegue, te aviso. | When I arrive, I will let you know.
+Avísame cuando estés listo. | Let me know when you are ready.
+Aunque sea difícil, lo haré. | Even if it is difficult, I will do it.
+Lo haremos en cuanto podamos. | We will do it as soon as we can.
+Trabajaré hasta que termine. | I will work until I finish.
+ 
+Este método es más rápido. | This method is faster.
+Esta opción es menos cara. | This option is less expensive.
+Trabajo tanto como tú. | I work as much as you.
+Es la mejor solución posible. | It is the best possible solution.
+Hoy tengo menos tiempo que ayer. | Today I have less time than yesterday.
+ 
+No tengo ninguna duda. | I do not have any doubt.
+Nunca llego tarde. | I never arrive late.
+Nadie respondió el correo. | Nobody answered the email.
+Todavía no está listo. | It is not ready yet.
+Casi nunca uso ese sistema. | I almost never use that system.
+ 
+No respondió, por eso lo llamé. | He did not answer, so I called him.
+Es caro; sin embargo, funciona. | It is expensive; however, it works.
+Faltan datos, por lo tanto esperamos. | Data is missing, therefore we wait.
+Además, necesitamos su aprobación. | In addition, we need his approval.
+Aunque es tarde, vale la pena. | Even though it is late, it is worth it.
+ 
+¿Me puedes confirmar por escrito? | Can you confirm to me in writing?
+Quedo a la espera de tu respuesta. | I look forward to your reply.
+Cualquier duda, estoy a disposición. | If you have any question, I am available.
+Adjunto el archivo para tu revisión. | I attach the file for your review.
+Gracias de antemano por tu ayuda. | Thank you in advance for your help.
+ 
+Déjame ver y te confirmo. | Let me check and I will confirm.
+Tiene sentido lo que dices. | What you say makes sense.
+No estoy seguro, pero lo averiguo. | I am not sure, but I will find out.
+Perdona, ¿puedes repetir más despacio? | Sorry, can you repeat more slowly?
+Entonces, ¿quedamos así? | So, are we agreed on this?
