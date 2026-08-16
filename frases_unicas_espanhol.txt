@@ -1,3 +1,220 @@
+Tenemos una junta a las diez. | We have a meeting at ten.
+La junta se pospuso para mañana. | The meeting was postponed to tomorrow.
+Voy a entrar a una junta ahora. | I am going into a meeting now.
+La junta duró más de una hora. | The meeting lasted more than an hour.
+¿A qué hora es la junta? | What time is the meeting?
+Estoy en una junta, te llamo luego. | I am in a meeting, I will call you later.
+La junta directiva aprobó el plan. | The board approved the plan.
+Convocamos una junta urgente. | We called an urgent meeting.
+La próxima junta es el viernes. | The next meeting is on Friday.
+No pude asistir a la junta. | I could not attend the meeting.
+La junta se realizó por videollamada. | The meeting was held by video call.
+Prepararé la agenda de la junta. | I will prepare the meeting agenda.
+Todos los gerentes van a la junta. | All the managers go to the meeting.
+La junta terminó sin acuerdos. | The meeting ended without agreements.
+Agendemos una junta la próxima semana. | Let us schedule a meeting next week.
+La junta mensual es obligatoria. | The monthly meeting is mandatory.
+Me perdí el inicio de la junta. | I missed the start of the meeting.
+La junta se movió a otra sala. | The meeting was moved to another room.
+Tomé notas durante la junta. | I took notes during the meeting.
+La junta con el cliente salió bien. | The meeting with the client went well.
+Tenemos dos juntas seguidas hoy. | We have two back-to-back meetings today.
+Las juntas de los lunes son cortas. | Monday meetings are short.
+Cancelaron todas las juntas de hoy. | They canceled all of today's meetings.
+Las juntas largas cansan al equipo. | Long meetings tire the team out.
+Programé tres juntas para el martes. | I scheduled three meetings for Tuesday.
+La junta de resultados es trimestral. | The results meeting is quarterly.
+Después de la junta, enviaré el acta. | After the meeting, I will send the minutes.
+La junta se adelantó una hora. | The meeting was moved up an hour.
+Necesito salir antes de que acabe la junta. | I need to leave before the meeting ends.
+La junta de hoy fue muy productiva. | Today's meeting was very productive.
+
+Vamos a resolverlo juntos. | We are going to solve it together.
+Trabajamos mejor juntos. | We work better together.
+Las dos áreas trabajan juntas. | The two areas work together.
+Salimos juntos de la oficina. | We left the office together.
+Ellas estudian juntas cada tarde. | They study together every afternoon.
+Terminemos el informe juntos. | Let us finish the report together.
+Estuvimos juntos en el proyecto. | We were together on the project.
+Las piezas encajan juntas. | The pieces fit together.
+Almorzamos juntos el viernes. | We had lunch together on Friday.
+Todos juntos lo lograremos. | All together we will achieve it.
+
+Yo reviso los datos y tú los apruebas. | I check the data and you approve it.
+Él llegó tarde, pero ella llegó a tiempo. | He arrived late, but she arrived on time.
+Nosotros preparamos todo, ellos solo firman. | We prepare everything, they just sign.
+¿Usted es el gerente del área? | Are you the area manager?
+Ellas coordinan y ellos ejecutan. | They coordinate and they execute.
+Tú decides y yo te apoyo. | You decide and I support you.
+Ustedes envían y nosotros revisamos. | You all send and we review.
+Yo no fui, fue él. | It was not me, it was him.
+Ella y yo trabajamos juntas. | She and I work together.
+¿Quién lo hizo? Fui yo. | Who did it? It was me.
+Nosotras terminamos primero. | We finished first.
+Usted tiene la última palabra. | You have the final word.
+Ellos ya lo sabían. | They already knew it.
+Tú y él son del mismo equipo. | You and he are on the same team.
+Yo me encargo de esto. | I will take care of this.
+
+El informe lo envié ayer. | I sent the report yesterday.
+La factura la revisé esta mañana. | I reviewed the invoice this morning.
+Los documentos los guardé en la carpeta. | I saved the documents in the folder.
+Las tareas las terminamos a tiempo. | We finished the tasks on time.
+¿Me escuchas bien? | Can you hear me well?
+Te vi en la junta. | I saw you in the meeting.
+Nos llamaron del banco. | The bank called us.
+El correo no lo recibí. | I did not receive the email.
+A ella la conozco del trabajo. | I know her from work.
+Ese error ya lo corregí. | I already corrected that error.
+Los archivos los descargué. | I downloaded the files.
+La grabación la compartimos completa. | We shared the whole recording.
+¿Las llaves? No las encuentro. | The keys? I cannot find them.
+A ustedes los esperamos aquí. | We are waiting for you all here.
+El contrato lo firmé hoy. | I signed the contract today.
+
+Le envié el archivo al gerente. | I sent the file to the manager.
+Me dieron una buena noticia. | They gave me good news.
+Te explico el proceso en un minuto. | I will explain the process to you in a minute.
+Les avisamos a los empleados ayer. | We notified the employees yesterday.
+Nos entregaron el informe tarde. | They delivered the report to us late.
+Le pregunté al cliente su opinión. | I asked the client for his opinion.
+¿Te dieron la respuesta? | Did they give you the answer?
+Le pagamos al proveedor a tiempo. | We paid the supplier on time.
+Me hace falta un dato importante. | I am missing an important piece of data.
+Les enviaré la agenda mañana. | I will send them the agenda tomorrow.
+Le confirmé la fecha por correo. | I confirmed the date to him by email.
+Nos conviene esperar un poco. | It suits us to wait a little.
+¿Le avisaste al equipo? | Did you notify the team?
+Me interesa esa propuesta. | That proposal interests me.
+Le pedí un favor a mi colega. | I asked my colleague for a favor.
+
+Se lo envié al gerente esta mañana. | I sent it to the manager this morning.
+¿Me lo puedes confirmar por escrito? | Can you confirm it to me in writing?
+Te lo explico con un ejemplo. | I will explain it to you with an example.
+Ya se lo dije a ella. | I already told it to her.
+Nos lo entregaron sin errores. | They delivered it to us without errors.
+El archivo, te lo mando ahora. | The file, I will send it to you now.
+Se la pasé al equipo de soporte. | I passed it on to the support team.
+¿Se los enviaste a todos? | Did you send them to everyone?
+Me lo pidieron con urgencia. | They asked me for it urgently.
+La respuesta, se la doy mañana. | The answer, I will give it to her tomorrow.
+Te los guardo en la carpeta. | I will keep them for you in the folder.
+Nos la explicaron muy bien. | They explained it to us very well.
+Se lo agradezco de verdad. | I truly thank him for it.
+¿Me las puedes reenviar? | Can you forward them to me?
+El informe se lo presenté al director. | I presented the report to the director.
+
+Me levanto a las seis todos los días. | I get up at six every day.
+Te preocupas demasiado por el plazo. | You worry too much about the deadline.
+Se concentra mejor por la mañana. | He concentrates better in the morning.
+Nos reunimos cada lunes. | We meet every Monday.
+Me equivoqué en el cálculo. | I made a mistake in the calculation.
+Se prepara para la entrevista. | She is getting ready for the interview.
+Me acuerdo de esa reunión. | I remember that meeting.
+Te olvidaste de firmar el documento. | You forgot to sign the document.
+Nos organizamos por prioridades. | We organize ourselves by priorities.
+Se dedican a mejorar el proceso. | They devote themselves to improving the process.
+Me esfuerzo por aprender rápido. | I strive to learn fast.
+¿Cómo te sientes con el cambio? | How do you feel about the change?
+Se quejó del sistema lento. | He complained about the slow system.
+Me despido y nos vemos mañana. | I say goodbye and see you tomorrow.
+Nos adaptamos al nuevo horario. | We adapt to the new schedule.
+
+Este mensaje es para mí. | This message is for me.
+La decisión depende de ti. | The decision depends on you.
+¿Quieres venir conmigo a la junta? | Do you want to come with me to the meeting?
+Voy contigo al aeropuerto. | I am going with you to the airport.
+El informe es para ustedes. | The report is for you all.
+No hay nada entre tú y yo que aclarar. | There is nothing between you and me to clarify.
+Según él, el plazo es corto. | According to him, the deadline is short.
+Trajo los documentos consigo. | He brought the documents with him.
+Habló muy bien de ti. | He spoke very well of you.
+A mí me parece razonable. | To me it seems reasonable.
+Cuenta conmigo para eso. | Count on me for that.
+El regalo es para ella. | The gift is for her.
+Todo esto lo hago por ti. | I do all of this for you.
+Piensa solo en sí mismo. | He thinks only of himself.
+Para nosotros, la calidad es prioridad. | For us, quality is a priority.
+
+Mi oficina está en el tercer piso. | My office is on the third floor.
+Tu propuesta es mejor que la mía. | Your proposal is better than mine.
+Su decisión sorprendió a todos. | His decision surprised everyone.
+Nuestro equipo cumplió la meta. | Our team met the goal.
+Ese escritorio es mío. | That desk is mine.
+La responsabilidad es tuya. | The responsibility is yours.
+El error fue nuestro, no suyo. | The mistake was ours, not theirs.
+Tus datos y los míos coinciden. | Your data and mine match.
+Esta idea es suya, no mía. | This idea is his, not mine.
+Nuestros clientes confían en nosotros. | Our clients trust us.
+¿Este archivo es tuyo? | Is this file yours?
+Mi horario cambió esta semana. | My schedule changed this week.
+La culpa no es suya. | The fault is not his.
+Sus resultados superaron los nuestros. | Their results beat ours.
+Ese informe es el nuestro. | That report is ours.
+
+Este informe es más completo que ese. | This report is more complete than that one.
+Esa opción me parece mejor. | That option seems better to me.
+Aquel proyecto quedó sin terminar. | That project was left unfinished.
+¿Qué es esto? | What is this?
+Eso no tiene sentido. | That does not make sense.
+Esto que dices es importante. | This that you say is important.
+Prefiero este método, no aquel. | I prefer this method, not that one.
+Esas tareas ya están listas. | Those tasks are already done.
+Aquello ocurrió hace años. | That happened years ago.
+Este es el archivo correcto. | This is the correct file.
+Ese fue un buen ejemplo. | That was a good example.
+Estos datos son de ayer. | These data are from yesterday.
+¿Recuerdas aquella reunión? | Do you remember that meeting?
+Todo esto lo revisamos hoy. | We review all of this today.
+Eso es exactamente lo que necesito. | That is exactly what I need.
+
+El empleado que llegó tarde se disculpó. | The employee who arrived late apologized.
+La persona con quien hablé fue clara. | The person I spoke with was clear.
+Este es el informe que te mencioné. | This is the report I mentioned to you.
+El cliente cuyo contrato vence hoy llamó. | The client whose contract expires today called.
+La sala donde fue la junta es pequeña. | The room where the meeting was is small.
+Lo que dijiste tiene mucho sentido. | What you said makes a lot of sense.
+Los que terminaron pueden salir. | Those who finished may leave.
+El proveedor que elegimos es confiable. | The supplier we chose is reliable.
+La razón por la que llamé es simple. | The reason I called is simple.
+Quien no avise, pierde su lugar. | Whoever does not notify loses their spot.
+El proyecto en el que trabajo es nuevo. | The project I work on is new.
+Necesito algo que funcione mejor. | I need something that works better.
+Ese es el motivo por el cual esperamos. | That is the reason why we are waiting.
+Lo que importa es el resultado. | What matters is the result.
+La empresa cuya sede está aquí creció. | The company whose headquarters is here grew.
+
+¿Qué necesitas de mí exactamente? | What exactly do you need from me?
+¿Quién aprobó esta solicitud? | Who approved this request?
+¿Cuál de las dos opciones prefieres? | Which of the two options do you prefer?
+¿Cuántos casos revisaste hoy? | How many cases did you review today?
+¿Cómo llegaste a esa conclusión? | How did you reach that conclusion?
+¿Dónde guardaron el archivo final? | Where did they save the final file?
+¿Por qué se retrasó el pago? | Why was the payment delayed?
+¿Con quién debo hablar sobre esto? | Who should I talk to about this?
+¿Qué tan grave es el problema? | How serious is the problem?
+¿Cuál sería el siguiente paso? | What would the next step be?
+¡Qué buena idea! | What a good idea!
+¡Cuánto trabajo tenemos hoy! | What a lot of work we have today!
+¿A qué hora empieza la junta? | What time does the meeting start?
+¿De quién es esta propuesta? | Whose proposal is this?
+¿Cuánto cuesta cambiar el plan? | How much does it cost to change the plan?
+
+Alguien dejó un mensaje para ti. | Someone left a message for you.
+Nadie contestó el mensaje. | Nobody answered the message.
+Necesito algo más específico. | I need something more specific.
+No tengo nada que agregar. | I have nothing to add.
+Algún gerente debe aprobarlo. | Some manager must approve it.
+Ninguno de los archivos se abrió. | None of the files opened.
+Todos los datos están correctos. | All the data are correct.
+Cada uno tiene su tarea asignada. | Each one has their assigned task.
+Cualquiera puede cometer ese error. | Anyone can make that mistake.
+Algunos llegaron tarde a la junta. | Some arrived late to the meeting.
+No vino nadie a la reunión. | Nobody came to the meeting.
+Hay algo raro en el sistema. | There is something strange in the system.
+Ninguna opción me convence. | No option convinces me.
+Todo el equipo participó. | The whole team participated.
+Elige cualquiera de los dos. | Choose either of the two.
 Hola, ¿cómo estás? | Hello, how are you?
 Estoy muy bien, gracias. | I am very well, thank you.
 ¿Cómo te llamas? | What is your name?
