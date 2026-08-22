@@ -11,7 +11,7 @@
    Para trocar de versão: incremente CACHE_VERSION.
 ═══════════════════════════════════════════════════════════════ */
 
-const CACHE_VERSION = "v2";
+const CACHE_VERSION = "v3";
 const CACHE_NAME = `lousa-es-${CACHE_VERSION}`;
 
 const APP_SHELL = [
@@ -25,6 +25,7 @@ const APP_SHELL = [
   "./bridge-mode.js",
   "./ux-mobile.js",
   "./data-loader.js",
+  "./add-phrases.js",
   "./frases_unicas_espanhol.txt",
   "./manifest.webmanifest",
   "./icon-192.png",
