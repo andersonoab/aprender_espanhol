@@ -893,14 +893,28 @@ async function playGuidedReading(card = currentCard) {
   if (token !== autoReadToken || !autoReadMode) return;
 
   window.speechSynthesis.cancel();
-  await speakQueued(card.en, 'es-ES', 0.98);
-  if (token !== autoReadToken || !autoReadMode) return;
-  await speakQueued(card.en, 'es-ES', 0.94);
-  if (token !== autoReadToken || !autoReadMode) return;
-  await speakQueued(pt || 'Tradução indisponível', 'en-US', 1.02);
-  if (token !== autoReadToken || !autoReadMode) return;
-  await speakQueued(card.en, 'es-ES', 0.96);
-  if (token !== autoReadToken || !autoReadMode) return;
+
+  // Fonte única de verdade: as mesmas preferências do Modo Caminhada,
+  // que os seletores "Repetições em espanhol/inglês" já controlam. Sem
+  // isto, esta leitura ignorava o seletor de inglês e falava a tradução
+  // sempre uma vez só.
+  const wp = (window.WalkEngine && window.WalkEngine.prefs) || {};
+  const repsEs = Math.max(1, wp.repeatEn || 2);
+  const falarPt = wp.includePt !== false;
+  const repsPt = Math.max(1, wp.repeatPt || 1);
+
+  for (let i = 0; i < repsEs; i++) {
+    await speakQueued(card.en, 'es-ES', 0.98 - i * 0.04);
+    if (token !== autoReadToken || !autoReadMode) return;
+  }
+  if (falarPt) {
+    for (let j = 0; j < repsPt; j++) {
+      await speakQueued(pt || 'Tradução indisponível', 'en-US', 1.02 - j * 0.04);
+      if (token !== autoReadToken || !autoReadMode) return;
+    }
+    await speakQueued(card.en, 'es-ES', 0.96);
+    if (token !== autoReadToken || !autoReadMode) return;
+  }
   await new Promise(resolve => setTimeout(resolve, 450));
   if (token !== autoReadToken || !autoReadMode) return;
 
@@ -929,8 +943,14 @@ async function toggleAutoReadMode() {
   updateAutoReadButton();
   const el = document.getElementById('speechStatus');
   if (el) {
+    const wp = (window.WalkEngine && window.WalkEngine.prefs) || {};
+    const rEs = Math.max(1, wp.repeatEn || 2);
+    const rPt = Math.max(1, wp.repeatPt || 1);
+    const temPt = wp.includePt !== false;
     el.textContent = autoReadMode
-      ? 'Leitura guiada contínua ativa: 2x em espanhol, 1x em inglês e 1x em espanhol até você parar.'
+      ? `Leitura guiada contínua ativa: ${rEs}x em espanhol` +
+        (temPt ? `, ${rPt}x em inglês e 1x em espanhol` : '') +
+        ' até você parar.'
       : 'Leitura guiada desligada.';
   }
   if (autoReadMode && currentCard) {

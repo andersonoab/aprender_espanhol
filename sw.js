@@ -11,7 +11,7 @@
    Para trocar de versão: incremente CACHE_VERSION.
 ═══════════════════════════════════════════════════════════════ */
 
-const CACHE_VERSION = "v3";
+const CACHE_VERSION = "v4";
 const CACHE_NAME = `lousa-es-${CACHE_VERSION}`;
 
 const APP_SHELL = [
