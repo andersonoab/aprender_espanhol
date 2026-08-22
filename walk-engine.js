@@ -70,6 +70,7 @@ window.WalkEngine = (function () {
     voice: "auto",        // auto | mp3 | tts
     repeatEn: 2,          // repetições em espanhol antes do inglês
     includePt: true,      // fala a tradução
+    repeatPt: 1,          // repetições em inglês (só quando includePt liga)
     pace: "normal",       // rapido | normal | pausado
     gapMs: 250,           // pausa entre frases
     rate: 1.0             // velocidade da fala
@@ -508,7 +509,10 @@ window.WalkEngine = (function () {
       q.push({ text: card.en, lang: "es-ES", rate: prefs.rate - i * 0.04 });
     }
     if (prefs.includePt) {
-      q.push({ text: pt || "Tradução indisponível", lang: "en-US", rate: 1.02 });
+      const repsPt = Math.max(1, prefs.repeatPt);
+      for (let j = 0; j < repsPt; j++) {
+        q.push({ text: pt || "Tradução indisponível", lang: "en-US", rate: 1.02 - j * 0.04 });
+      }
       q.push({ text: card.en, lang: "es-ES", rate: prefs.rate - 0.02 });
     }
     q.push({ silence: prefs.gapMs });
@@ -844,6 +848,11 @@ window.WalkEngine = (function () {
     if (pc) pc.value = prefs.pace;
     const rp = document.getElementById("walkRepeatSelect");
     if (rp) rp.value = String(prefs.repeatEn);
+    const rpPt = document.getElementById("walkRepeatPtSelect");
+    if (rpPt) {
+      rpPt.value = String(prefs.repeatPt);
+      rpPt.disabled = !prefs.includePt;
+    }
     const pt = document.getElementById("walkIncludePt");
     if (pt) pt.checked = !!prefs.includePt;
 
@@ -905,10 +914,15 @@ window.WalkEngine = (function () {
       });
     });
 
-    bind("walkIncludePt", "change", (e) => setPref("includePt", e.target.checked));
+    bind("walkIncludePt", "change", (e) => {
+      setPref("includePt", e.target.checked);
+      const rpPt = document.getElementById("walkRepeatPtSelect");
+      if (rpPt) rpPt.disabled = !e.target.checked;
+    });
     bind("walkVoiceSelect", "change", (e) => setPref("voice", e.target.value));
     bind("walkPaceSelect", "change", (e) => setPref("pace", e.target.value));
     bind("walkRepeatSelect", "change", (e) => setPref("repeatEn", parseInt(e.target.value, 10) || 2));
+    bind("walkRepeatPtSelect", "change", (e) => setPref("repeatPt", parseInt(e.target.value, 10) || 1));
 
     bind("pocketModeBtn", "click", openPocket);
     bind("pocketClose", "click", closePocket);
