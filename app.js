@@ -1061,7 +1061,52 @@ function loadPersistedSentences() {
 function renderStatusLine(en) {
   const entry = srs[en];
   const line = document.getElementById("statusLine");
-  if (!entry) { line.style.display = "none"; return; }
+  const numEl = document.getElementById("statusNumber");
+
+  // Número da frase atual (posição no banco carregado).
+  // Aparece SEMPRE que houver frase na tela, mesmo que ela ainda
+  // não tenha histórico de SRS — assim dá para controlar quais
+  // frases já foram feitas e em qual você está.
+  const total = sentences.length;
+  let idx = sentences.findIndex(s => s.en === en);
+  if (idx < 0) idx = (currentCardIndex >= 0 ? currentCardIndex : -1);
+
+  if (numEl) {
+    if (idx >= 0 && total > 0) {
+      numEl.innerHTML = `<i class="fa fa-hashtag"></i> Frase <b>${idx + 1}</b> de ${total}`;
+      numEl.style.display = "inline-flex";
+    } else {
+      numEl.textContent = "";
+      numEl.style.display = "none";
+    }
+  }
+
+  // Sem entrada de SRS: ainda assim mostramos a linha só com o número,
+  // ocultando os campos de caixa/revisão que dependem do histórico.
+  if (!entry) {
+    const boxEl = document.getElementById("statusBox");
+    const dueEl = document.getElementById("statusDue");
+    const repEl = document.getElementById("statusRepeat");
+    const modeEl = document.getElementById("statusMode");
+    if (boxEl) boxEl.innerHTML = "";
+    if (dueEl) dueEl.innerHTML = "";
+    if (repEl) repEl.innerHTML = "";
+    if (modeEl) modeEl.innerHTML = "";
+
+    if (idx >= 0 && total > 0) {
+      // esconde o rótulo "Status:" quando não há dados de SRS
+      const muted = line ? line.querySelector(".muted") : null;
+      if (muted) muted.style.display = "none";
+      line.style.display = "inline-block";
+    } else {
+      line.style.display = "none";
+    }
+    return;
+  }
+
+  // Há SRS: garante que o rótulo "Status:" volte a aparecer.
+  const mutedLabel = line ? line.querySelector(".muted") : null;
+  if (mutedLabel) mutedLabel.style.display = "";
 
   line.style.display = "inline-block";
 
