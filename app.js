@@ -374,6 +374,10 @@ function pickWorstCard(forceDueOnly = false) {
 const SRS_KEY = "srsData_v1";
 const SENTENCES_KEY = "sentences_v2";
 const CURRENT_KEY = "currentKey_v1";
+// Número (1-based) da última frase carregada. Serve de âncora posicional
+// para retomar de onde parou mesmo quando o banco é atualizado e o texto
+// exato da última frase não é mais encontrado.
+const RESUME_POS_KEY = "resumePos_v1";
 const TRANSLATION_KEY = "translationCache_v1";
 
 const BOX_INTERVALS_MS = {
@@ -490,6 +494,39 @@ function getCardByEn(en) {
   return sentences.find(s => s.en === en) || null;
 }
 
+// =========================
+// RETOMAR DE ONDE PAROU
+// =========================
+// Resolve qual frase deve abrir ao iniciar o app OU ao (re)carregar o
+// banco (Online/TXT). Estratégia em três camadas, da mais fiel à mais
+// tolerante — nunca "volta ao começo" se houver posição salva:
+//   1) Texto exato da última frase (CURRENT_KEY): continuação perfeita,
+//      inclusive se o banco só cresceu (frases novas ao final).
+//   2) Âncora posicional (RESUME_POS_KEY): se o texto sumiu porque a
+//      frase foi editada/removida na atualização, retoma pelo mesmo
+//      número, ajustado ao novo tamanho do banco.
+//   3) Só então cai na navegação normal (banco novo, sem histórico).
+function resolveResumeCard() {
+  if (!sentences.length) return null;
+
+  // 1) Continuação exata pela frase
+  const lastKey = localStorage.getItem(CURRENT_KEY);
+  if (lastKey) {
+    const c = getCardByEn(lastKey);
+    if (c) return c;
+  }
+
+  // 2) Continuação posicional (número salvo, ajustado ao banco atual)
+  const rawPos = parseInt(localStorage.getItem(RESUME_POS_KEY) || "", 10);
+  if (!Number.isNaN(rawPos) && rawPos >= 1) {
+    const idx = Math.min(rawPos - 1, sentences.length - 1);
+    if (sentences[idx]) return sentences[idx];
+  }
+
+  // 3) Sem âncora: navegação normal
+  return pickCardForNavigation(false, 1);
+}
+
 function pickNextCard(forceReviewOnly = false) {
   tickRepeatSoonCounters();
 
@@ -570,9 +607,72 @@ function renderSidebarHistory() {
 }
 
 function saveHistory(en, pt) {
-  history.push({ en, pt });
+  // Guarda também o número (posição 1-based no banco) e o horário, para
+  // o card "Última frase do histórico" mostrar exatamente onde você parou.
+  let n = sentences.findIndex(s => s.en === en);
+  n = (n >= 0) ? n + 1 : null;
+  history.push({ en, pt, n, t: Date.now() });
   localStorage.setItem('history', JSON.stringify(history));
   renderSidebarHistory();
+  renderLastSeenCard();
+}
+
+// Tempo relativo curto ("agora", "há 3 min", "há 2 h", "há 4 d").
+function formatAgo(ts) {
+  if (!ts) return "";
+  const diff = Math.max(0, Date.now() - ts);
+  const min = Math.floor(diff / 60000);
+  if (min < 1) return "agora";
+  if (min < 60) return `há ${min} min`;
+  const h = Math.floor(min / 60);
+  if (h < 24) return `há ${h} h`;
+  const d = Math.floor(h / 24);
+  return `há ${d} d`;
+}
+
+// Card fixo com o NÚMERO e a última frase registrada no histórico.
+// Renderiza no boot (para você ver onde parou ao reabrir), a cada
+// tradução revelada e quando o banco é (re)carregado ou limpo.
+function renderLastSeenCard() {
+  const card = document.getElementById('lastSeenCard');
+  if (!card) return;
+
+  if (!history.length) {
+    card.style.display = 'none';
+    return;
+  }
+
+  const last = history[history.length - 1];
+
+  // Número: usa o salvo; se a entrada é antiga (sem número) ou o banco
+  // mudou, recalcula pela posição atual da frase no banco.
+  let n = last.n;
+  const liveIdx = sentences.findIndex(s => s.en === last.en);
+  if (liveIdx >= 0) n = liveIdx + 1;
+  const total = sentences.length;
+
+  const numEl  = document.getElementById('lastSeenNumber');
+  const enEl   = document.getElementById('lastSeenEn');
+  const ptEl   = document.getElementById('lastSeenPt');
+  const timeEl = document.getElementById('lastSeenTime');
+
+  if (numEl) {
+    if (n && total) {
+      numEl.innerHTML = `<i class="fa fa-hashtag"></i> Frase <b>${n}</b> de ${total}`;
+    } else if (n) {
+      numEl.innerHTML = `<i class="fa fa-hashtag"></i> Frase <b>${n}</b>`;
+    } else {
+      numEl.innerHTML = `<i class="fa fa-hashtag"></i> Fora do banco atual`;
+    }
+  }
+  if (enEl) enEl.textContent = last.en || "";
+  if (ptEl) {
+    ptEl.textContent = last.pt || "";
+    ptEl.style.display = last.pt ? 'block' : 'none';
+  }
+  if (timeEl) timeEl.textContent = formatAgo(last.t);
+
+  card.style.display = 'block';
 }
 
 function speak(txt, lang = 'es-ES', rate = 1) {
@@ -1300,6 +1400,8 @@ function loadSentence(card) {
 
   markCardShown(textEn);
   localStorage.setItem(CURRENT_KEY, textEn);
+  // Âncora posicional para retomada tolerante a atualizações do banco.
+  localStorage.setItem(RESUME_POS_KEY, String(currentCardIndex + 1));
 
   renderStatusLine(textEn);
 }
@@ -1880,16 +1982,11 @@ document.addEventListener('DOMContentLoaded', () => {
       saveTrainMode();
     }
 
-    const lastKey = localStorage.getItem(CURRENT_KEY);
-    const lastCard = lastKey ? getCardByEn(lastKey) : null;
-
-    let startCard = lastCard || null;
-    if (!startCard) {
-      startCard = pickCardForNavigation(false, 1);
-    }
+    const startCard = resolveResumeCard();
 
     loadWalkMode();
     loadSentence(startCard);
+    renderLastSeenCard();
 
     document.getElementById("nextBtn").style.display = 'inline-block';
     document.getElementById("reviewNowBtn").style.display = 'inline-block';
@@ -1964,6 +2061,7 @@ document.addEventListener('DOMContentLoaded', () => {
   renderPrediction();
   renderBrCoach();
   renderSpeechPanel();
+  renderLastSeenCard();
 });
 
 // =========================
@@ -1986,8 +2084,10 @@ document.getElementById("loadOnlineBtn").onclick = () => {
         refreshWorstListIfNeeded();
       }
 
-      const next = pickCardForNavigation(false, 1);
+      // Continua de onde parou, mesmo com o banco atualizado.
+      const next = resolveResumeCard();
       loadSentence(next);
+      renderLastSeenCard();
 
       document.getElementById("nextBtn").style.display = "inline-block";
       document.getElementById("reviewNowBtn").style.display = "inline-block";
@@ -2023,8 +2123,10 @@ document.getElementById("fileInput").onchange = function () {
       refreshWorstListIfNeeded();
     }
 
-    const next = pickCardForNavigation(false, 1);
+    // Continua de onde parou, mesmo com o banco atualizado.
+    const next = resolveResumeCard();
     loadSentence(next);
+    renderLastSeenCard();
 
     document.getElementById("nextBtn").style.display = 'inline-block';
     document.getElementById("reviewNowBtn").style.display = 'inline-block';
@@ -2078,6 +2180,7 @@ document.getElementById("clearBtn").onclick = () => {
   history = [];
   localStorage.removeItem('history');
   renderSidebarHistory();
+  renderLastSeenCard();
 };
 
 // =========================
