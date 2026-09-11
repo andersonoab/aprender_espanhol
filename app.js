@@ -527,6 +527,50 @@ function resolveResumeCard() {
   return pickCardForNavigation(false, 1);
 }
 
+// =========================
+// NAVEGAÇÃO POSICIONAL (voltar / ir para número)
+// =========================
+// Diferente de "Próxima Frase" (que segue a lógica de repetição
+// espaçada), estas funções andam pela POSIÇÃO no banco: exatamente a
+// frase anterior, ou o número que você digitar. Reaproveitam
+// loadSentence(), então CURRENT_KEY e RESUME_POS_KEY são atualizados e
+// a retomada continua consistente.
+function goToSentenceIndex(idx) {
+  if (!sentences.length) return;
+  const len = sentences.length;
+  let i = idx;
+  if (i < 0) i = 0;
+  if (i > len - 1) i = len - 1;
+
+  autoAdvanceToken += 1;
+  window.speechSynthesis.cancel();
+  lastAttemptWasIncorrect = false;
+  loadSentence(sentences[i]);
+}
+
+function goToPreviousSentence() {
+  if (!sentences.length) return;
+  const base = (currentCardIndex >= 0) ? currentCardIndex : 0;
+  if (base <= 0) return; // já está na primeira; não há anterior
+  goToSentenceIndex(base - 1);
+}
+
+// n é 1-based. Retorna false se o número for inválido/fora do banco.
+function goToSentenceNumber(n) {
+  const num = parseInt(n, 10);
+  if (Number.isNaN(num) || num < 1 || num > sentences.length) return false;
+  goToSentenceIndex(num - 1);
+  return true;
+}
+
+// Mostra a barra de navegação e ajusta o máximo do campo ao banco atual.
+function showPhraseNav() {
+  const nav = document.getElementById("phraseNav");
+  if (nav) nav.style.display = "flex";
+  const input = document.getElementById("jumpToInput");
+  if (input) input.max = sentences.length || 1;
+}
+
 function pickNextCard(forceReviewOnly = false) {
   tickRepeatSoonCounters();
 
@@ -1987,6 +2031,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadWalkMode();
     loadSentence(startCard);
     renderLastSeenCard();
+    showPhraseNav();
 
     document.getElementById("nextBtn").style.display = 'inline-block';
     document.getElementById("reviewNowBtn").style.display = 'inline-block';
@@ -2088,6 +2133,7 @@ document.getElementById("loadOnlineBtn").onclick = () => {
       const next = resolveResumeCard();
       loadSentence(next);
       renderLastSeenCard();
+      showPhraseNav();
 
       document.getElementById("nextBtn").style.display = "inline-block";
       document.getElementById("reviewNowBtn").style.display = "inline-block";
@@ -2127,6 +2173,7 @@ document.getElementById("fileInput").onchange = function () {
     const next = resolveResumeCard();
     loadSentence(next);
     renderLastSeenCard();
+    showPhraseNav();
 
     document.getElementById("nextBtn").style.display = 'inline-block';
     document.getElementById("reviewNowBtn").style.display = 'inline-block';
@@ -2168,6 +2215,30 @@ document.getElementById("nextBtn").onclick = () => {
   const step = (lastAttemptWasIncorrect && newOnlyMode && trainMode !== "worst") ? SKIP_FORWARD_N : 1;
   advanceToNext(step, false);
 };
+
+// ── Voltar uma frase (posicional) ──
+document.getElementById("prevBtn").onclick = () => {
+  if (!sentences.length) return;
+  goToPreviousSentence();
+};
+
+// ── Ir para uma frase específica (por número) ──
+function handleJumpTo() {
+  const input = document.getElementById("jumpToInput");
+  if (!input) return;
+  const ok = goToSentenceNumber(input.value);
+  if (!ok) {
+    input.classList.add("jump-error");
+    setTimeout(() => input.classList.remove("jump-error"), 900);
+    return;
+  }
+  input.value = "";
+  input.blur();
+}
+document.getElementById("jumpToBtn").onclick = handleJumpTo;
+document.getElementById("jumpToInput").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") { e.preventDefault(); handleJumpTo(); }
+});
 
 document.getElementById("reviewNowBtn").onclick = () => {
   if (!sentences.length) return;

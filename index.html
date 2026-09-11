@@ -132,6 +132,16 @@
         <span id="statusMode"></span>
       </div>
 
+      <!-- Navegação por posição: voltar uma frase / ir para um número -->
+      <div class="phrase-nav" id="phraseNav" style="display:none;">
+        <button id="prevBtn" class="btn btn-soft phrase-nav-btn"><i class="fa fa-backward"></i> Frase anterior</button>
+        <div class="phrase-jump">
+          <span class="phrase-jump-label">Ir para</span>
+          <input type="number" id="jumpToInput" min="1" inputmode="numeric" placeholder="nº" />
+          <button id="jumpToBtn" class="btn btn-soft phrase-nav-btn"><i class="fa fa-location-arrow"></i> Ir</button>
+        </div>
+      </div>
+
       <div id="audio-controls">
         <button id="playAudioEn" class="btn btn-orange"><i class="fa fa-volume-up"></i> Ouvir em Espanhol</button>
         <button id="revealBtn" class="btn btn-orange"><i class="fa fa-eye"></i> Revelar Tradução</button>
