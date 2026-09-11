@@ -1482,7 +1482,16 @@ body.bridge-on .slot .hint { opacity: 0.25; }
 }
 
 #pocketOverlay.open { display: flex; }
-#pocketOverlay.dim { opacity: 0.06; }
+
+/* Escurecimento do Modo Bolso.
+   Antes o opacity era aplicado no overlay INTEIRO (#pocketOverlay.dim),
+   o que deixava o próprio fundo preto quase transparente — por isso a
+   tela de trás (controles/configurações) "aparecia" através dele.
+   Agora o fundo preto continua 100% opaco cobrindo tudo, e apenas o
+   CONTEÚDO (frase, botões, dica) escurece. Tocar em qualquer ponto
+   remove a classe .dim e reacende. */
+#pocketOverlay > * { transition: opacity .6s var(--ease); }
+#pocketOverlay.dim > * { opacity: 0.06; }
 
 .pocket-close {
   position: absolute;
