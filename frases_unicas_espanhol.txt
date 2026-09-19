@@ -1,3 +1,503 @@
+How are you? | ¿Cómo estás?
+Sorry, what was your name again? | Lo siento, ¿cuál era tu nombre?
+Do you know João? | ¿Conoces a João?
+Silvia has told me a lot about you. | Silvia me ha hablado mucho de ti.
+I've been looking forward to meeting you. | Tenía muchas ganas de conocerte.
+At last, we meet! | ¡Por fin nos encontramos!
+It was nice meeting you. | Fue un placer conocerte.
+How long have you been here? | ¿Cuánto tiempo llevas aquí?
+Where are you living? | ¿Dónde vives?
+How do you like it here? | ¿Qué te parece aquí?
+How do you like the food? | ¿Cómo te gusta la comida?
+Where have you been in Florianópolis? | ¿Dónde has estado en Florianópolis?
+Have you been anywhere else? | ¿Has estado en algún otro lugar?
+Do you miss home? | ¿Extrañas tu hogar?
+Do you know any Portuguese yet? | ¿Ya sabes algo de portugués?
+You have to go. | Tienes que irte.
+You know where you should go? | ¿Sabes a dónde deberías ir?
+Let me give you my phone number. | Déjame darte mi número de teléfono.
+Call me and we'll do something. | Llámame y haremos algo.
+It would be my pleasure to show you around the city. | Sería un placer mostrarte la ciudad.
+I was born in 1967. | Nací en 1967.
+I was born in Belo Horizonte. | Nací en Belo Horizonte.
+My parents were very strict. | Mis padres eran muy estrictos.
+My parents were pretty well off. | Mis padres estaban bastante bien.
+We never had it easy. | Nunca lo tuvimos fácil.
+We always had to struggle. | Siempre tuvimos que luchar.
+I was always getting into trouble. | Siempre me estaba metiendo en problemas.
+My father left my mother when I was young. | Mi padre dejó a mi madre cuando yo era joven.
+My parents are divorced. | Mis padres están divorciados.
+I just haven't found the right person yet. | Simplemente todavía no he encontrado a la persona adecuada.
+I've been married twice. | He estado casado dos veces.
+I got my first job when I was 21 years old. | Conseguí mi primer trabajo cuando tenía 21 años.
+I have two brothers and one sister. | Tengo dos hermanos y una hermana.
+My brother is a doctor. | Mi hermano es médico.
+My sister lives in Porto Alegre. | Mi hermana vive en Porto Alegre.
+My parents got divorced when I was 12. | Mis padres se divorciaron cuando yo tenía 12 años.
+I also have family in Petrópoles. | También tengo familia en Petrópoles.
+I have two children from my first marriage. | Tengo dos hijos de mi primer matrimonio.
+Do you come from a big family? | ¿Vienes de una familia numerosa?
+How long have you been married? | ¿Cuánto tiempo llevas casado?
+Did you have any trouble finding it? | ¿Tuviste algún problema para encontrarlo?
+I'm glad you could come. | Me alegra que hayas podido venir.
+Please come in! | ¡Por favor entra!
+Let me take your coat. | Déjame tomar tu abrigo.
+I'm just going to put this away, OK! | Voy a guardar esto, ¡vale!
+Please make yourself at home. | Siéntase como en casa.
+Are you hungry? | ¿Tienes hambre?
+Can I get you something to drink? | ¿Puedo traerte algo de beber?
+Would you like some wine? | ¿Quieres un poco de vino?
+Do you mind if I smoke? | ¿Te importa si fumo?
+Wouldn't you like some coffee before you go? | ¿No te apetece un café antes de irte?
+Let me get your things. | Déjame recoger tus cosas.
+Thanks for coming by. | Gracias por venir.
+I'm so glad you could come. | Me alegra mucho que hayas podido venir.
+Please feel free to stop by anytime. | No dudes en pasar por aquí en cualquier momento.
+Don't be a stranger. | No seas un extraño.
+Would you like to stay here? | ¿Quieres quedarte aquí?
+You can sleep here if you like. | Puedes dormir aquí si quieres.
+It's a little late to be driving. | Es un poco tarde para conducir.
+You have a long drive. | Tienes un largo viaje en coche.
+What kind of movies do you like? | ¿Qué tipo de películas te gustan?
+It looks great on the previews. | Se ve muy bien en las vistas previas.
+It's been a while since I've seen a good movie. | Ha pasado un tiempo desde que vi una buena película.
+I thought it was a little predictable. | Pensé que era un poco predecible.
+The acting could have been better. | La actuación podría haber sido mejor.
+I'd wait until it comes out on video. | Esperaría a que salga en vídeo.
+It wasn't at all what I expected. | No era en absoluto lo que esperaba.
+It looked much better in the previews. | Se veía mucho mejor en las vistas previas.
+It was so bad I walked out. | Fue tan malo que me fui.
+I wanted my money back. | Quería que me devolvieran mi dinero.
+It had its moments. | Tuvo sus momentos.
+There's this one scene you have to see. | Hay una escena que tienes que ver.
+It had good special effects. | Tenía buenos efectos especiales.
+I was on the edge of my seat. | Estaba al borde de mi asiento.
+I was glued to my seat. | Estaba pegado a mi asiento.
+I couldn't stop laughing. | No podía dejar de reír.
+I laughed so hard I cried. | Me reí tanto que lloré.
+It took a while to get going. | Tomó un tiempo ponerse en marcha.
+I won't tell you what happens at the end because it will spoil it. | No os cuento lo que pasa al final porque lo estropearía.
+Robert de Niro was excellent. | Robert de Niro fue excelente.
+It had a thin plot. | Tenía una trama delgada.
+Hi, may I speak to Silvia, please? | Hola, ¿puedo hablar con Silvia, por favor?
+Hi, is Silvia there? | Hola, ¿Silvia está ahí?
+Are you busy? | ¿Estás ocupado?
+Did I catch a bad time? | ¿Pasé un mal momento?
+Did you get my message? | ¿Recibiste mi mensaje?
+Who's calling, please? | ¿Quién llama, por favor?
+I'm glad you called. | Me alegra que hayas llamado.
+I got your message, thanks. | Recibí tu mensaje, gracias.
+I've been expecting your call. | Estaba esperando tu llamada.
+Can you hang on just a second? | ¿Puedes esperar un segundo?
+I have another call. | Tengo otra llamada.
+Can you hear me OK? | ¿Puedes oírme bien?
+Can I call you back? | ¿Puedo devolverte la llamada?
+Do you want me to call you back? | ¿Quieres que te devuelva la llamada?
+This call must be costing you a fortune. | Esta llamada debe estar costándote una fortuna.
+I'm kind of in the middle of something right now. | Estoy como en medio de algo ahora mismo.
+Oh, you know what? | ¿Sabes qué?
+I have to go. | Tengo que irme.
+Sorry, we got cut off. | Lo sentimos, nos cortaron.
+I think we got a bad line. | Creo que tenemos una mala línea.
+I can barely hear you. | Apenas puedo oírte.
+I'm getting an echo. | Estoy recibiendo un eco.
+Sorry I missed you. | Lo siento, te extrañé.
+I think you're avoiding me. | Creo que me estás evitando.
+Well, I guess you're still at work. | Bueno, supongo que todavía estás en el trabajo.
+Give me a call when you get a chance. | Llámame cuando tengas la oportunidad.
+I'll try calling you back later. | Intentaré llamarte más tarde.
+Would you like to leave a message? | ¿Quieres dejar un mensaje?
+Let me get a pen. | Déjame conseguir un bolígrafo.
+So where do we meet? | Entonces, ¿dónde nos encontramos?
+I can pick you up at your hotel. | Puedo recogerte en tu hotel.
+What time can I pick you up? | ¿A qué hora puedo recogerte?
+We could meet there. | Podríamos encontrarnos allí.
+I think I'm coming down with something. | Creo que me estoy enfermando de algo.
+I think I'm catching a cold. | Creo que me estoy resfriando.
+I've been fighting off a cold. | He estado luchando contra un resfriado.
+You don't look very well. | No te ves muy bien.
+You look a little pale. | Te ves un poco pálido.
+Maybe you should go home. | Quizás deberías irte a casa.
+Go home and rest. | Vete a casa y descansa.
+I'm feeling a little under the weather. | Me siento un poco mal.
+Is there anything I can do? | ¿Hay algo que pueda hacer?
+How are you feeling? | ¿Cómo te sientes?
+I know how you feel. | Sé cómo te sientes.
+I can imagine how you must feel. | Me imagino cómo debes sentirte.
+You just need to rest. | Sólo necesitas descansar.
+I hope you feel better. | Espero que te sientas mejor.
+I'm just getting over a cold. | Me estoy recuperando de un resfriado.
+Are you feeling any better? | ¿Te sientes mejor?
+You look better. | Te ves mejor.
+I have some good news. | Tengo buenas noticias.
+It happened so fast. | Sucedió tan rápido.
+I was shocked. | Me quedé en shock.
+Can you believe that? | ¿Puedes creer eso?
+Can you imagine? | ¿Te imaginas?
+Can you imagine the way I felt? | ¿Te imaginas cómo me sentí?
+It seemed like a good idea at the time. | En ese momento me pareció una buena idea.
+I wouldn't have believed it. | No lo hubiera creído.
+It was right out of a movie. | Parecía sacado de una película.
+I'm just giving you a hard time. | Sólo te estoy haciendo pasar un mal rato.
+I'm just pulling your leg. | Sólo te estoy tomando el pelo.
+I see what you mean. | Ya veo lo que quieres decir.
+I understand you completely. | Te entiendo completamente.
+Now I get it. | Ahora lo entiendo.
+I'm sorry, I don't understand. | Lo siento, no lo entiendo.
+I'm not sure if I understand. | No estoy seguro de haberlo entendido.
+I still don't quite understand what you mean exactly. | Todavía no entiendo muy bien a qué te refieres exactamente.
+Do you see what I mean? | ¿Ves lo que quiero decir?
+You know what I mean? | ¿Usted sabe lo que quiero decir?
+Do you see what I'm saying? | ¿Ves lo que estoy diciendo?
+I think maybe I'm not being very clear. | Creo que tal vez no estoy siendo muy claro.
+Don't let it get to you. | No dejes que te afecte.
+Things have a way of working themselves out. | Las cosas tienen una manera de resolverse por sí solas.
+We're going to straighten this all out. | Vamos a arreglar todo esto.
+It could be a lot worse. | Podría ser mucho peor.
+I've been there before. | He estado allí antes.
+I know what you mean. | Sé lo que quieres decir.
+I know it can't be easy. | Sé que no puede ser fácil.
+That must have been horrible. | Eso debe haber sido horrible.
+I know. | Lo sé.
+Looks can be deceiving. | Las apariencias pueden engañar.
+Don't look a gift horse in the mouth. | A caballo regalado no le mires el diente.
+The grass is always greener on the other side. | La hierba siempre es más verde del otro lado.
+Business is business. | Los negocios son los negocios.
+Every cloud has a silver lining. | Cada nube tiene un lado positivo.
+No use crying over spilt milk. | No sirve de nada llorar sobre la leche derramada.
+Don't leave for tomorrow what you can do today. | No dejes para mañana lo que puedes hacer hoy.
+Do unto others as you would have them do unto you. | Haz con los demás lo que te gustaría que te hicieran a ti.
+You're only as old as you feel. | Eres tan viejo como te sientes.
+If you want something done right, you have to do it yourself. | Si quieres que algo se haga bien, tienes que hacerlo tú mismo.
+Two heads are better than one. | Dos cabezas piensan mejor que una.
+A bird in the hand is worth two in the bush. | Más vale pájaro en mano que ciento volando.
+It's better to be safe than sorry. | Es mejor prevenir que lamentar.
+Good things come to those who wait. | Las cosas buenas les llegan a quienes esperan.
+When the cat's away, the mice will play. | Cuando el gato no esté, los ratones jugarán.
+Don't make a mountain out of molehill. | No hagas una montaña con un grano de arena.
+Absence makes the heart grow fonder. | La ausencia hace que el corazón se vuelva más cariñoso.
+May I ask what this is regarding? | ¿Puedo preguntar a qué se refiere esto?
+Can you hold? | ¿Puedes aguantar?
+I'm putting you through. | Te estoy haciendo pasar.
+Sorry, I don't have that information. | Lo siento, no tengo esa información.
+He's expecting my call. | Está esperando mi llamada.
+Accounting, please. | Contabilidad, por favor.
+And what was your name? | ¿Y cuál era tu nombre?
+Is this a good time? | ¿Es este un buen momento?
+Did I catch you at a bad time? | ¿Te pillé en un mal momento?
+We can deal with this. | Podemos lidiar con esto.
+Do you have any idea how much longer it's going to be? | ¿Tienes idea de cuánto tiempo más va a tardar?
+I would really appreciate that. | Realmente lo apreciaría.
+Do you speak Portuguese? | ¿Hablas portugués?
+Do you take credit cards? | ¿Aceptas tarjetas de crédito?
+Sorry, I don't understand. | Lo siento, no lo entiendo.
+Can you write that for me, please? | ¿Puedes escribirme eso, por favor?
+I don't speak English. | No hablo inglés.
+I need a doctor. | Necesito un médico.
+I'm trying to call Brazil. | Estoy intentando llamar a Brasil.
+I want to make a collect call. | Quiero hacer una llamada por cobrar.
+I want to use my calling card. | Quiero usar mi tarjeta telefónica.
+Operator, we were cut off. | Operador, nos cortaron el paso.
+I have a reservation. | Tengo una reservación.
+How much is that a night? | ¿Cuánto cuesta eso por noche?
+Does the room have cable TV? | ¿La habitación tiene televisión por cable?
+Is there a bathroom in the room? | ¿Hay un baño en la habitación?
+Does it have a view? | ¿Tiene vistas?
+What time is check-out? | ¿A qué hora es el check-out?
+How do I get an outside line? | ¿Cómo consigo una línea exterior?
+Can I leave my bags at the front desk? | ¿Puedo dejar mis maletas en la recepción?
+Can I leave my valuables in the safe? | ¿Puedo dejar mis objetos de valor en la caja fuerte?
+Where is the nearest office? | ¿Dónde está la oficina más cercana?
+Do I have any messages? | ¿Tengo algún mensaje?
+Could I get someone to fix it, please? | ¿Podría conseguir que alguien lo arregle, por favor?
+I'd like to change rooms, please. | Me gustaría cambiar de habitación, por favor.
+I'd like to keep the room an extra day, please. | Me gustaría dejar la habitación un día más, por favor.
+I'd like to check out, please. | Me gustaría comprobarlo, por favor.
+This is room 22. | Esta es la habitación 22.
+I'm just looking, thanks. | Solo estoy mirando, gracias.
+Do you take American Express? | ¿Aceptas American Express?
+Do you take traveler's checks? | ¿Aceptan cheques de viajero?
+I saw a jacket in the window. | Vi una chaqueta en la ventana.
+Can I have this sent to Brazil? | ¿Puedo enviar esto a Brasil?
+Can I have this gift-wrapped? | ¿Puedo envolverlo para regalo?
+Where are your fitting rooms? | ¿Dónde están tus probadores?
+What are your hours? | ¿Cuáles son tus horarios?
+When do you close? | ¿A que hora cierra?
+Are you open on weekends? | ¿Estás abierto los fines de semana?
+How long will it take? | ¿Cuánto tiempo tardará?
+Excuse me, where do I pay? | Disculpe donde pago?
+I'd like to purchase this, please. | Me gustaría comprar esto, por favor.
+Can I have a receipt, please? | ¿Puedo darme un recibo, por favor?
+I'd like to exchange some Brazilian currency. | Me gustaría cambiar algo de moneda brasileña.
+I'd like to make a deposit. | Me gustaría hacer un depósito.
+I'd like to make a withdrawal. | Me gustaría hacer un retiro.
+I'd like to transfer money. | Me gustaría transferir dinero.
+I'd like to buy a money order. | Me gustaría comprar un giro postal.
+Do you offer overdraft protection? | ¿Ofrecen protección contra sobregiros?
+What do I need to do to get a credit card? | ¿Qué necesito hacer para obtener una tarjeta de crédito?
+Can I access my account through the internet? | ¿Puedo acceder a mi cuenta a través de Internet?
+You understand English. | Entiendes inglés.
+Excuse me, miss, do you understand Portuguese? | Disculpe señorita, ¿entiende portugués?
+I understand a little English. | Entiendo un poco de inglés.
+I don't understand Portuguese. | No entiendo portugués.
+Are you Brazilian? | ¿Eres brasileño?
+Do you understand English? | ¿Entiendes inglés?
+Do you understand Portuguese? | ¿Entiendes portugués?
+Do you understand? | ¿Lo entiendes?
+No, I don't understand. | No, no lo entiendo.
+I understand. | Entiendo.
+I understand Portuguese. | Entiendo portugués.
+Do you understand Portuguese, miss? | ¿Entiende portugués, señorita?
+I don't understand. | No entiendo.
+I understand English. | Entiendo inglés.
+I don't understand English. | No entiendo inglés.
+I understand a little. | Entiendo un poco.
+I understand a little Portuguese. | Entiendo un poco de portugués.
+Yes, you are Brazilian. | Sí, eres brasileño.
+I understand very well. | Lo entiendo muy bien.
+I understand Portuguese very well. | Entiendo muy bien el portugués.
+Hello, sir. How are you? | Hola señor. ¿Cómo estás?
+Oh, you understand English? | ¿Entiendes inglés?
+But you understand English very well! | ¡Pero entiendes muy bien el inglés!
+Are you Brazilian, sir? | ¿Es usted brasileño, señor?
+Excuse me, I don't understand. | Disculpe, no entiendo.
+I understand a little, but not very well. | Entiendo un poco, pero no muy bien.
+Are you American? | ¿Eres americano?
+Oh yes, you speak very well. | Oh si, hablas muy bien.
+But I don't speak Portuguese. | Pero no hablo portugués.
+I'm sorry, I don't speak Portuguese. | Lo siento, no hablo portugués.
+Oh yes, you understand very well. | Ah, sí, lo entiendes muy bien.
+Where is East 52nd Street? | ¿Dónde está Calle 52 este?
+Aren't you Brazilian? | ¿No eres brasileño?
+Is it here? | ¿Está aquí?
+Park Avenue is here. | Park Avenue está aquí.
+And Park Avenue is here. | Y Park Avenue está aquí.
+You are welcome. | De nada.
+Hello, do you understand Portuguese? | Hola, ¿entiendes portugués?
+I understand a little, and I speak a little. | Entiendo un poco y hablo un poco.
+And you, do you understand English? | Y tú, ¿entiendes inglés?
+But you speak English very well. | Pero hablas inglés muy bien.
+You understand English very well. | Entiendes muy bien el inglés.
+Excuse me, where is East 52nd Street, please? | Disculpe, ¿dónde está la calle 52 Este, por favor?
+Where is Park Avenue, please? | ¿Dónde está Park Avenue, por favor?
+East 52nd street is not over there. | La calle 52 Este no está por ahí.
+Where is East 52nd Street, please? | ¿Dónde está la calle 52 Este, por favor?
+Park Avenue is over there. | Park Avenue está por allí.
+But East 52nd Street is here. | Pero la calle 52 Este está aquí.
+East 52nd Street is here. | La calle 52 este está aquí.
+Do you know where there is a good restaurant? | ¿Sabes dónde hay un buen restaurante?
+East 52nd Street is not here, but Park Avenue is here. | East 52nd Street no está aquí, pero Park Avenue sí.
+Excuse me, miss. Where is East 52nd Street, please? | Disculpe, señorita. ¿Dónde está la calle 52 Este, por favor?
+I don't know. | No sé.
+Where is Park Street, please? | ¿Dónde está Park Street, por favor?
+Oh, yes, I know. | Ah, sí, lo sé.
+Do you know? | ¿Sabes?
+No, I don't know. | No, no lo sé.
+I'm sorry, I don't know. | Lo siento, no lo sé.
+I don't want. | No quiero.
+I would like something to eat. | Me gustaría algo de comer.
+Do you want? | ¿Quieres?
+Would you like something to drink? | ¿Quieres algo de beber?
+No, thanks, but I would like something to eat. | No, gracias, pero me gustaría algo de comer.
+I want something to eat. | Quiero algo de comer.
+You would like something to eat. | Quieres algo de comer.
+Yes, I would like something to eat. | Sí, me gustaría comer algo.
+I would like something to drink, please. | Me gustaría algo de beber, por favor.
+I don't want to eat. | No quiero comer.
+You speak English very well. | Hablas inglés muy bien.
+I'd like something to drink too. | A mí también me gustaría algo de beber.
+Do you want something to eat? | ¿Quieres algo de comer?
+Would you like something to eat? | ¿Quieres algo de comer?
+Where would you like to eat? | ¿Dónde te gustaría comer?
+I'd like to eat too. | A mí también me gustaría comer.
+When would you like to eat? | ¿Cuándo te gustaría comer?
+Yes, I would. | Sí, lo haría.
+I'd like something to eat too. | A mí también me gustaría comer algo.
+No, thank you, but I'd like to eat. | No, gracias, pero me gustaría comer.
+I'd like to eat now. | Me gustaría comer ahora.
+When would you like to eat, miss? | ¿Cuándo le gustaría comer, señorita?
+Would you like to eat too? | ¿A ti también te gustaría comer?
+But I'd like something to drink. | Pero me gustaría algo de beber.
+I want to eat later. | Quiero comer más tarde.
+What would you like to eat? | ¿Qué te gustaría comer?
+OK, what would you like to drink? | Bien, ¿qué te gustaría beber?
+I don't know. And you? | No sé. ¿Y tú?
+Don't you want to eat? | ¿No quieres comer?
+I'd like some wine, but later. | Me gustaría un poco de vino, pero más tarde.
+What would you like to drink? | ¿Qué le gustaría beber?
+But I'd like something to drink now. | Pero ahora me gustaría tomar algo.
+I'd like some wine. | Me gustaría un poco de vino.
+I'd like a beer. | Me gustaría una cerveza.
+But I would like some wine. | Pero me gustaría un poco de vino.
+I'd like something to eat. | Me gustaría algo de comer.
+I'd like something to drink. | Me gustaría algo de beber.
+Would you like something to drink too? | ¿Quieres algo de beber también?
+But I would like something to eat. | Pero me gustaría algo de comer.
+Would you like to eat now? | ¿Quieres comer ahora?
+Yes, I'd like to have lunch. | Sí, me gustaría almorzar.
+Where would you like to have lunch? | ¿Dónde te gustaría almorzar?
+I'd like to do something. | Me gustaría hacer algo.
+What would you like to do? | ¿Qué te gustaría hacer?
+Would you like to have lunch? | ¿Quieres almorzar?
+I'd like to have lunch too. | A mí también me gustaría almorzar.
+Yes, I'd like to buy something. | Sí, me gustaría comprar algo.
+I'd like to buy some wine. | Me gustaría comprar un poco de vino.
+Would you like something to drink now? | ¿Quieres algo de beber ahora?
+When would you like something to drink? | ¿Cuándo quieres tomar algo?
+Would you like a beer? | ¿Quieres una cerveza?
+Hello, how are you, sir? | Hola, ¿cómo está señor?
+And you, would you like to have something to drink? | Y a ti, ¿te apetece tomar algo?
+Where is the Park Avenue restaurant? | ¿Dónde está el restaurante Park Avenue?
+What do you want to eat? | ¿Qué quieres comer?
+What do you want to do? | ¿Qué es lo que quieres hacer?
+I'd like to have lunch. | Me gustaría almorzar.
+Yes, I know. | Sí, lo sé.
+What do you want to drink? | ¿Qué quieres beber?
+I'd like to have something to drink. | Me gustaría tomar algo de beber.
+Would you like a beer too? | ¿Quieres una cerveza también?
+But I'd like something to eat, and you? | Pero a mí me gustaría comer algo ¿y a ti?
+I'd like to buy something. | Me gustaría comprar algo.
+Do you know where the hotel is? | ¿Sabes dónde está el hotel?
+Would you like to have something to eat with me? | ¿Quieres comer algo conmigo?
+I don't want to have lunch with you. | No quiero almorzar contigo.
+Would you like to have lunch with me? | ¿Te gustaría almorzar conmigo?
+I'd like to have something to drink with you. | Me gustaría tomar algo contigo.
+I'd like to have something to eat. | Me gustaría comer algo.
+Do you know where the restaurant is? | ¿Sabes dónde está el restaurante?
+Where is the restaurant? | ¿Dónde está el restaurante?
+Is it four o'clock? | ¿Son las cuatro?
+Are you going to have lunch now? | ¿Vas a almorzar ahora?
+No, I'm going to eat now. | No, voy a comer ahora.
+What time is it now? | ¿Qué hora es ahora?
+Are you going to eat? | ¿Vas a comer?
+I'm going to eat at five o'clock. | Voy a comer a las cinco.
+Are you going to eat at five o'clock? | ¿Vas a comer a las cinco?
+Tomorrow I'm going to have dinner with you. | Mañana voy a cenar contigo.
+I'd like to have dinner with you tonight. | Me gustaría cenar contigo esta noche.
+Would you like to have dinner with me tonight? | ¿Te gustaría cenar conmigo esta noche?
+Are you going to have some wine? | ¿Vas a tomar un poco de vino?
+No, I'm going to have a beer. | No, voy a tomar una cerveza.
+Do you know what time it is now? | ¿Sabes qué hora es ahora?
+I'm not going to have dinner today. | No voy a cenar hoy.
+How much is it? | ¿Cuánto cuesta?
+Do you want five dollars? | ¿Quieres cinco dólares?
+Is it five dollars? | ¿Son cinco dólares?
+What are you doing tonight, Mary? | ¿Qué harás esta noche, María?
+I'm going to eat with you. | Voy a comer contigo.
+When would you like to have some wine? | ¿Cuándo te gustaría tomar un poco de vino?
+I'm not going to eat with you tomorrow night. | No voy a comer contigo mañana por la noche.
+How much do you have in dollars? | ¿Cuánto tienes en dólares?
+Here is one dollar. | Aquí tienes un dólar.
+I have fourteen dollars. | Tengo catorce dólares.
+Do you have sixteen dollars? | ¿Tienes dieciséis dólares?
+No, I have thirteen dollars. | No, tengo trece dólares.
+I don't have a lot of American money. | No tengo mucho dinero americano.
+I have fourteen dollars, but not fifteen. | Tengo catorce dólares, pero no quince.
+I have some Brazilian money. | Tengo algo de dinero brasileño.
+Give me some American money, please. | Dame algo de dinero americano, por favor.
+Here is sixteen dollars. | Aquí tienes dieciséis dólares.
+I don't have any dollars. | No tengo dólares.
+Please give me a dollar. | Por favor dame un dólar.
+Do you have any American money? | ¿Tienes dinero americano?
+I'm going to give you some American money. | Voy a darte algo de dinero americano.
+Where are you going? | ¿Adónde vas?
+I'm going to a restaurant. | Voy a un restaurante.
+Do you have any coffee? | ¿Tienes café?
+Yes, I do. | Sí.
+I have a lot of coffee. | Tomo mucho café.
+I can give you fourteen dollars. | Puedo darte catorce dólares.
+Please give me nineteen dollars. | Por favor, dame diecinueve dólares.
+I can't give you fourteen dollars. | No puedo darte catorce dólares.
+I have some dollars. | Tengo algunos dólares.
+I have a lot of dollars. | Tengo muchos dólares.
+Can you give me some money? | ¿Puedes darme algo de dinero?
+I'm going to buy something for you. | Voy a comprarte algo.
+Two and two is four. | Dos y dos son cuatro.
+Three and eight is how much? | ¿Tres y ocho es cuánto?
+Charles, would you like to have dinner with me? | Charles, ¿te gustaría cenar conmigo?
+Is it too much? | ¿Es demasiado?
+Is it enough? | ¿Es suficiente?
+You have a lot. | Tienes mucho.
+I'm going to the restaurant at East 52nd Street. | Voy al restaurante de la calle 52 Este.
+Can you have lunch with me? | ¿Puedes almorzar conmigo?
+Two and three is how much? | ¿Dos y tres es cuanto?
+Twenty-five and eleven is thirty-six. | Veinticinco y once son treinta y seis.
+What are you going to do today? | ¿Qué vas a hacer hoy?
+I'm going to buy something. | Voy a comprar algo.
+I can't give sixty dollars. | No puedo dar sesenta dólares.
+I don't have enough money. | No tengo suficiente dinero.
+How much do you have? | ¿Cuanto tienes?
+You speak very fast. | Hablas muy rápido.
+I'm sorry, you speak too fast. | Lo siento, hablas demasiado rápido.
+I don't speak too fast. | No hablo demasiado rápido.
+Yes, you do. | Sí, lo haces.
+You speak English very fast, and I don't understand. | Hablas inglés muy rápido y no te entiendo.
+What is it? | ¿Qué es?
+I'm going to have lunch. | Voy a almorzar.
+Do I speak too fast? | ¿Hablo demasiado rápido?
+Do you have any money? | ¿Tienes dinero?
+I have enough. | tengo suficiente.
+I can give you some money, but I can't give you a lot. | Puedo darte algo de dinero, pero no puedo darte mucho.
+Do you have any dollars for me? | ¿Tienes dólares para mí?
+Is that enough? | ¿Es eso suficiente?
+What does your wife want to do? | ¿Qué quiere hacer tu esposa?
+My wife would like to have something to eat. | A mi esposa le gustaría comer algo.
+Yes, it is. | Sí, lo es.
+Does your wife want something to drink? | ¿Tu esposa quiere algo de beber?
+Who is that? | ¿Quién es ese?
+My wife is over there. | Mi esposa está allí.
+My wife would like something to drink. | A mi esposa le gustaría tomar algo.
+My husband would like some water. | Mi marido quiere un poco de agua.
+I'd like some coffee. | Me gustaría un poco de café.
+My husband would like some coffee. | A mi marido le gustaría un poco de café.
+Your wife is here. | Tu esposa está aquí.
+Does your wife speak fast too? | ¿Tu esposa también habla rápido?
+Your wife isn't here. | Tu esposa no está aquí.
+I'm going to give you fifty-three dollars. | Te voy a dar cincuenta y tres dólares.
+Is she over there? | ¿Está ella por ahí?
+No, she is here. | No, ella está aquí.
+He'd like some coffee. | Le gustaría un poco de café.
+Who is it? | ¿Quién es?
+Come in, please. | Entra, por favor.
+I'm pleased to meet you. | Estoy encantado de conocerte.
+Come in. | Entra.
+Pleased to meet you. | Encantado de conocerte.
+Where do you live? | ¿Dónde vive?
+I live in Rio de Janeiro. | Vivo en Río de Janeiro.
+Do you live here? | ¿Vives aquí?
+Beer is more expensive here. | La cerveza es más cara aquí.
+We live here. | Vivimos aquí.
+We live in Rio. | Vivimos en Río.
+What does he want to drink? | ¿Qué quiere beber?
+Does he want some water? | ¿Quiere un poco de agua?
+Or would he like some coffee? | ¿O le gustaría un poco de café?
+We'd like some coffee. | Nos gustaría un poco de café.
+Where is your husband? | ¿Dónde está tu marido?
+I don't know where he is. | No sé dónde está.
+My husband and I would like some water, please. | Mi marido y yo queremos un poco de agua, por favor.
+Do you have any children? | ¿Tienes hijos?
+We don't have any children. | No tenemos hijos.
+How many children do you have? | ¿Cuantos hijos tienes?
+We have three children. | Tenemos tres hijos.
+We have two boys and one girl. | Tenemos dos niños y una niña.
+We'd like a boy. | Nos gustaría un niño.
+We have five children. | Tenemos cinco hijos.
+The boy is big. | El niño es grande.
+Is the girl big? | ¿La niña es grande?
+The boys are big. | Los chicos son grandes.
+They are big. | Son grandes.
+Are they here? | ¿Están aquí?
+Do you have any girls? | ¿Tienes alguna chica?
+Where is he? | ¿Dónde está?
+We have three girls. | Tenemos tres niñas.
+My husband is in Brazil with the children. | Mi marido está en Brasil con los niños.
+You can wait. | Puedes esperar.
+Can you wait? | ¿Puedes esperar?
+Are the boys very big? | ¿Los chicos son muy grandes?
+We don't want a lot of children. | No queremos muchos hijos.
+Yes, they are. | Sí lo son.
+My wife and I live in Brazil with the children. | Mi esposa y yo vivimos en Brasil con los niños.
+The children are in Brazil. | Los niños están en Brasil.
 Tenemos una junta a las diez. | We have a meeting at ten.
 La junta se pospuso para mañana. | The meeting was postponed to tomorrow.
 Voy a entrar a una junta ahora. | I am going into a meeting now.
