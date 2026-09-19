@@ -1,3 +1,508 @@
+Hablo inglés. | I speak English.
+Piensas demasiado. | You think too much.
+Vemos gente muerta. | We see dead people.
+Hablan inglés. | They speak English.
+Él habla inglés. | He speaks English.
+Ella piensa demasiado. | She thinks too much.
+Ve gente muerta. | It sees dead people.
+No piensas demasiado. | You don't think too much.
+No vemos gente muerta. | We don't see dead people.
+No hablan inglés. | They don't speak English.
+Él no habla inglés. | He doesn't speak English.
+Ella no piensa demasiado. | She doesn't think too much.
+No ve muertos. | It doesn't see dead people.
+¿Hablas inglés? | Do you speak English?
+¿Pienso demasiado? | Do I think too much?
+¿Vemos gente muerta? | Do we see dead people?
+¿Hablan inglés? | Do they speak English?
+¿Habla inglés? | Does he speak English?
+¿Piensa demasiado? | Does she think too much?
+¿Ve gente muerta? | Does it see dead people?
+Yo estoy feliz. | I am happy.
+Estoy feliz. | I'm happy.
+Usted está aquí. | You are here.
+Estás aquí. | You're here.
+Él es asombroso. | He is amazing.
+Es asombroso. | He's amazing.
+Ella es hermosa. | She is beautiful.
+Ella es hermosa. | She's beautiful.
+Es asombroso. | It is amazing.
+Es asombroso. | It's amazing.
+Estamos aquí. | We are here.
+Estamos aquí. | We're here.
+Están felices. | They are happy.
+Están felices. | They're happy.
+No soy feliz. | I am not happy.
+No estoy feliz. | I'm not happy.
+No estás aquí. | You are not here.
+No estás aquí. | You're not here.
+No estás aquí. | You aren't here.
+Él no es sorprendente. | He is not amazing.
+No es sorprendente. | He's not amazing.
+Él no es sorprendente. | He isn't amazing.
+Ella no es hermosa. | She is not beautiful.
+Ella no es hermosa. | She's not beautiful.
+Ella no es hermosa. | She isn't beautiful.
+No es sorprendente. | It is not amazing.
+No es sorprendente. | It's not amazing.
+No es sorprendente. | It isn't amazing.
+No estamos aquí. | We are not here.
+No estamos aquí. | We're not here.
+No estamos aquí. | We aren't here.
+No están contentos. | They are not happy.
+No están contentos. | They're not happy.
+No están contentos. | They aren't happy.
+¿Estoy feliz? | Am I happy?
+¿Estás aquí? | Are you here?
+¿Es asombroso? | Is he amazing?
+¿Es ella hermosa? | Is she beautiful?
+¿Es asombroso? | Is it amazing?
+¿Estamos aquí? | Are we here?
+¿Están felices? | Are they happy?
+Tengo un auto. | I have a car.
+Tengo un auto. | I've got a car.
+Tienes un amigo. | You have a friend.
+Tienes un amigo. | You've got a friend.
+Tenemos sentimientos. | We have feelings.
+Tenemos sentimientos. | We've got feelings.
+Tienen una sorpresa para ti. | They have a surprise for you.
+Tienen una sorpresa para ti. | They've got a surprise for you.
+Tengo un auto. | I got a car.
+¿Tienes un minuto? | Got a minute?
+¿Tienes espacio para uno más? | Got room for one more?
+Tiene un auto. | He has a car.
+Tiene un auto. | He's got a car.
+Ella tiene una casa. | She has a house.
+Ella tiene una casa. | She's got a house.
+Tiene un nombre. | It has a name.
+Tiene un nombre. | It's got a name.
+No tengo auto. | I don't have a car.
+No tengo coche. | I haven't got a car.
+No tienes un amigo. | You don't have a friend.
+No tienes un amigo. | You haven't got a friend.
+No tenemos sentimientos. | We don't have feelings.
+No tenemos sentimientos. | We haven't got feelings.
+No tienen una sorpresa para ti. | They don't have a surprise for you.
+No tienen ninguna sorpresa para ti. | They haven't got a surprise for you.
+No tiene coche. | He doesn't have a car.
+No tiene coche. | He hasn't got a car.
+Ella no tiene casa. | She doesn't have a house.
+Ella no tiene casa. | She hasn't got a house.
+No tiene nombre. | It doesn't have a name.
+No tiene nombre. | It hasn't got a name.
+¿Tengo coche? | Do I have a car?
+¿Tengo coche? | Have I got a car?
+¿Tienes un amigo? | Do you have a friend?
+¿Tienes un amigo? | Have you got a friend?
+¿Tenemos sentimientos? | Do we have feelings?
+¿Tenemos sentimientos? | Have we got feelings?
+¿Tienen alguna sorpresa para ti? | Do they have a surprise for you?
+¿Tienen una sorpresa para ti? | Have they got a surprise for you?
+¿Tiene coche? | Does he have a car?
+¿Tiene coche? | Has he got a car?
+¿Tiene ella una casa? | Does she have a house?
+¿Tiene una casa? | Has she got a house?
+¿Tiene nombre? | Does it have a name?
+¿Tiene nombre? | Has it got a name?
+Tuvimos un mal día. | We had a bad day.
+Hiciste un gran trabajo. | You did a great job.
+Fue a la cárcel. | He went to jail.
+Lo supe desde el principio. | I knew from the beginning.
+Vieron un gato. | They saw a cat.
+Me hizo reír. | It made me laugh.
+Te miré. | I looked at you.
+Querías más. | You wanted more.
+Me preguntó si podía conducir. | He asked if I could drive.
+Lo intentamos muchas veces. | We tried many times.
+Se detuvieron en un buen lugar. | They stopped at a good place.
+Era necesario arreglarlo. | It needed to be fixed.
+Él me miró. | He looked at me.
+Hice una pregunta. | I asked a question.
+Dejamos de ayudarlos. | We stopped helping them.
+Les agrado. | They liked me.
+Quería un auto nuevo. | I wanted a new car.
+Necesitaba ayuda. | He needed help.
+Visitamos a mis padres. | We visited my parents.
+Lo odié. | I hated him.
+Hice lo mejor que pude. | I tried my best.
+Estuvieron de acuerdo con nosotros. | They agreed with us.
+Ella cerró los ojos. | She closed her eyes.
+Jugábamos al escondite. | We played hide and seek.
+No tuvimos un mal día. | We didn't have a bad day.
+No fue a la cárcel. | He didn't go to jail.
+No lo supe desde el principio. | I didn't know from the beginning.
+No hiciste un gran trabajo. | You didn't do a great job.
+No vieron un gato. | They didn't see a cat.
+No me hizo reír. | It didn't make me laugh.
+No te miré. | I didn't look at you.
+No querías más. | You didn't want more.
+No me preguntó si podía conducir. | He didn't ask if I could drive.
+No lo intentamos muchas veces. | We didn't try many times.
+No se detuvieron en un buen lugar. | They didn't stop at a good place.
+No era necesario arreglarlo. | It didn't need to be fixed.
+¿Tuvimos un mal día? | Did we have a bad day?
+¿Fue a la cárcel? | Did he go to jail?
+¿Lo supe desde el principio? | Did I know from the beginning?
+¿Hiciste un gran trabajo? | Did you do a great job?
+¿Vieron un gato? | Did they see a cat?
+¿Me hizo reír? | Did it make me laugh?
+¿Te miré? | Did I look at you?
+¿Querías más? | Did you want more?
+¿Me preguntó si podía conducir? | Did he ask if I could drive?
+¿Lo intentamos muchas veces? | Did we try many times?
+¿Se detuvieron en un buen lugar? | Did they stop at a good place?
+¿Había que arreglarlo? | Did it need to be fixed?
+Estaba feliz. | I was happy.
+Estabas aquí. | You were here.
+Él fue asombroso. | He was amazing.
+Ella era hermosa. | She was beautiful.
+Fue asombroso. | It was amazing.
+Estábamos aquí. | We were here.
+Estaban felices. | They were happy.
+No estaba feliz. | I wasn't happy.
+No estaba feliz. | I was not happy.
+No estabas aquí. | You weren't here.
+No estabas aquí. | You were not here.
+No fue sorprendente. | He wasn't amazing.
+No fue sorprendente. | He was not amazing.
+Ella no era hermosa. | She wasn't beautiful.
+Ella no era hermosa. | She was not beautiful.
+No fue sorprendente. | It wasn't amazing.
+No fue sorprendente. | It was not amazing.
+No estábamos aquí. | We weren't here.
+No estábamos aquí. | We were not here.
+No estaban contentos. | They weren't happy.
+No estaban contentos. | They were not happy.
+¿Estaba feliz? | Was I happy?
+¿Estabas aquí? | Were you here?
+¿Fue asombroso? | Was he amazing?
+¿Era hermosa? | Was she beautiful?
+¿Fue asombroso? | Was it amazing?
+¿Estábamos aquí? | Were we here?
+¿Estaban felices? | Were they happy?
+He estado ocupado durante la semana pasada. | I've been busy for the past week.
+He estado ocupado durante la semana pasada. | I have been busy for the past week.
+Lleva una semana enfermo. | He's been sick for a week.
+Lleva una semana enfermo. | He has been sick for a week.
+He estado en Francia tres veces. | I've been to France three times.
+He estado en Francia tres veces. | I have been to France three times.
+He hecho todo lo que puedo. | I've done everything I can.
+He hecho todo lo que puedo. | I have done everything I can.
+Ha hecho grandes cosas. | She's done great things.
+Ella ha hecho grandes cosas. | She has done great things.
+Hemos dicho suficiente. | We've said enough.
+Hemos dicho suficiente. | We have said enough.
+Ha dicho que está demasiado enfermo para viajar. | He's said he is too ill to travel.
+Ha dicho que está demasiado enfermo para viajar. | He has said he is too ill to travel.
+Has cometido muchos errores. | You've made many mistakes.
+Has cometido muchos errores. | You have made many mistakes.
+Ha tomado una decisión importante. | She's made a significant decision.
+Ha tomado una decisión importante. | She has made a significant decision.
+Han ido demasiado lejos. | They've gone too far.
+Han ido demasiado lejos. | They have gone too far.
+Se ha vuelto loco. | He's gone mad.
+Se ha vuelto loco. | He has gone mad.
+La conozco desde hace mucho tiempo. | I've known her for a long time.
+La conozco desde hace mucho tiempo. | I have known her for a long time.
+Me conoce desde hace años. | He's known me for years.
+Me conoce desde hace años. | He has known me for years.
+Han visto un fantasma. | They've seen a ghost.
+Han visto un fantasma. | They have seen a ghost.
+Lo ha visto todo. | He's seen it all.
+Lo ha visto todo. | He has seen it all.
+Acabo de llegar. | I've just arrived.
+Acabo de llegar. | I have just arrived.
+Acaba de graduarse de la universidad. | He's just graduated from university.
+Acaba de graduarse de la universidad. | He has just graduated from university.
+Acaba de empezar a llover. | It's just started raining.
+Acaba de empezar a llover. | It has just started raining.
+Ya ha reservado una habitación para él. | He's already booked a room for himself.
+Ya ha reservado una habitación para él. | He has already booked a room for himself.
+No he empezado. | I haven't started.
+No he empezado. | I have not started.
+Aún no te lo ha dicho. | He hasn't told you yet.
+Aún no te lo ha dicho. | He has not told you yet.
+¿Lo has visto? | Have you seen him?
+¿Alguna vez te has enamorado? | Have you ever fallen in love?
+¿Cuánto tiempo llevas esperando? | How long have you been waiting?
+Llevo 2 años estudiando inglés. | I've been studying English for 2 years.
+Llevo 2 años estudiando inglés. | I have been studying English for 2 years.
+Nos conocemos desde la infancia. | We've known each other since childhood.
+Nos conocemos desde la infancia. | We have known each other since childhood.
+Tendré que pagar. | I'll have to pay.
+Tendré que pagar. | I will have to pay.
+Voy a tener que pagar. | I'm gonna have to pay.
+Voy a tener que pagar. | I'm going to have to pay.
+Me verás. | You'll see me.
+Me verás. | You will see me.
+Vas a verme. | You're gonna see me.
+Vas a verme. | You're going to see me.
+Él regresará. | He'll return.
+Él regresará. | He will return.
+Él va a regresar. | He's gonna return.
+Él va a regresar. | He's going to return.
+Ella se casará. | She'll get married.
+Ella se casará. | She will get married.
+Ella se va a casar. | She's gonna get married.
+Ella se va a casar. | She's going to get married.
+Será fácil. | It'll be easy.
+Será fácil. | It will be easy.
+Será fácil. | It's gonna be easy.
+Va a ser fácil. | It's going to be easy.
+Nos volveremos a encontrar. | We'll meet again.
+Nos volveremos a encontrar. | We will meet again.
+Nos volveremos a encontrar. | We're gonna meet again.
+Nos vamos a encontrar de nuevo. | We're going to meet again.
+Te encontrarán. | They'll find you.
+Ellos te encontrarán. | They will find you.
+Te encontrarán. | They're gonna find you.
+Te van a encontrar. | They're going to find you.
+No tendré que pagar. | I won't have to pay.
+No tendré que pagar. | I will not have to pay.
+No tendré que pagar. | I'm not gonna have to pay.
+No voy a tener que pagar. | I'm not going to have to pay.
+No me verás. | You won't see me.
+No me verás. | You will not see me.
+No me vas a ver. | You're not gonna see me.
+No me vas a ver. | You're not going to see me.
+No volverá. | He won't return.
+No volverá. | He will not return.
+Él no va a regresar. | He's not gonna return.
+Él no va a regresar. | He's not going to return.
+Ella no se casará. | She won't get married.
+Ella no se casará. | She will not get married.
+Ella no se va a casar. | She's not gonna get married.
+Ella no se va a casar. | She's not going to get married.
+No será fácil. | It won't be easy.
+No será fácil. | It will not be easy.
+No será fácil. | It's not gonna be easy.
+No será fácil. | It's not going to be easy.
+No nos volveremos a encontrar. | We won't meet again.
+No nos volveremos a encontrar. | We will not meet again.
+No nos volveremos a encontrar. | We're not gonna meet again.
+No nos volveremos a encontrar. | We're not going to meet again.
+No te encontrarán. | They won't find you.
+No te encontrarán. | They will not find you.
+No te encontrarán. | They're not gonna find you.
+No te van a encontrar. | They're not going to find you.
+¿Tendré que pagar? | Will I have to pay?
+¿Tendré que pagar? | Am I gonna have to pay?
+¿Tendré que pagar? | Am I going to have to pay?
+¿Me verás? | Will you see me?
+¿Me vas a ver? | Are you gonna see me?
+¿Vas a verme? | Are you going to see me?
+¿Volverá? | Will he return?
+¿Volverá? | Is he gonna return?
+¿Va a regresar? | Is he going to return?
+¿Se casará? | Will she get married?
+¿Se va a casar? | Is she gonna get married?
+¿Se va a casar? | Is she going to get married?
+¿Será fácil? | Will it be easy?
+¿Será fácil? | Is it gonna be easy?
+¿Será fácil? | Is it going to be easy?
+¿Nos volveremos a encontrar? | Will we meet again?
+¿Nos volveremos a encontrar? | Are we gonna meet again?
+¿Nos volveremos a encontrar? | Are we going to meet again?
+¿Te encontrarán? | Will they find you?
+¿Te van a encontrar? | Are they gonna find you?
+¿Te van a encontrar? | Are they going to find you?
+Podrías probar un enfoque diferente. | You could try a different approach.
+¿Qué podría ser mejor que esto? | What could be better than this?
+Al menos podrías decirme por qué llegaste tarde. | You could at least tell me why you were late.
+No podría estar más orgulloso. | He couldn't be more proud.
+Cuando era más joven podía correr muy rápido. | When I was younger I could run really fast.
+Podía escuchar lo que decían. | I could hear what they were saying.
+Podía tocar el violín cuando tenía seis años. | She could play the violin when she was six.
+El niño no podía dormir. | The boy couldn't sleep.
+¿Por qué no pudiste verificar mi identidad? | Why couldn't you verify my identity?
+¿Puedo usar tu teléfono, por favor? | Could I use your phone, please?
+¿Podrías pasarme la sal? | Could you please pass me the salt?
+¿Puedo salir un poco antes hoy? | Could I leave a little early today?
+¿Podríamos prestarnos su cortadora de césped? | Could we borrow your lawnmower?
+¿Podrías enviarme esta carta? | Could you post this letter for me?
+Podrías estar cometiendo un gran error. | You could be making a big mistake.
+Su recuperación podría tardar meses. | His recovery could take months.
+Ese tipo de cosas le podrían pasar a cualquiera. | That kind of thing could happen to anyone.
+Esto no puede estar pasándome a mí. | This couldn't be happening to me.
+No podría ser. | It couldn't be.
+¿Más helado? | More ice cream?
+No, gracias. | No, thanks.
+No pude. | I couldn't.
+Podrías haberme llamado. | You could've called me.
+Podrían habernos ayudado. | They could've helped us.
+Podríamos haberlo hecho mejor. | We could've done better.
+El accidente podría haber sido peor. | The accident could've been worse.
+No podría haberlo hecho sin el equipo. | I couldn't have done it without the team.
+No podrías haber tomado una mejor decisión. | You couldn't have made a better decision.
+Me vendría bien un poco de ayuda por aquí. | I could use some help over here.
+Te vendría bien un corte de pelo. | You could use a haircut.
+¿Puedo traerte algo? | Can I get you anything?
+Me vendría bien un trago. | I could use a drink.
+Su sitio web podría necesitar una actualización. | Their website could use an upgrade.
+¿Vas a salir con mi exnovio? | You're going out with my ex-boyfriend?
+Excelente. | Great.
+No podría importarme menos. | I couldn't care less.
+A esta habitación le vendría bien una nueva capa de pintura. | This room could do with a fresh coat of paint.
+¿Hay algún restaurante cerca? | Is there a restaurant nearby?
+Me vendría bien algo de comer. | I could do with something to eat.
+Deberías dejar de preocuparte por eso. | You should stop worrying about it.
+No deberías beber y conducir. | You shouldn't drink and drive.
+¿Debería llamarlo y disculparme? | Should I call him and apologize?
+Debería haber sido más cuidadoso. | He should've been more careful.
+El autobús debería haber llegado hace diez minutos. | The bus should've arrived ten minutes ago.
+No debería haberle hablado con tanta rudeza. | She shouldn't have spoken to him so rudely.
+¿Debería bajarle el volumen a la música? | Should I turn the music down?
+¿Qué deberíamos almorzar? | What should we have for lunch?
+Deberíamos llegar antes del anochecer. | We should arrive before dark.
+Las carreteras deberían estar menos concurridas hoy. | The roads should be less crowded today.
+Según las previsiones meteorológicas, ahora debería nevar. | It should be snowing now, according to the weather forecast.
+Si necesitas ayuda, aquí tienes mi número. | Should you need any help, here's my number.
+Si cambias de opinión, házmelo saber. | If you should change your mind, let me know.
+Si alguien llama, por favor dígales que estoy ocupado. | Should anyone call, please tell them I'm busy.
+¿Un regalo para mí? | A present for me?
+¡No deberías haberlo hecho! | You shouldn't have!
+Me sorprende que sea tan grosero contigo. | I find it astonishing that he should be so rude to you.
+Es extraño que digas eso. | It's strange that you should say that.
+Es curioso que lo menciones. | Funny you should mention it.
+Si mi marido me tratara así, debería divorciarme de él. | If my husband treated me like that, I should divorce him.
+Me sorprendería que mucha gente fuera a la feria en un día tan lluvioso. | I should be surprised if many people go to the fair on such a rainy day.
+Si fuera tú, debería ver a un médico. | I should see a doctor if I were you.
+Me gustaría llamar a mi abogado. | I should like to call my lawyer.
+¿Quieres tomar una copa? | Would you care for a drink?
+Me gustaría mucho uno. | I should like one very much.
+Miré hacia arriba y qué debería ver sino un colibrí. | I looked up and what should I see but a hummingbird.
+Estaban caminando cuando ¿a quién debían ver sino a Juan? | They were walking along when who should they see but John!
+Me encantaría un café. | I'd love a coffee.
+Ella me preguntó si podía ayudar. | She asked if I would help.
+Me dijeron que probablemente no vendrían. | They told me that they probably wouldn't come.
+Sería una tonta si lo aceptara. | She'd be a fool to accept it.
+¿Quieres un sándwich? | Would you like a sandwich?
+¿Podrías ayudarnos? | Would you please help us?
+¿Cenarías conmigo el viernes? | Would you have dinner with me on Friday?
+¿Te importaría dejarnos solos unos minutos? | Would you mind leaving us alone for a few minutes?
+Salimos temprano para asegurarnos de llegar a tiempo. | We left early so we would be sure to arrive on time.
+Quemó las cartas para que su marido nunca las leyera. | She burned the letters so that her husband would never read them.
+Trabajó duro para aprobar todos sus exámenes. | He worked hard in order that he would pass all his exams.
+Ojalá te callaras un minuto. | I wish that you'd be quiet for a minute.
+Ojalá me llamara más a menudo. | I wish he'd call me more often.
+Mi auto no arrancaba esta mañana. | My car wouldn't start this morning.
+Él no nos ayudaría. | He wouldn't help us.
+Cuando mi amigo todavía vivía aquí, almorzábamos juntos todos los días. | When my friend still lived here, we would eat lunch together every day.
+Cuando mis padres estaban fuera, mi abuela me cuidaba. | When my parents were away, my grandmother would take care of me.
+Siempre sería el primero en ofrecerse a ayudar. | He'd always be the first to offer to help.
+Pensaría que estaba diciendo la verdad, pero realmente no lo sé. | I would think that he was telling the truth, but I really don't know.
+Me imagino que tardará aproximadamente una hora. | I would imagine it will take about an hour.
+¿A dónde fueron? | Where did they go?
+¿Cómo lo sabría? | How would I know?
+Prefiero quedarme de pie. | I'd rather stand.
+Prefiero estudiar inglés que alemán. | I'd rather study English than German.
+Prefiero no ir. | I'd rather not go.
+Prefieren hacer las cosas ellos mismos. | They'd rather do things themselves.
+Será mejor que le cuentes todo. | You'd better tell her everything.
+Será mejor que vuelva al trabajo. | I'd better get back to work.
+Será mejor que nos reunamos temprano. | We'd better meet early.
+Puede que tengas razón. | You may be right.
+Creo que puede estar intentando engañarnos. | I think he may be trying to cheat us.
+Es posible que haya perdido su tren. | He may have missed his train.
+Eso puede ser cierto o no. | That may or may not be true.
+Puede que sea lento, pero hace muy buen trabajo. | He may be slow, but he does very good work.
+Puede que haga frío afuera, pero sigue siendo un hermoso día. | It may be cold outside, but it's still a beautiful day.
+Puede que sea un buen padre, pero es un marido terrible. | He may be a good father, but he's a terrible husband.
+Puedes irte ahora. | You may go now.
+¿Puedo entrar? | May I come in?
+Nadie podrá entrar sin entrada. | No one may enter without a ticket.
+Puedes decirme tu opinión, pero no cambiaré de opinión. | You may tell me your opinion, but I won't change my mind.
+¿Me prestas tu bolígrafo? | May I borrow your pen?
+¡Por supuesto que puedes! | Of course you may!
+¿Puedo preguntar quién llama? | May I ask who is calling?
+¿Puedo salir un poco antes hoy? | May I leave a little early today?
+No, es posible que no. | No, you may not.
+¡Que gane el mejor! | May the best win!
+¡Que tengas una vida larga y feliz! | May you have a long and happy life!
+¡Que la Reina reine por mucho tiempo! | Long may the Queen reign!
+Es posible que desee pensar de nuevo y considerar sus opciones cuidadosamente. | You may want to think again and consider your options carefully.
+Quizás sea prudente proceder con cautela. | It may be wise to proceed cautiously.
+Sólo puedo decir lo contento que estoy de estar aquí. | May I just say how pleased I am to be here.
+Si se me permite, ¿podría repetir la respuesta? | If I may, would you please repeat the answer?
+Me gustaría hacer una pregunta, si se me permite. | I'd like to ask a question, if I may.
+Qué vestido tan atractivo, si se me permite decirlo. | What a very attractive dress, if I may say so.
+Hacemos ejercicio para estar fuertes y sanos. | We exercise so that we may be strong and healthy.
+Trabajo duro para que mi familia no pase hambre. | I work hard so that my family may not go hungry.
+Ha habido cierta mejora en la economía en los últimos meses, pero, sea como sea, mucha gente sigue buscando trabajo. | There has been some improvement in the economy in recent months, but, be that as it may, many people are still looking for work.
+Si nadie más lo quiere, también podemos dárselo. | If no one else wants it, we may as well give it to him.
+Si vas a tomar azúcar, también puedes tomar una barra de chocolate. | If you are going to have sugar, you may as well have a bar of chocolate.
+Puede haber excepciones. | There may be exceptions.
+Puede que haya otra oportunidad. | There may be another chance.
+Puede que haya problemas por delante. | There may be trouble ahead.
+Puede que sea verdad. | It might be true.
+La prueba podría incluir algunas preguntas sobre geografía. | The test might include some questions about geography.
+Pensé que te podría gustar esto. | I thought you might like this.
+Si nos damos prisa, quizá lleguemos allí antes de que llueva. | If we hurry, we might get there before it rains.
+Podrías probar el pastel. | You might try the cake.
+Pensé que podríamos ir al zoológico el sábado. | I thought we might go to the zoo on Saturday.
+Es posible que desees bajar el asiento para que tus piernas lleguen al pedal. | You might want to lower your seat, so that your legs reach the pedal.
+Puede que sea lento, pero hace muy buen trabajo. | He might be slow, but he does very good work.
+Puede que haga frío afuera, pero aun así es un hermoso día. | It might be cold outside, but it's still a beautiful day.
+Podría haber sido una gran actriz, pero era una madre pésima. | She might have been a great actress, but she was a terrible parent.
+¿Puedo usar tu teléfono? | Might I use your phone?
+¿Puedo preguntar quién llama? | Might I ask who is calling?
+Sería prudente proceder con cautela. | It might be wise to proceed cautiously.
+¡Al menos podrías disculparte! | You might at least apologize!
+Honestamente, ¡quizás me lo hubieras dicho! | Honestly, you might have told me!
+¡Creo que al menos podrías ofrecerte a ayudar! | I think you might at least offer to help!
+Tengo una petición que hacer. | I have a request to make.
+¿Y qué podría ser eso? | And what might that be?
+¿Y quién podrías ser? | And who might you be?
+¿Puedo simplemente decir lo contento que estoy de estar aquí? | Might I just say how pleased I am to be here.
+Si vas a tomar azúcar, también puedes tomar una barra de chocolate. | If you are going to have sugar, you might as well have a bar of chocolate.
+Debes leer este libro. | You must read this book.
+¡Es fantástico! | It's fantastic!
+Debes venir a visitarnos pronto. | You must come visit us soon.
+Debes ver a un médico. | You must see a doctor.
+Debes seguir las reglas. | You must follow the rules.
+Debo ir a buscar a los niños a la escuela. | I must go and get the kids from school.
+No debes hacerlo. | You must not do it.
+Los coches no deben aparcar delante de la entrada. | Cars must not park in front of the entrance.
+No debes decir cosas así. | You mustn't say things like that.
+Debe ser casi la hora de cenar. | It must be almost dinner time.
+Ella debe pensar que soy un tonto. | She must think I'm a fool.
+¿Vas a usar eso? | You're going to wear that?
+¡Debes estar bromeando! | You must be joking!
+Debe haber algún error. | There must be some mistake.
+Debo advertirles que esto no será fácil. | I must warn you, this will not be easy.
+Debo confesar que aún no he leído el libro. | I must confess, I haven't read the book yet.
+Debo decir que me sorprendió saber de él. | I must say, I was surprised to hear from him.
+¿Debes ser tan irrazonable? | Must you be so unreasonable?
+¿Por qué siempre debe llover los fines de semana? | Why must it always rain on the weekend?
+Puedes fumar si es necesario, pero hazlo al aire libre. | You can smoke if you must, but please do it outdoors.
+Sydney es una de las ciudades imperdibles del mundo. | Sydney is one of the world's must-see cities.
+Este libro es una lectura obligada. | This book is a must-read.
+El ejercicio regular es imprescindible a medida que envejece. | Regular exercise is a must as you grow older.
+Si vas a caminar por este sendero, es imprescindible llevar calzado resistente. | If you're going to hike this trail, sturdy shoes are a must.
+Llegaremos mañana por la tarde. | We shall arrive tomorrow evening.
+No lo volveré a mencionar. | I shall not mention it again.
+No lo volveré a mencionar. | I shan't mention it again.
+Quizás suceda. | Perhaps it will happen.
+Ya veremos. | We shall see.
+¿Llamo un taxi? | Shall I call a taxi?
+Por favor hazlo. | Please do.
+¿Qué haremos este fin de semana? | What shall we do this weekend?
+¿Bailamos? | Shall we dance?
+Vamos a bailar, ¿vale? | Let's dance, shall we?
+¡Te irás inmediatamente! | You shall leave at once!
+No pasarán. | They shall not pass.
+Los candidatos permanecerán sentados. | Candidates shall remain seated.
+No se hablará durante la prueba. | There shall be no talking during the test.
+Sólo el jurado decidirá el veredicto. | The jury alone shall decide the verdict.
+Será ilegal portar armas de fuego. | It shall be unlawful to carry firearms.
+Deberías descansar un poco. | You ought to get some rest.
+Deberíamos irnos ahora. | We ought to go now.
+Deberías saberlo. | You ought to know.
+Los niños no deben correr cerca de la piscina. | Children ought not to run near the pool.
+Ya deberían estar aquí. | They ought to be here by now.
+Debería haber una gasolinera en el camino. | There ought to be a gas station on the way.
+Si mis cálculos son correctos, el resultado debería ser cero. | If my math is correct, the result ought to be zero.
+No debería hacer ninguna diferencia. | It ought not to make any difference.
 ¿Cómo estás? | How are you?
 Lo siento, ¿cuál era tu nombre? | Sorry, what was your name again?
 ¿Conoces a João? | Do you know João?
