@@ -755,41 +755,40 @@ window.WalkEngine = (function () {
   let pocketTimer = null;
   let pocketWakeLockSentinel = null;  // wake lock exclusivo do Modo Bolso
 
-  /* ── Wake Lock do Modo Bolso (independente do Modo Caminhada) ── */
+  /* -- Wake Lock do Modo Bolso (independente do Modo Caminhada) -- */
 
   async function acquirePocketWakeLock() {
-    if (!(\"wakeLock\" in navigator) || !navigator.wakeLock || !navigator.wakeLock.request) return false;
-    if (document.visibilityState !== \"visible\") return false;
+    if (!("wakeLock" in navigator) || !navigator.wakeLock || !navigator.wakeLock.request) return false;
+    if (document.visibilityState !== "visible") return false;
     try {
-      if (pocketWakeLockSentinel) return true;  // já ativo
-      pocketWakeLockSentinel = await navigator.wakeLock.request(\"screen\");
-      pocketWakeLockSentinel.addEventListener(\"release\", () => {
+      if (pocketWakeLockSentinel) return true;
+      pocketWakeLockSentinel = await navigator.wakeLock.request("screen");
+      pocketWakeLockSentinel.addEventListener("release", () => {
         pocketWakeLockSentinel = null;
         renderPocketWakeLockBtn();
       });
       return true;
-    } catch {
+    } catch (e) {
       pocketWakeLockSentinel = null;
       return false;
     }
   }
 
   async function releasePocketWakeLock() {
-    try { if (pocketWakeLockSentinel) await pocketWakeLockSentinel.release(); } catch {}
+    try { if (pocketWakeLockSentinel) await pocketWakeLockSentinel.release(); } catch (e) {}
     pocketWakeLockSentinel = null;
   }
 
   function renderPocketWakeLockBtn() {
-    const btn = document.getElementById(\"pocketWakeLock\");
+    const btn = document.getElementById("pocketWakeLock");
     if (!btn) return;
+    const suportado = "wakeLock" in navigator && !!navigator.wakeLock;
+    btn.style.display = suportado ? "inline-flex" : "none";
     const ativo = !!pocketWakeLockSentinel;
-    btn.classList.toggle(\"pocket-wakelock-on\", ativo);
+    btn.classList.toggle("pocket-wakelock-on", ativo);
     btn.innerHTML = ativo
-      ? '<i class=\"fa fa-lightbulb\"></i> Tela travada acesa'
-      : '<i class=\"fa fa-lightbulb\"></i> Manter tela acesa';
-    // Esconde o botão se o navegador não suportar Screen Wake Lock API
-    const suportado = \"wakeLock\" in navigator && !!navigator.wakeLock;
-    btn.style.display = suportado ? \"\" : \"none\";
+      ? '<i class="fa fa-lightbulb"></i> Tela travada acesa'
+      : '<i class="fa fa-lightbulb"></i> Manter tela acesa';
   }
 
   async function togglePocketWakeLock() {
@@ -818,7 +817,7 @@ window.WalkEngine = (function () {
     if (!el) return;
     el.classList.remove("open", "dim");
     if (pocketTimer) clearTimeout(pocketTimer);
-    releasePocketWakeLock();  // libera ao sair do Modo Bolso
+    releasePocketWakeLock();
   }
 
   function scheduleDim() {
@@ -936,7 +935,6 @@ window.WalkEngine = (function () {
 
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState !== "visible") return;
-      // Reconecta wake lock do Modo Bolso se o overlay ainda está aberto
       const pocketEl = document.getElementById("pocketOverlay");
       if (pocketEl && pocketEl.classList.contains("open") && !pocketWakeLockSentinel) {
         acquirePocketWakeLock().then(renderPocketWakeLockBtn);
