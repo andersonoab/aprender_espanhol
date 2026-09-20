@@ -1580,6 +1580,32 @@ body.bridge-on .slot .hint { opacity: 0.25; }
   line-height: 1.5;
 }
 
+/* ── Botão Manter Tela Acesa (Modo Bolso) ─────────────────── */
+.pocket-wakelock-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin-top: 18px;
+  padding: 10px 22px;
+  border: 1.5px solid #334155;
+  border-radius: 999px;
+  background: transparent;
+  color: #94a3b8;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .2s, color .2s, border-color .2s;
+  -webkit-tap-highlight-color: transparent;
+}
+.pocket-wakelock-btn:active {
+  transform: scale(0.95);
+}
+.pocket-wakelock-btn.pocket-wakelock-on {
+  background: #facc15;
+  border-color: #facc15;
+  color: #1e293b;
+}
+
 @media (prefers-reduced-motion: reduce) {
   #pocketOverlay, .pocket-btn, .bridge-btn, .word.tappable { transition: none; }
 }
