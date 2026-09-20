@@ -753,15 +753,56 @@ window.WalkEngine = (function () {
   /* ── Modo Bolso ───────────────────────────────────────────── */
 
   let pocketTimer = null;
-  let pocketWakeLockSentinel = null;  // wake lock exclusivo do Modo Bolso
+  let pocketWakeLockSentinel = null;  // Wake Lock API (bom no celular)
+  let pocketNoSleepVideo = null;      // video de apoio (segura no notebook)
+  let pocketKeepAwakeOn = false;      // fonte da verdade do botao
 
-  /* -- Wake Lock do Modo Bolso (independente do Modo Caminhada) -- */
+  /* -- Manter Tela Acesa no Modo Bolso --------------------------
+     Duas camadas somadas, porque nenhuma sozinha cobre tudo:
+       1) Wake Lock API: ideal, mas em notebook/Edge pode ser negada
+          em runtime (economia de energia) ou liberada ao perder foco.
+       2) Video mudo em loop: enquanto um video toca, o sistema
+          operacional nao apaga a tela nem dispara a protecao de tela
+          (mesmo motivo de o YouTube nao deixar o notebook dormir).
+     O botao reflete pocketKeepAwakeOn, nao o Wake Lock: se a API cair
+     mas o video seguir tocando, a tela continua acesa e o botao amarelo. */
+
+  // Clipes minimos e validos (NoSleep.js, MIT). Nao sao tocados/ouvidos.
+  const POCKET_KEEP_WEBM = "data:video/webm;base64,GkXfo0AgQoaBAUL3gQFC8oEEQvOBCEKCQAR3ZWJtQoeBAkKFgQIYU4BnQI0VSalmQCgq17FAAw9CQE2AQAZ3aGFtbXlXQUAGd2hhbW15RIlACECPQAAAAAAAFlSua0AxrkAu14EBY8WBAZyBACK1nEADdW5khkAFVl9WUDglhohAA1ZQOIOBAeBABrCBCLqBCB9DtnVAIueBAKNAHIEAAIAwAQCdASoIAAgAAUAmJaQAA3AA/vz0AAA=";
+  const POCKET_KEEP_MP4 = "data:video/mp4;base64,AAAAHGZ0eXBpc29tAAACAGlzb21pc28ybXA0MQAAAAhmcmVlAAAAG21kYXQAAAGzABAHAAABthADAowdbb9/AAAC6W1vb3YAAABsbXZoZAAAAAB8JbCAfCWwgAAAA+gAAAAAAAEAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAIVdHJhawAAAFx0a2hkAAAAD3wlsIB8JbCAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAAIAAAACAAAAAABsW1kaWEAAAAgbWRoZAAAAAB8JbCAfCWwgAAAA+gAAAAAVcQAAAAAAC1oZGxyAAAAAAAAAAB2aWRlAAAAAAAAAAAAAAAAVmlkZW9IYW5kbGVyAAAAAVxtaW5mAAAAFHZtaGQAAAABAAAAAAAAAAAAAAAkZGluZgAAABxkcmVmAAAAAAAAAAEAAAAMdXJsIAAAAAEAAAEcc3RibAAAALhzdHNkAAAAAAAAAAEAAACobXA0dgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAIAAgASAAAAEgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABj//wAAAFJlc2RzAAAAAANEAAEABDwgEQAAAAADDUAAAAAABS0AAAGwAQAAAbWJEwAAAQAAAAEgAMSNiB9FAEQBFGMAAAGyTGF2YzUyLjg3LjQGAQIAAAAYc3R0cwAAAAAAAAABAAAAAQAAAAAAAAAcc3RzYwAAAAAAAAABAAAAAQAAAAEAAAABAAAAFHN0c3oAAAAAAAAAEwAAAAEAAAAUc3RjbwAAAAAAAAABAAAALAAAAGB1ZHRhAAAAWG1ldGEAAAAAAAAAIWhkbHIAAAAAAAAAAG1kaXJhcHBsAAAAAAAAAAAAAAAAK2lsc3QAAAAjqXRvbwAAABtkYXRhAAAAAQAAAABMYXZmNTIuNzguMw==";
+
+  function pocketVideoStart() {
+    try {
+      if (!pocketNoSleepVideo) {
+        const v = document.createElement("video");
+        v.setAttribute("playsinline", "");
+        v.setAttribute("muted", "");
+        v.muted = true;
+        v.loop = true;
+        v.setAttribute("title", "Modo Bolso");
+        v.style.cssText = "position:fixed;left:-2px;top:-2px;width:1px;height:1px;opacity:0.01;pointer-events:none;";
+        const sw = document.createElement("source");
+        sw.src = POCKET_KEEP_WEBM; sw.type = "video/webm";
+        const sm = document.createElement("source");
+        sm.src = POCKET_KEEP_MP4; sm.type = "video/mp4";
+        v.appendChild(sw); v.appendChild(sm);
+        document.body.appendChild(v);
+        pocketNoSleepVideo = v;
+      }
+      const p = pocketNoSleepVideo.play();
+      if (p && p.catch) p.catch(function () {});
+    } catch (e) {}
+  }
+
+  function pocketVideoStop() {
+    try { if (pocketNoSleepVideo) pocketNoSleepVideo.pause(); } catch (e) {}
+  }
 
   async function acquirePocketWakeLock() {
     if (!("wakeLock" in navigator) || !navigator.wakeLock || !navigator.wakeLock.request) return false;
     if (document.visibilityState !== "visible") return false;
+    if (pocketWakeLockSentinel) return true;
     try {
-      if (pocketWakeLockSentinel) return true;
       pocketWakeLockSentinel = await navigator.wakeLock.request("screen");
       pocketWakeLockSentinel.addEventListener("release", () => {
         pocketWakeLockSentinel = null;
@@ -774,30 +815,44 @@ window.WalkEngine = (function () {
     }
   }
 
-  async function releasePocketWakeLock() {
+  async function dropPocketWakeLock() {
     try { if (pocketWakeLockSentinel) await pocketWakeLockSentinel.release(); } catch (e) {}
     pocketWakeLockSentinel = null;
+  }
+
+  async function enablePocketKeepAwake() {
+    pocketKeepAwakeOn = true;
+    pocketVideoStart();          // camada que segura no notebook
+    await acquirePocketWakeLock(); // camada extra, melhor no celular
+    renderPocketWakeLockBtn();
+  }
+
+  async function releasePocketWakeLock() {
+    pocketKeepAwakeOn = false;
+    pocketVideoStop();
+    await dropPocketWakeLock();
+    renderPocketWakeLockBtn();
   }
 
   function renderPocketWakeLockBtn() {
     const btn = document.getElementById("pocketWakeLock");
     if (!btn) return;
-    const suportado = "wakeLock" in navigator && !!navigator.wakeLock;
-    btn.style.display = suportado ? "inline-flex" : "none";
-    const ativo = !!pocketWakeLockSentinel;
-    btn.classList.toggle("pocket-wakelock-on", ativo);
-    btn.innerHTML = ativo
+    // O botao aparece sempre: o video de apoio funciona ate onde a
+    // Wake Lock API nao existe, entao esconde-lo puniria justamente
+    // os navegadores que mais dependem do apoio.
+    btn.style.display = "inline-flex";
+    btn.classList.toggle("pocket-wakelock-on", pocketKeepAwakeOn);
+    btn.innerHTML = pocketKeepAwakeOn
       ? '<i class="fa fa-lightbulb"></i> Tela travada acesa'
       : '<i class="fa fa-lightbulb"></i> Manter tela acesa';
   }
 
   async function togglePocketWakeLock() {
-    if (pocketWakeLockSentinel) {
+    if (pocketKeepAwakeOn) {
       await releasePocketWakeLock();
     } else {
-      await acquirePocketWakeLock();
+      await enablePocketKeepAwake();
     }
-    renderPocketWakeLockBtn();
   }
 
   function openPocket() {
@@ -936,7 +991,8 @@ window.WalkEngine = (function () {
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState !== "visible") return;
       const pocketEl = document.getElementById("pocketOverlay");
-      if (pocketEl && pocketEl.classList.contains("open") && !pocketWakeLockSentinel) {
+      if (pocketEl && pocketEl.classList.contains("open") && pocketKeepAwakeOn) {
+        pocketVideoStart();  // o video pausa ao esconder a aba; retoma aqui
         acquirePocketWakeLock().then(renderPocketWakeLockBtn);
       }
       if (!state.running) return;
