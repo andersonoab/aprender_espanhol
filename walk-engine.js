@@ -822,8 +822,13 @@ window.WalkEngine = (function () {
 
   async function enablePocketKeepAwake() {
     pocketKeepAwakeOn = true;
-    pocketVideoStart();          // camada que segura no notebook
-    await acquirePocketWakeLock(); // camada extra, melhor no celular
+    // Efeito principal: impede a tela do bolso de escurecer.
+    if (pocketTimer) { clearTimeout(pocketTimer); pocketTimer = null; }
+    const el = document.getElementById("pocketOverlay");
+    if (el) el.classList.remove("dim");
+    // Bonus: tambem tenta impedir o sistema de apagar a tela fisica.
+    pocketVideoStart();
+    await acquirePocketWakeLock();
     renderPocketWakeLockBtn();
   }
 
@@ -831,6 +836,9 @@ window.WalkEngine = (function () {
     pocketKeepAwakeOn = false;
     pocketVideoStop();
     await dropPocketWakeLock();
+    // Volta o escurecimento automatico normal (9s).
+    const el = document.getElementById("pocketOverlay");
+    if (el && el.classList.contains("open")) scheduleDim();
     renderPocketWakeLockBtn();
   }
 
@@ -877,6 +885,12 @@ window.WalkEngine = (function () {
 
   function scheduleDim() {
     if (pocketTimer) clearTimeout(pocketTimer);
+    // Botao "Manter tela acesa" ligado -> a tela do bolso NUNCA escurece.
+    if (pocketKeepAwakeOn) {
+      const el = document.getElementById("pocketOverlay");
+      if (el) el.classList.remove("dim");
+      return;
+    }
     pocketTimer = setTimeout(() => {
       const el = document.getElementById("pocketOverlay");
       if (el && el.classList.contains("open")) el.classList.add("dim");
