@@ -59,6 +59,206 @@ No vemos gente muerta. | We don't see dead people.
 No hablan inglés. | They don't speak English.
 Él no habla inglés. | He doesn't speak English.
 Ella no piensa demasiado. | She doesn't think too much.
+Aprender algo nuevo requiere paciencia. | Learning something new requires patience.
+Cada día es una oportunidad para mejorar. | Every day is an opportunity to improve.
+No tengas miedo de cometer errores. | Don't be afraid to make mistakes.
+Los errores son parte del aprendizaje. | Mistakes are part of learning.
+Practicar todos los días hace la diferencia. | Practicing every day makes a difference.
+La constancia es más importante que la velocidad. | Consistency is more important than speed.
+Pequeños avances producen grandes resultados. | Small improvements produce big results.
+Aprendo mejor cuando practico de verdad. | I learn better when I practice for real.
+Necesito repetir esta frase varias veces. | I need to repeat this sentence several times.
+Quiero mejorar mi pronunciación. | I want to improve my pronunciation.
+Necesito hablar con más confianza. | I need to speak with more confidence.
+No necesito hablar perfectamente para comunicarme. | I don't need to speak perfectly to communicate.
+Puedo aprender una palabra nueva cada día. | I can learn one new word every day.
+Intento entender antes de traducir. | I try to understand before translating.
+Escuchar con atención mejora mi comprensión. | Listening carefully improves my comprehension.
+Hablar en voz alta me ayuda a aprender. | Speaking out loud helps me learn.
+Es importante aprender frases completas. | It is important to learn complete sentences.
+Quiero pensar directamente en otro idioma. | I want to think directly in another language.
+Necesito aumentar mi vocabulario profesional. | I need to expand my professional vocabulary.
+Estoy aprendiendo a expresarme con claridad. | I am learning to express myself clearly.
+Hoy aprendí algo que no sabía ayer. | Today I learned something I didn't know yesterday.
+Siempre hay algo nuevo por descubrir. | There is always something new to discover.
+Una buena pregunta puede cambiar una conversación. | A good question can change a conversation.
+Preguntar es una forma de aprender. | Asking questions is a way to learn.
+Quiero entender el motivo detrás de cada decisión. | I want to understand the reason behind each decision.
+Intento ver el problema desde otra perspectiva. | I try to see the problem from another perspective.
+Una idea simple puede resolver un problema complejo. | A simple idea can solve a complex problem.
+Antes de decidir, necesito entender los hechos. | Before deciding, I need to understand the facts.
+Quiero tomar decisiones basadas en datos. | I want to make decisions based on data.
+Los datos ayudan a reducir la incertidumbre. | Data helps reduce uncertainty.
+Necesitamos separar hechos de opiniones. | We need to separate facts from opinions.
+No todo lo urgente es importante. | Not everything urgent is important.
+Necesito definir mis prioridades. | I need to define my priorities.
+Primero debemos resolver lo más crítico. | First, we should solve what is most critical.
+Una buena planificación evita muchos problemas. | Good planning prevents many problems.
+Prefiero prevenir que corregir después. | I prefer to prevent rather than fix things later.
+Necesitamos revisar el proceso de principio a fin. | We need to review the process from beginning to end.
+Cada etapa debe tener un responsable. | Each step should have an owner.
+Todo proyecto necesita un plazo claro. | Every project needs a clear deadline.
+Necesitamos saber quién hace qué. | We need to know who does what.
+Una tarea sin responsable puede quedar olvidada. | A task without an owner can be forgotten.
+Necesitamos acompañar el progreso del proyecto. | We need to track the project's progress.
+Quiero identificar los riesgos antes de empezar. | I want to identify the risks before we start.
+Todo cambio genera algún impacto. | Every change creates some impact.
+Debemos medir el impacto antes de implementar. | We should measure the impact before implementing.
+Un buen proceso debe ser fácil de entender. | A good process should be easy to understand.
+Si el proceso es complejo, debemos simplificarlo. | If the process is complex, we should simplify it.
+Automatizar no significa perder el control. | Automation does not mean losing control.
+Automatizar tareas repetitivas ahorra tiempo. | Automating repetitive tasks saves time.
+Quiero usar la tecnología para reducir errores. | I want to use technology to reduce errors.
+Un buen sistema debe ayudar a las personas. | A good system should help people.
+Antes de automatizar, debemos entender el proceso. | Before automating, we should understand the process.
+No debemos automatizar un proceso mal diseñado. | We should not automate a poorly designed process.
+La calidad de los datos es fundamental. | Data quality is essential.
+Datos incorrectos generan decisiones incorrectas. | Incorrect data leads to incorrect decisions.
+Necesitamos validar la información antes de usarla. | We need to validate the information before using it.
+Quiero encontrar patrones en los datos. | I want to find patterns in the data.
+Los indicadores deben contar una historia. | Indicators should tell a story.
+Un buen dashboard facilita la toma de decisiones. | A good dashboard makes decision-making easier.
+Necesitamos mostrar solo la información relevante. | We need to show only the relevant information.
+Menos información puede generar más claridad. | Less information can create more clarity.
+Quiero comparar este mes con el anterior. | I want to compare this month with the previous one.
+Necesitamos analizar la tendencia, no solo el número. | We need to analyze the trend, not just the number.
+Una variación necesita una explicación. | A variation needs an explanation.
+Quiero entender por qué este indicador aumentó. | I want to understand why this indicator increased.
+Necesitamos identificar la causa raíz. | We need to identify the root cause.
+No debemos confundir causa con consecuencia. | We should not confuse cause with consequence.
+Un buen análisis comienza con una buena pregunta. | A good analysis begins with a good question.
+Necesito comprobar si esta información es correcta. | I need to check whether this information is correct.
+Vamos a revisar los números nuevamente. | Let's review the numbers again.
+Esta diferencia necesita ser investigada. | This difference needs to be investigated.
+Quiero saber qué cambió entre los dos períodos. | I want to know what changed between the two periods.
+Necesitamos comparar casos similares. | We need to compare similar cases.
+Este resultado está fuera de lo esperado. | This result is outside the expected range.
+Puede haber un valor atípico en estos datos. | There may be an outlier in this data.
+Necesitamos revisar los casos excepcionales. | We need to review the exceptional cases.
+Un caso aislado no define una tendencia. | One isolated case does not define a trend.
+Necesitamos mirar el contexto completo. | We need to look at the full context.
+Los detalles pueden cambiar la interpretación. | Details can change the interpretation.
+Quiero entender antes de responder. | I want to understand before responding.
+Prefiero hacer una pregunta que asumir algo. | I prefer to ask a question rather than assume something.
+Una comunicación clara evita retrabajos. | Clear communication prevents rework.
+Necesitamos ser objetivos en esta conversación. | We need to be objective in this conversation.
+Voy a explicar el punto de manera simple. | I will explain the point in a simple way.
+Déjame resumir lo que entendí. | Let me summarize what I understood.
+Quiero confirmar si estamos de acuerdo. | I want to confirm whether we agree.
+¿Podrías explicar este punto con más detalle? | Could you explain this point in more detail?
+¿Cuál es el principal problema aquí? | What is the main problem here?
+¿Cuál sería el próximo paso? | What would be the next step?
+¿Quién es responsable de esta actividad? | Who is responsible for this activity?
+¿Cuál es la fecha límite? | What is the deadline?
+¿Qué necesitamos para avanzar? | What do we need to move forward?
+¿Existe algún riesgo que debamos considerar? | Is there any risk we should consider?
+¿Qué impacto tendrá este cambio? | What impact will this change have?
+¿Tenemos todos los datos necesarios? | Do we have all the necessary data?
+¿Podemos validar esta información? | Can we validate this information?
+¿Hay alguna dependencia externa? | Is there any external dependency?
+¿Qué sucede si no hacemos este cambio? | What happens if we don't make this change?
+¿Qué alternativa tenemos? | What alternative do we have?
+Necesitamos evaluar más de una opción. | We need to evaluate more than one option.
+Cada opción tiene ventajas y desventajas. | Each option has advantages and disadvantages.
+Debemos entender el costo total. | We should understand the total cost.
+El costo no es el único factor. | Cost is not the only factor.
+También debemos considerar el tiempo. | We also need to consider the time.
+El riesgo debe formar parte de la decisión. | Risk should be part of the decision.
+Necesitamos pensar en el impacto para las personas. | We need to think about the impact on people.
+Un cambio bien comunicado genera menos resistencia. | A well-communicated change creates less resistance.
+Las personas necesitan entender el motivo del cambio. | People need to understand the reason for the change.
+Es importante explicar qué va a cambiar. | It is important to explain what is going to change.
+También debemos explicar qué no va a cambiar. | We also need to explain what is not going to change.
+Una transición necesita planificación. | A transition needs planning.
+Necesitamos preparar a las personas para la transición. | We need to prepare people for the transition.
+Una buena implementación requiere pruebas. | A good implementation requires testing.
+Debemos probar antes de poner en producción. | We should test before going live.
+Un período paralelo puede reducir riesgos. | A parallel period can reduce risks.
+Necesitamos documentar cada decisión importante. | We need to document every important decision.
+La documentación facilita futuras revisiones. | Documentation makes future reviews easier.
+Si algo falla, necesitamos saber qué ocurrió. | If something fails, we need to know what happened.
+Todo control debe tener una evidencia. | Every control should have evidence.
+Necesitamos mantener un historial de cambios. | We need to keep a change history.
+Un proceso auditado debe ser rastreable. | An audited process should be traceable.
+Quiero reducir tareas manuales. | I want to reduce manual tasks.
+Quiero dedicar más tiempo al análisis. | I want to spend more time on analysis.
+El objetivo es trabajar de manera más inteligente. | The goal is to work smarter.
+No quiero perder tiempo con retrabajos. | I don't want to waste time on rework.
+Necesitamos eliminar actividades que no agregan valor. | We need to eliminate activities that add no value.
+Quiero transformar información en conocimiento. | I want to turn information into knowledge.
+Quiero transformar conocimiento en acción. | I want to turn knowledge into action.
+Un buen indicador debe llevar a una acción. | A good indicator should lead to an action.
+Si no podemos actuar, debemos revisar el indicador. | If we cannot act, we should review the indicator.
+Necesitamos definir qué significa éxito. | We need to define what success means.
+Una meta debe ser clara y medible. | A goal should be clear and measurable.
+Quiero saber si estamos mejorando. | I want to know whether we are improving.
+Debemos comparar el resultado con la meta. | We should compare the result with the target.
+Un resultado bueno también puede ser mejorado. | A good result can still be improved.
+Siempre hay espacio para mejorar. | There is always room for improvement.
+Quiero aprender con cada proyecto. | I want to learn from every project.
+Después del proyecto, debemos revisar las lecciones aprendidas. | After the project, we should review the lessons learned.
+Lo que aprendimos hoy puede ayudar mañana. | What we learned today can help tomorrow.
+Necesitamos compartir el conocimiento con el equipo. | We need to share knowledge with the team.
+El conocimiento no debe quedar con una sola persona. | Knowledge should not stay with only one person.
+Un equipo fuerte comparte información. | A strong team shares information.
+Es importante pedir ayuda cuando sea necesario. | It is important to ask for help when necessary.
+Nadie necesita saber todo. | Nobody needs to know everything.
+Trabajar en equipo mejora el resultado. | Working as a team improves the result.
+Cada persona puede aportar una perspectiva diferente. | Each person can bring a different perspective.
+Escuchar al equipo puede revelar nuevos problemas. | Listening to the team can reveal new problems.
+Las mejores ideas pueden venir de cualquier persona. | The best ideas can come from anyone.
+Quiero crear un ambiente donde las personas puedan hablar. | I want to create an environment where people can speak up.
+Las personas deben sentirse cómodas haciendo preguntas. | People should feel comfortable asking questions.
+Una buena reunión debe tener un objetivo. | A good meeting should have an objective.
+No necesitamos una reunión para todo. | We don't need a meeting for everything.
+Una reunión debe terminar con próximos pasos. | A meeting should end with next steps.
+Necesitamos registrar las decisiones tomadas. | We need to record the decisions made.
+Quiero reuniones más cortas y objetivas. | I want shorter and more objective meetings.
+Debemos llegar preparados a la reunión. | We should come prepared to the meeting.
+Voy a revisar este tema antes de la reunión. | I will review this topic before the meeting.
+Necesito algunos minutos para analizarlo. | I need a few minutes to analyze it.
+Voy a verificar y te respondo después. | I will check and get back to you later.
+No tengo la información completa todavía. | I don't have the complete information yet.
+Prefiero confirmar antes de responder. | I prefer to confirm before answering.
+Esta información todavía está pendiente. | This information is still pending.
+Estamos esperando una confirmación. | We are waiting for confirmation.
+Necesitamos una aprobación antes de continuar. | We need approval before continuing.
+El proyecto está dentro del plazo. | The project is on schedule.
+El proyecto está atrasado. | The project is delayed.
+Necesitamos recuperar el tiempo perdido. | We need to recover the lost time.
+Vamos a priorizar las actividades críticas. | Let's prioritize the critical activities.
+Necesitamos revisar el cronograma. | We need to review the timeline.
+Esta actividad depende de otra entrega. | This task depends on another delivery.
+Necesitamos eliminar este bloqueo. | We need to remove this blocker.
+¿Qué está impidiendo el avance? | What is preventing progress?
+Vamos a resolver un problema a la vez. | Let's solve one problem at a time.
+No podemos resolver todo al mismo tiempo. | We cannot solve everything at the same time.
+Necesitamos mantener el foco. | We need to stay focused.
+Quiero terminar lo que empecé. | I want to finish what I started.
+Es mejor avanzar que buscar perfección. | It is better to make progress than to seek perfection.
+Perfecto no siempre significa eficiente. | Perfect does not always mean efficient.
+Una solución simple puede ser suficiente. | A simple solution may be enough.
+Necesitamos encontrar el equilibrio correcto. | We need to find the right balance.
+Quiero entender el impacto a largo plazo. | I want to understand the long-term impact.
+Una decisión rápida puede tener consecuencias futuras. | A quick decision can have future consequences.
+Debemos pensar más allá del problema inmediato. | We should think beyond the immediate problem.
+Quiero anticipar lo que puede suceder después. | I want to anticipate what may happen next.
+Necesitamos estar preparados para diferentes escenarios. | We need to be prepared for different scenarios.
+Un buen plan también necesita flexibilidad. | A good plan also needs flexibility.
+Las prioridades pueden cambiar. | Priorities can change.
+Debemos adaptarnos cuando el contexto cambia. | We should adapt when the context changes.
+Adaptarse no significa perder el objetivo. | Adapting does not mean losing the goal.
+Quiero mantener la mente abierta. | I want to keep an open mind.
+Puedo cambiar de opinión con nueva información. | I can change my mind with new information.
+Una nueva evidencia puede cambiar una decisión. | New evidence can change a decision.
+Es importante reconocer cuando estamos equivocados. | It is important to recognize when we are wrong.
+Corregir rápido es mejor que insistir en el error. | Correcting quickly is better than insisting on the mistake.
+Quiero aprender a dar mejores comentarios. | I want to learn how to give better feedback.
+El feedback debe ser claro y respetuoso. | Feedback should be clear and respectful.
+Un buen feedback ayuda a mejorar. | Good feedback helps people improve.
+También necesito aprender a recibir feedback. | I also need to learn how to receive feedback.
+Escuchar no significa estar de acuerdo. | Listening does not mean agreeing.
+Podemos tener opiniones diferentes y seguir colaborando. | We can have different opinions and still collaborate.
 No ve muertos. | It doesn't see dead people.
 ¿Hablas inglés? | Do you speak English?
 ¿Pienso demasiado? | Do I think too much?
