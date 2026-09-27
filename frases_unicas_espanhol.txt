@@ -297,6 +297,201 @@ Las personas deben sentirse cómodas haciendo preguntas. | People should feel co
 Una buena reunión debe tener un objetivo. | A good meeting should have an objective.
 No necesitamos una reunión para todo. | We don't need a meeting for everything.
 Una reunión debe terminar con próximos pasos. | A meeting should end with next steps.
+Occidente no ha logrado suficientes avances tecnológicos. | The West has not achieved enough technological progress.
+La gente está debatiendo si hay demasiada aceleración. | People are debating whether there is too much acceleration.
+¿La inteligencia artificial progresa demasiado rápido? | Is artificial intelligence progressing too fast?
+He cambiado de opinión hasta cierto punto. | I have changed my mind to some extent.
+Es muy difícil medir el progreso. | It is very difficult to measure progress.
+Hay muchas dimensiones diferentes del progreso. | There are many different dimensions of progress.
+Hay muchas áreas diferentes de tecnología y ciencia. | There are many different areas of technology and science.
+Desde la década de 1970 se produjo una desaceleración. | There has been a slowdown since the 1970s.
+Hubo mucho progreso en el mundo digital. | There was a lot of progress in the digital world.
+Internet fue un importante motor de crecimiento. | The internet was an important driver of growth.
+La inteligencia artificial puede ser más grande que Internet. | Artificial intelligence may be bigger than the internet.
+La IA tiene el potencial de acelerar el crecimiento. | AI has the potential to accelerate growth.
+El progreso también puede traer consecuencias negativas. | Progress can also bring negative consequences.
+Durante décadas vivimos algo parecido a un estancamiento. | For decades, we experienced something like stagnation.
+La percepción de la IA oscila entre la euforia y la distopía. | The perception of AI swings between euphoria and dystopia.
+Existe el temor de que la IA pueda escapar al control humano. | There is a fear that AI could escape human control.
+No creo que la probabilidad sea muy alta. | I do not think the probability is very high.
+Incluso una pequeña probabilidad puede ser preocupante. | Even a small probability can be concerning.
+Es difícil afirmar que el riesgo sea cero. | It is difficult to claim that the risk is zero.
+La precaución no siempre significa que debamos ir más despacio. | Caution does not always mean that we should slow down.
+Si no hay progreso, nuestras sociedades también tienen problemas. | If there is no progress, our societies also have problems.
+La clase media espera que sus hijos vivan mejor. | The middle class expects their children to live better lives.
+El progreso entre generaciones es muy importante. | Progress between generations is very important.
+La gente espera progreso económico y material. | People expect economic and material progress.
+También esperamos avances en salud. | We also expect progress in healthcare.
+Cuando el progreso se detiene, la sociedad cambia. | When progress stops, society changes.
+La alternativa a la inteligencia artificial no es neutral. | The alternative to artificial intelligence is not neutral.
+No podemos simplemente hacer retroceder el reloj. | We cannot simply turn back the clock.
+Ralentizar la tecnología puede ser poco realista. | Slowing down technology may be unrealistic.
+Si Estados Unidos frena y China acelera, cambia el equilibrio. | If the United States slows down and China accelerates, the balance changes.
+La cooperación global sería muy difícil. | Global cooperation would be very difficult.
+Una solución puede ser peor que el problema. | A solution can be worse than the problem.
+A veces hay muchas conferencias y pocas acciones. | Sometimes there are many conferences and very few actions.
+Es demasiado fácil culpar a otros países. | It is too easy to blame other countries.
+Tenemos que tomarnos la competencia tecnológica en serio. | We have to take technological competition seriously.
+Europa está rezagada en inteligencia artificial. | Europe is lagging behind in artificial intelligence.
+En Estados Unidos existe una mayor sensación de urgencia. | In the United States, there is a greater sense of urgency.
+Las empresas necesitan transformarse en la era de la IA. | Companies need to transform in the age of AI.
+En Europa todavía existe mucha inercia. | There is still a lot of inertia in Europe.
+No podemos esperar indefinidamente. | We cannot wait indefinitely.
+La IA puede ser buena o mala para la democracia. | AI can be good or bad for democracy.
+La gente necesita creer que el futuro puede mejorar. | People need to believe that the future can get better.
+La política se vuelve más conflictiva cuando todo parece un juego de suma cero. | Politics becomes more conflict-driven when everything feels like a zero-sum game.
+La inteligencia artificial no es una solución para todo. | Artificial intelligence is not a solution to everything.
+La tecnología puede compararse con una herramienta. | Technology can be compared to a tool.
+Una herramienta puede usarse para fines buenos o malos. | A tool can be used for good or bad purposes.
+La tecnología, por sí sola, no decide cómo será utilizada. | Technology itself does not decide how it will be used.
+Depende de nosotros cómo usamos la tecnología. | It is up to us how we use technology.
+Moralizamos demasiado las nuevas tecnologías. | We moralize new technologies too much.
+La competencia también importa. | Competence also matters.
+La incompetencia puede ser un problema mayor de lo que pensamos. | Incompetence can be a bigger problem than we think.
+Es peligroso escribir cosas sin suficiente contexto. | It is dangerous to write things without enough context.
+A veces necesitamos una segunda opinión. | Sometimes we need a second opinion.
+Debemos ser cuidadosos con nuestra redacción. | We should be careful with our wording.
+Me gusta provocar y estimular el debate. | I like to provoke and stimulate debate.
+La democracia enfrenta muchos desafíos. | Democracy faces many challenges.
+Las sociedades están cada vez más polarizadas. | Societies are becoming increasingly polarized.
+Los partidos de centro están perdiendo fuerza. | Centrist parties are losing strength.
+No debemos ignorar los problemas estructurales. | We should not ignore structural problems.
+Los líderes suelen subestimar la magnitud de los problemas. | Leaders often underestimate the scale of the problems.
+No basta con llegar al poder. | It is not enough to gain power.
+También es necesario tener un plan. | It is also necessary to have a plan.
+Los problemas profundos requieren soluciones de largo plazo. | Deep problems require long-term solutions.
+Las sociedades pueden deteriorarse lentamente. | Societies can deteriorate slowly.
+El pacto entre generaciones puede romperse. | The pact between generations can break down.
+Hay que tomarse en serio las preocupaciones de los jóvenes. | We need to take young people's concerns seriously.
+A los jóvenes les cuesta mucho salir adelante. | Young people have a hard time getting ahead.
+El costo de la vivienda es un problema real. | Housing costs are a real problem.
+Hablar del problema es el primer paso. | Talking about the problem is the first step.
+No siempre tenemos una solución completa. | We do not always have a complete solution.
+Pero no podemos ignorar el problema. | But we cannot ignore the problem.
+Los extremos políticos suelen crecer cuando el centro fracasa. | Political extremes often grow when the center fails.
+Una economía necesita funcionar para la sociedad en su conjunto. | An economy needs to work for society as a whole.
+No es fácil equilibrar el presupuesto. | It is not easy to balance the budget.
+Podemos tener debates razonables sobre asuntos difíciles. | We can have reasonable debates about difficult issues.
+No debemos simplificar temas complejos. | We should not oversimplify complex issues.
+Los errores de una administración pueden producir reacciones excesivas. | The mistakes of one administration can produce overreactions.
+La lealtad no sustituye a la competencia. | Loyalty is not a substitute for competence.
+Las instituciones también pueden agotarse. | Institutions can also become exhausted.
+La disrupción puede ser necesaria, pero también peligrosa. | Disruption may be necessary, but it can also be dangerous.
+El sistema político puede volverse disfuncional. | The political system can become dysfunctional.
+Los movimientos jóvenes suelen tener más energía. | Young movements often have more energy.
+La energía política no garantiza buenas soluciones. | Political energy does not guarantee good solutions.
+Siempre he tenido debilidad por la gente inteligente. | I have always had a soft spot for intelligent people.
+Valoro a las personas reflexivas y de mente abierta. | I value thoughtful and open-minded people.
+El carisma puede ayudar, pero no es suficiente. | Charisma can help, but it is not enough.
+Es importante pensar por uno mismo. | It is important to think for yourself.
+No debemos llevar la contraria solo por llevar la contraria. | We should not disagree just for the sake of disagreeing.
+El objetivo no es rechazar automáticamente el consenso. | The goal is not to automatically reject the consensus.
+Tenemos que escuchar nuestra propia brújula. | We have to listen to our own compass.
+Es útil tener intereses en áreas diferentes. | It is useful to have interests in different areas.
+Me interesan la historia, la política y la economía. | I am interested in history, politics, and economics.
+También me interesan la ciencia ficción y el futuro. | I am also interested in science fiction and the future.
+La especialización tiene ventajas. | Specialization has advantages.
+Pero la hiperespecialización puede hacernos perder la visión general. | But hyperspecialization can make us lose sight of the big picture.
+Siempre intento entender cómo encajan todas las piezas. | I always try to understand how all the pieces fit together.
+Necesitamos personas que conecten diferentes áreas del conocimiento. | We need people who connect different areas of knowledge.
+Ser un forastero puede ser una ventaja. | Being an outsider can be an advantage.
+Las experiencias difíciles pueden desarrollar una gran motivación. | Difficult experiences can develop strong motivation.
+No todo interés necesita una justificación profesional. | Not every interest needs a professional justification.
+A veces hago cosas solo porque me interesan. | Sometimes I do things simply because they interest me.
+El ajedrez puede ser peligrosamente adictivo. | Chess can be dangerously addictive.
+No todo en la vida puede reducirse a un juego. | Not everything in life can be reduced to a game.
+Algunos problemas están fuera de nuestro control. | Some problems are beyond our control.
+A veces es mejor concentrarse en lo que podemos cambiar. | Sometimes it is better to focus on what we can change.
+Tener hijos cambia la forma en que pensamos sobre el futuro. | Having children changes the way we think about the future.
+Los hijos cambian nuestros horizontes temporales. | Children change our time horizons.
+Empezamos a pensar en décadas, no solo en años. | We start thinking in decades, not just years.
+No sabemos exactamente cómo será el mundo en 2035. | We do not know exactly what the world will be like in 2035.
+Debemos pensar en cómo será la vida para las próximas generaciones. | We should think about what life will be like for future generations.
+Europa necesita encontrar una manera de volver a crecer. | Europe needs to find a way to grow again.
+Europa debe participar activamente en la construcción del futuro. | Europe must actively participate in building the future.
+Una economía dinámica necesita nuevas empresas. | A dynamic economy needs new companies.
+Las grandes empresas nuevas pueden crear miles de empleos. | Large new companies can create thousands of jobs.
+El miedo al fracaso puede limitar la innovación. | Fear of failure can limit innovation.
+También puede existir miedo al éxito. | There can also be a fear of success.
+Una empresa exitosa necesita capacidad para escalar. | A successful company needs the ability to scale.
+Crear algo nuevo requiere asumir riesgos. | Creating something new requires taking risks.
+No basta con proteger las empresas antiguas. | It is not enough to protect old companies.
+También necesitamos crear nuevas empresas. | We also need to create new companies.
+Europa necesita recuperar su capacidad de innovación. | Europe needs to recover its capacity for innovation.
+La innovación requiere capital, talento y ambición. | Innovation requires capital, talent, and ambition.
+El crecimiento mediocre puede durar muchos años. | Mediocre growth can last for many years.
+Una sociedad puede acostumbrarse al estancamiento. | A society can become accustomed to stagnation.
+Cambiar de rumbo puede ser muy difícil. | Changing direction can be very difficult.
+No deberíamos esperar cien años para corregir nuestros errores. | We should not wait a hundred years to correct our mistakes.
+Las cosas no necesitan empeorar para que decidamos cambiar. | Things do not need to get worse before we decide to change.
+Necesitamos señales de advertencia antes de llegar a una crisis. | We need warning signs before we reach a crisis.
+Hay que pensar en los problemas de manera concreta. | We need to think about problems in concrete terms.
+Los problemas abstractos son difíciles de resolver. | Abstract problems are difficult to solve.
+Los déficits públicos pueden volverse insostenibles. | Public deficits can become unsustainable.
+Los tipos de interés cambian la sostenibilidad de la deuda. | Interest rates change the sustainability of debt.
+Pedir dinero prestado no puede ser siempre la solución. | Borrowing money cannot always be the solution.
+A veces debemos elegir entre opciones difíciles. | Sometimes we have to choose between difficult options.
+La política influye en casi todos los aspectos de la sociedad. | Politics affects almost every aspect of society.
+La política puede ser tóxica y, al mismo tiempo, inevitable. | Politics can be toxic and, at the same time, unavoidable.
+Intento pensar en política sin dejar que consuma toda mi atención. | I try to think about politics without letting it consume all my attention.
+Estados Unidos y China son los principales competidores tecnológicos. | The United States and China are the main technological competitors.
+Europa necesita decidir qué papel quiere desempeñar. | Europe needs to decide what role it wants to play.
+Ser un aliado fiable puede ser estratégico. | Being a reliable ally can be strategic.
+Europa también necesita fortalecer su propia industria. | Europe also needs to strengthen its own industry.
+La independencia requiere capacidad económica. | Independence requires economic capacity.
+El liderazgo industrial sigue siendo importante. | Industrial leadership is still important.
+Si estás rezagado, necesitas encontrar una manera de ponerte al día. | If you are behind, you need to find a way to catch up.
+No todas las estrategias nacionales de tecnología funcionan. | Not every national technology strategy works.
+A veces una iniciativa ayuda a cerrar la brecha. | Sometimes an initiative helps close the gap.
+Otras veces puede aumentar aún más el retraso. | Other times it can make the gap even larger.
+Europa debe decidir si la IA será una oportunidad o una oportunidad perdida. | Europe must decide whether AI will be an opportunity or a missed opportunity.
+Las preguntas sobre las causas suelen ser difíciles de responder. | Questions about causes are often difficult to answer.
+El miedo al riesgo puede frenar el emprendimiento. | Fear of risk can slow entrepreneurship.
+Las grandes ideas necesitan espacio para crecer. | Big ideas need room to grow.
+El éxito también puede generar resistencia. | Success can also create resistance.
+Es sorprendente cuántas pocas empresas nuevas llegan a ser gigantes. | It is surprising how few new companies become giants.
+Crear riqueza nueva es diferente de heredar riqueza. | Creating new wealth is different from inheriting wealth.
+Los emprendedores pueden generar riqueza para muchas otras personas. | Entrepreneurs can generate wealth for many other people.
+Una empresa de éxito puede crear miles de puestos de trabajo. | A successful company can create thousands of jobs.
+Alemania tuvo una gran capacidad para crear empresas industriales. | Germany once had a strong ability to build industrial companies.
+La pregunta es cómo recuperar esa capacidad. | The question is how to recover that capacity.
+Europa sigue siendo parte central de la civilización occidental. | Europe remains a central part of Western civilization.
+Es importante encontrar una manera de cambiar el rumbo. | It is important to find a way to change direction.
+Las raíces culturales pueden seguir siendo importantes. | Cultural roots can remain important.
+Podemos crecer entre dos mundos. | We can grow up between two worlds.
+Nuestra identidad puede tener varias capas. | Our identity can have several layers.
+Las experiencias internacionales cambian nuestra forma de pensar. | International experiences change the way we think.
+Muchos fundadores son al mismo tiempo internos y forasteros. | Many founders are both insiders and outsiders.
+Tener una perspectiva externa puede ayudarnos a ver oportunidades. | Having an outsider's perspective can help us see opportunities.
+No debemos seguir el consenso de manera automática. | We should not follow the consensus automatically.
+Pensar de manera independiente requiere disciplina. | Thinking independently requires discipline.
+La curiosidad intelectual ayuda a conectar ideas. | Intellectual curiosity helps connect ideas.
+El panorama general importa tanto como los detalles. | The big picture matters as much as the details.
+La tecnología cambia nuestros horizontes sobre el futuro. | Technology changes our horizons for the future.
+No sabemos qué cambios traerá la próxima década. | We do not know what changes the next decade will bring.
+Por eso necesitamos pensar a largo plazo. | That is why we need to think long term.
+El futuro no está escrito. | The future is not written.
+Las decisiones actuales pueden cambiar lo que ocurrirá después. | Today's decisions can change what happens next.
+La innovación puede generar riesgos y oportunidades al mismo tiempo. | Innovation can create risks and opportunities at the same time.
+Debemos aprender a gestionar el riesgo sin detener el progreso. | We must learn to manage risk without stopping progress.
+No existe una solución perfecta para todos los problemas. | There is no perfect solution to every problem.
+Las sociedades necesitan crecimiento, confianza y perspectivas de futuro. | Societies need growth, confidence, and a sense of the future.
+Las empresas necesitan adaptarse antes de que sea demasiado tarde. | Companies need to adapt before it is too late.
+La urgencia puede ser una ventaja competitiva. | A sense of urgency can be a competitive advantage.
+Esperar demasiado también tiene un costo. | Waiting too long also has a cost.
+La transformación tecnológica exige decisiones difíciles. | Technological transformation requires difficult decisions.
+La inteligencia artificial cambiará muchas industrias. | Artificial intelligence will change many industries.
+Las organizaciones deben aprender a trabajar con inteligencia artificial. | Organizations need to learn how to work with artificial intelligence.
+La adopción tecnológica también es una cuestión cultural. | Technology adoption is also a cultural issue.
+No basta con comprar tecnología; hay que cambiar procesos. | It is not enough to buy technology; processes must change.
+Las personas necesitan aprender nuevas habilidades. | People need to learn new skills.
+El aprendizaje continuo será cada vez más importante. | Continuous learning will become increasingly important.
+La productividad puede mejorar con mejores herramientas. | Productivity can improve with better tools.
+Pero las herramientas no sustituyen el buen juicio. | But tools do not replace good judgment.
+La inteligencia humana seguirá siendo importante. | Human intelligence will remain important.
+La tecnología debe ampliar nuestras capacidades. | Technology should expand our capabilities.
+Debemos usar la tecnología para resolver problemas reales. | We should use technology to solve real problems.
+El verdadero desafío es construir un futuro mejor. | The real challenge is to build a better future.
 Necesitamos registrar las decisiones tomadas. | We need to record the decisions made.
 Quiero reuniones más cortas y objetivas. | I want shorter and more objective meetings.
 Debemos llegar preparados a la reunión. | We should come prepared to the meeting.
