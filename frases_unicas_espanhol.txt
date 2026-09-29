@@ -297,6 +297,356 @@ Las personas deben sentirse cómodas haciendo preguntas. | People should feel co
 Una buena reunión debe tener un objetivo. | A good meeting should have an objective.
 No necesitamos una reunión para todo. | We don't need a meeting for everything.
 Una reunión debe terminar con próximos pasos. | A meeting should end with next steps.
+Hola, me llamo Anderson. | Hi, my name is Anderson.
+Soy de Brasil. | I am from Brazil.
+Vivo en Brasil. | I live in Brazil.
+Trabajo en Recursos Humanos. | I work in Human Resources.
+Trabajo con nómina. | I work with payroll.
+Tengo experiencia en nómina. | I have experience in payroll.
+Tengo varios años de experiencia en Recursos Humanos. | I have several years of experience in Human Resources.
+Trabajo con nómina desde hace varios años. | I have been working with payroll for several years.
+Actualmente trabajo con nómina en Brasil. | I currently work with payroll in Brazil.
+Soy responsable de diferentes procesos de nómina. | I am responsible for different payroll processes.
+Conozco todo el proceso de nómina. | I know the entire payroll process.
+Puedo gestionar todo el proceso de nómina. | I can manage the entire payroll process.
+Sé cómo procesar una nómina. | I know how to process payroll.
+Sé cómo revisar una nómina. | I know how to review payroll.
+Sé cómo analizar una nómina. | I know how to analyze payroll.
+Trabajo con un equipo pequeño. | I work with a small team.
+Tenemos muchas responsabilidades. | We have many responsibilities.
+Tenemos muchos procesos diferentes. | We have many different processes.
+Mi trabajo requiere mucha atención. | My job requires a lot of attention.
+Necesito asegurarme de que todo esté correcto. | I need to make sure everything is correct.
+La precisión es muy importante en nómina. | Accuracy is very important in payroll.
+Los plazos también son muy importantes. | Deadlines are also very important.
+Siempre trabajo con fechas límite. | I always work with deadlines.
+Necesitamos cumplir todos los plazos. | We need to meet all deadlines.
+No podemos retrasar el pago de la nómina. | We cannot delay payroll payment.
+Necesitamos revisar los datos antes del cierre. | We need to review the data before closing.
+Siempre reviso la información antes de procesarla. | I always review the information before processing it.
+Intento encontrar errores antes del cierre. | I try to find errors before payroll closing.
+Necesitamos evitar errores en la nómina. | We need to avoid payroll errors.
+Un pequeño error puede afectar a muchos empleados. | A small error can affect many employees.
+Por eso hacemos varias validaciones. | That is why we perform several validations.
+Comparo los resultados con el mes anterior. | I compare the results with the previous month.
+Busco diferencias importantes. | I look for significant differences.
+Analizo los valores que parecen incorrectos. | I analyze values that look incorrect.
+Busco valores fuera del patrón. | I look for values outside the normal pattern.
+Necesito entender la razón de cada diferencia. | I need to understand the reason for each difference.
+No basta con encontrar el error. | It is not enough to find the error.
+También necesito entender por qué ocurrió. | I also need to understand why it happened.
+Después buscamos una solución. | Then we look for a solution.
+Intentamos evitar que el problema vuelva a ocurrir. | We try to prevent the problem from happening again.
+Me gusta entender los procesos en profundidad. | I like to understand processes in depth.
+Siempre hago muchas preguntas. | I always ask many questions.
+Quiero entender cómo funciona todo el proceso. | I want to understand how the entire process works.
+Esto me ayuda a tomar mejores decisiones. | This helps me make better decisions.
+También me ayuda a automatizar procesos. | It also helps me automate processes.
+Trabajo mucho con automatización. | I work a lot with automation.
+Me gusta crear herramientas digitales. | I like creating digital tools.
+Creo herramientas para Recursos Humanos. | I create tools for Human Resources.
+Creo herramientas para mejorar la productividad. | I create tools to improve productivity.
+Creo herramientas para reducir tareas manuales. | I create tools to reduce manual tasks.  
+Utilizo Python para automatizar tareas. | I use Python to automate tasks.
+También trabajo con Excel. | I also work with Excel.
+Uso Excel todos los días. | I use Excel every day.
+Trabajo con grandes volúmenes de datos. | I work with large volumes of data.
+Me gusta analizar datos. | I like analyzing data.
+También creo dashboards. | I also create dashboards.
+Los dashboards nos ayudan a tomar decisiones. | Dashboards help us make decisions.
+Me gusta transformar datos en información útil. | I like turning data into useful information.
+Los datos por sí solos no son suficientes. | Data alone is not enough.
+Necesitamos entender qué significan. | We need to understand what they mean.
+Siempre intento encontrar patrones en los datos. | I always try to find patterns in the data.
+También busco anomalías. | I also look for anomalies.
+Las anomalías pueden indicar un problema. | Anomalies can indicate a problem.
+A veces encontramos errores antes de que afecten la nómina. | Sometimes we find errors before they affect payroll.
+La automatización nos ayuda mucho. | Automation helps us a lot.
+Nos permite ahorrar tiempo. | It allows us to save time.
+También reduce los errores manuales. | It also reduces manual errors.
+Intento automatizar las tareas repetitivas. | I try to automate repetitive tasks.
+No quiero que mi equipo pierda tiempo en tareas manuales. | I do not want my team to waste time on manual tasks.
+Prefiero que el equipo analice los resultados. | I prefer the team to analyze the results.
+Las personas deben tomar decisiones. | People should make decisions.
+Las máquinas pueden hacer tareas repetitivas. | Machines can perform repetitive tasks.
+La tecnología debe ayudar a las personas. | Technology should help people.
+No quiero automatizar un proceso malo. | I do not want to automate a bad process.
+Primero necesito entender el proceso. | First, I need to understand the process.
+Después puedo simplificarlo. | Then I can simplify it.
+Y después puedo automatizarlo. | And then I can automate it.
+Este es mi enfoque. | This is my approach.
+Siempre empiezo por el problema. | I always start with the problem.
+Después pienso en posibles soluciones. | Then I think about possible solutions.
+Intento encontrar la solución más simple. | I try to find the simplest solution.
+Una solución simple suele ser mejor. | A simple solution is usually better.
+No todo necesita un sistema complejo. | Not everything needs a complex system.
+A veces una pequeña automatización resuelve el problema. | Sometimes a small automation solves the problem.
+Me gusta probar nuevas ideas. | I like testing new ideas.
+También me gusta aprender nuevas tecnologías. | I also like learning new technologies.
+Siempre estoy aprendiendo algo nuevo. | I am always learning something new.
+La tecnología cambia muy rápido. | Technology changes very quickly.
+Por eso necesitamos seguir aprendiendo. | That is why we need to keep learning.
+También intento compartir lo que aprendo. | I also try to share what I learn.
+Me gusta enseñar a otras personas. | I like teaching other people.
+Cuando enseño algo, también aprendo. | When I teach something, I also learn.
+Explicar un proceso ayuda a entenderlo mejor. | Explaining a process helps you understand it better.
+Si no puedo explicar algo de manera simple, probablemente no lo entiendo completamente. | If I cannot explain something simply, I probably do not understand it completely.
+Por eso intento simplificar mis explicaciones. | That is why I try to simplify my explanations.
+Quiero que las personas entiendan el proceso. | I want people to understand the process.
+No quiero usar palabras complicadas sin necesidad. | I do not want to use complicated words unnecessarily.
+Una buena comunicación evita muchos problemas. | Good communication prevents many problems.
+La comunicación es muy importante en Recursos Humanos. | Communication is very important in Human Resources.
+Necesitamos explicar las reglas claramente. | We need to explain the rules clearly.  
+Trabajo con empleados de diferentes áreas. | I work with employees from different areas.
+También trabajo con gerentes. | I also work with managers.
+Trabajo con Finanzas. | I work with Finance.
+Trabajo con el equipo de Contabilidad. | I work with the Accounting team.
+También trabajo con proveedores. | I also work with vendors.
+Tengo contacto con diferentes áreas de la empresa. | I interact with different areas of the company.
+Cada área tiene necesidades diferentes. | Each area has different needs.
+Necesito entender esas necesidades. | I need to understand those needs.
+A veces tenemos prioridades diferentes. | Sometimes we have different priorities.
+Necesitamos encontrar un equilibrio. | We need to find a balance.
+Tenemos que trabajar juntos. | We have to work together.
+La colaboración es muy importante. | Collaboration is very important.
+No puedo hacer todo solo. | I cannot do everything by myself.
+Necesito contar con mi equipo. | I need to rely on my team.
+También necesito confiar en otras áreas. | I also need to trust other departments.
+Cada persona tiene una responsabilidad. | Each person has a responsibility.
+Necesitamos saber quién es responsable de cada actividad. | We need to know who is responsible for each activity.
+Me gusta definir responsabilidades claramente. | I like to define responsibilities clearly.
+Esto evita confusión. | This prevents confusion.
+También ayuda a cumplir los plazos. | It also helps us meet deadlines.
+Siempre intento organizar las actividades. | I always try to organize the activities.
+Me gusta trabajar con planes de acción. | I like working with action plans.
+Defino la actividad, el responsable y el plazo. | I define the activity, the owner, and the deadline.
+Después hacemos seguimiento. | Then we follow up.
+Necesitamos saber qué ya está terminado. | We need to know what has already been completed.
+También necesitamos saber qué está pendiente. | We also need to know what is still pending.
+Los proyectos grandes requieren mucha organización. | Large projects require a lot of organization.
+Trabajo con varios proyectos al mismo tiempo. | I work on several projects at the same time.
+Necesito definir prioridades. | I need to define priorities.
+No todo puede ser urgente. | Not everything can be urgent.
+Intento entender qué tiene mayor impacto. | I try to understand what has the greatest impact.
+Después organizo las prioridades. | Then I organize the priorities.
+Algunas actividades tienen dependencias. | Some activities have dependencies.
+No podemos empezar una actividad antes de terminar otra. | We cannot start one activity before finishing another.
+Por eso el cronograma es importante. | That is why the timeline is important.
+Siempre intento anticipar los riesgos. | I always try to anticipate risks.
+Prefiero identificar un riesgo antes de que se convierta en un problema. | I prefer to identify a risk before it becomes a problem.
+También preparo planes alternativos. | I also prepare alternative plans.
+No todo ocurre como esperamos. | Not everything happens as expected.
+Necesitamos ser flexibles. | We need to be flexible.
+Pero también necesitamos mantener el control. | But we also need to stay in control.
+Me gusta tener visibilidad del proyecto. | I like to have visibility into the project.
+Quiero saber exactamente dónde estamos. | I want to know exactly where we are.
+Quiero saber qué falta hacer. | I want to know what still needs to be done.
+Quiero saber cuáles son los principales riesgos. | I want to know what the main risks are.
+Esto me ayuda a tomar decisiones rápidamente. | This helps me make decisions quickly.
+A veces necesito decidir con información incompleta. | Sometimes I need to make decisions with incomplete information.
+En esos casos, intento evaluar los riesgos. | In those cases, I try to assess the risks.
+No siempre existe una solución perfecta. | There is not always a perfect solution.
+A veces necesitamos elegir la mejor opción disponible. | Sometimes we need to choose the best available option.  
+Trabajo con beneficios para empleados. | I work with employee benefits.
+También gestiono procesos de admisión. | I also manage hiring processes.
+Trabajo con procesos de terminación. | I work with termination processes.
+Trabajo con vacaciones. | I work with vacation processes.
+Trabajo con control de jornada. | I work with time and attendance.
+Trabajo con horas extras. | I work with overtime.
+También trabajo con convenios colectivos. | I also work with collective bargaining agreements.
+Tenemos diferentes reglas según la ubicación. | We have different rules depending on the location.
+Cada convenio puede tener reglas diferentes. | Each collective agreement may have different rules.
+Necesitamos aplicar la regla correcta. | We need to apply the correct rule.
+Esto puede hacer que el proceso sea complejo. | This can make the process complex.
+También trabajamos con diferentes entidades legales. | We also work with different legal entities.
+Cada entidad tiene sus propias obligaciones. | Each entity has its own obligations.
+Necesitamos mantener los registros actualizados. | We need to keep the records up to date.
+También necesitamos cumplir con la legislación. | We also need to comply with the law.
+La legislación laboral brasileña es compleja. | Brazilian labor law is complex.
+Las reglas pueden cambiar. | The rules can change.
+Por eso debemos mantenernos actualizados. | That is why we need to stay up to date.
+Trabajo con información confidencial. | I work with confidential information.
+Necesitamos proteger los datos de los empleados. | We need to protect employee data.
+La seguridad de la información es importante. | Information security is important.
+No debemos compartir información sin autorización. | We should not share information without authorization.
+También necesitamos mantener un historial de los cambios. | We also need to keep a history of changes.
+La trazabilidad es importante. | Traceability is important.
+Necesitamos saber quién hizo cada cambio. | We need to know who made each change.
+También necesitamos saber cuándo se hizo. | We also need to know when it was made.
+Esto ayuda durante las auditorías. | This helps during audits.
+Tenemos auditorías regularmente. | We have audits regularly.
+Necesitamos presentar evidencias. | We need to provide evidence.
+Las evidencias deben estar organizadas. | The evidence must be organized.
+Un buen proceso debe ser fácil de auditar. | A good process should be easy to audit.
+Siempre pienso en el control interno. | I always think about internal controls.
+También pienso en segregación de funciones. | I also think about segregation of duties.
+Una persona no debería controlar todo el proceso sola. | One person should not control the entire process alone.
+Necesitamos revisiones independientes. | We need independent reviews.
+Esto reduce los riesgos. | This reduces risks.
+También aumenta la calidad del proceso. | It also increases process quality.
+Quiero construir procesos sostenibles. | I want to build sustainable processes.
+El proceso no puede depender de una sola persona. | The process cannot depend on one person.
+Necesitamos documentar el conocimiento. | We need to document the knowledge.
+También necesitamos capacitar al equipo. | We also need to train the team.
+Quiero que todos entiendan el proceso. | I want everyone to understand the process.
+Si alguien está ausente, el proceso debe continuar. | If someone is absent, the process must continue.
+Esto es importante para la continuidad del negocio. | This is important for business continuity.
+Siempre intento reducir dependencias. | I always try to reduce dependencies.
+También intento crear procedimientos claros. | I also try to create clear procedures.
+Los procedimientos deben ser simples. | Procedures should be simple.
+También deben estar actualizados. | They also need to be up to date.
+Un procedimiento antiguo puede crear problemas. | An outdated procedure can create problems.
+Por eso debemos revisarlo periódicamente. | That is why we should review it periodically.  
+Estoy trabajando en un nuevo proyecto. | I am working on a new project.
+Estamos implementando un nuevo proceso. | We are implementing a new process.
+Estamos revisando nuestro modelo actual. | We are reviewing our current model.
+Necesitamos entender el impacto. | We need to understand the impact.
+Este cambio puede afectar la nómina. | This change may affect payroll.
+También puede afectar los beneficios. | It may also affect benefits.
+Necesitamos evaluar todos los impactos. | We need to assess all the impacts.
+No quiero olvidar ninguna actividad. | I do not want to miss any activity.
+Por eso estoy preparando un checklist. | That is why I am preparing a checklist.
+El checklist nos ayuda a controlar el proyecto. | The checklist helps us control the project.
+Estamos definiendo las principales actividades. | We are defining the main activities.
+También estamos definiendo los plazos. | We are also defining the deadlines.
+Necesitamos hablar con los proveedores. | We need to talk to the vendors.
+Necesitamos confirmar los requisitos. | We need to confirm the requirements.
+Necesitamos validar los datos. | We need to validate the data.
+También necesitamos hacer pruebas. | We also need to perform tests.
+No podemos implementar sin probar. | We cannot implement without testing.
+Necesitamos comparar los resultados. | We need to compare the results.
+Vamos a realizar un procesamiento paralelo. | We are going to run a parallel payroll.
+El procesamiento paralelo nos ayudará a identificar diferencias. | The parallel payroll will help us identify differences.
+Después analizaremos las diferencias. | Then we will analyze the differences.
+Necesitamos corregirlas antes de la implementación. | We need to correct them before implementation.
+El objetivo es reducir el riesgo. | The goal is to reduce the risk.
+La transición debe ser segura. | The transition needs to be safe.
+No podemos afectar a los empleados. | We cannot negatively affect the employees.
+El pago debe realizarse correctamente. | Payment must be processed correctly.
+Los beneficios también deben continuar normalmente. | Benefits must also continue normally.
+Necesitamos comunicar el cambio. | We need to communicate the change.
+La comunicación debe ser clara. | The communication needs to be clear.
+Los empleados pueden tener preguntas. | Employees may have questions.
+Necesitamos estar preparados para responderlas. | We need to be prepared to answer them.
+También necesitamos apoyar a los gerentes. | We also need to support the managers.
+El cambio puede generar dudas. | The change may create questions.
+Una buena comunicación reduce la incertidumbre. | Good communication reduces uncertainty.
+Necesitamos explicar qué cambiará. | We need to explain what will change.
+También debemos explicar qué no cambiará. | We should also explain what will not change.
+Esto ayuda a generar confianza. | This helps build trust.
+La gestión del cambio es parte del proyecto. | Change management is part of the project.
+No podemos pensar solamente en el sistema. | We cannot think only about the system.
+También necesitamos pensar en las personas. | We also need to think about people.
+Las personas necesitan tiempo para adaptarse. | People need time to adapt.
+También necesitan capacitación. | They also need training.
+La capacitación debe ser práctica. | Training should be practical.
+Prefiero utilizar ejemplos reales. | I prefer to use real examples.
+Los ejemplos ayudan a entender mejor. | Examples help people understand better.
+También podemos crear materiales de apoyo. | We can also create support materials.
+Un buen material debe ser fácil de consultar. | Good support material should be easy to reference.
+No debería ser demasiado complicado. | It should not be too complicated.
+Las instrucciones deben ser directas. | Instructions should be straightforward.
+Esto mejora la experiencia del usuario. | This improves the user experience.  
+Tengo una pregunta. | I have a question.
+¿Puedes explicarme esto? | Can you explain this to me?
+No estoy seguro de haber entendido. | I am not sure I understood.
+¿Puedes repetirlo, por favor? | Can you repeat that, please?
+¿Puedes hablar un poco más despacio? | Can you speak a little more slowly?
+Déjame confirmar si entendí correctamente. | Let me confirm if I understood correctly.
+Creo que entendí el punto principal. | I think I understood the main point.
+Déjame explicarlo con mis propias palabras. | Let me explain it in my own words.
+Corrígeme si estoy equivocado. | Correct me if I am wrong.
+Desde mi punto de vista, este es el principal problema. | From my point of view, this is the main problem.
+Creo que tenemos dos opciones. | I think we have two options.
+La primera opción es más simple. | The first option is simpler.
+La segunda opción tiene menos riesgo. | The second option has less risk.
+Necesitamos comparar las dos opciones. | We need to compare the two options.
+¿Cuál es tu opinión? | What is your opinion?
+¿Qué piensas sobre esta propuesta? | What do you think about this proposal?
+Estoy de acuerdo contigo. | I agree with you.
+Estoy parcialmente de acuerdo. | I partially agree.
+Entiendo tu punto. | I understand your point.
+Pero tengo una preocupación. | But I have a concern.
+Necesitamos considerar otro punto. | We need to consider another point.
+Hay algo que todavía necesitamos validar. | There is something we still need to validate.
+No tenemos toda la información todavía. | We do not have all the information yet.
+Prefiero confirmar antes de tomar una decisión. | I prefer to confirm before making a decision.
+Podemos revisar este punto mañana. | We can review this point tomorrow.
+Puedo verificarlo después de la reunión. | I can check it after the meeting.
+Voy a revisar los datos. | I am going to review the data.
+Después te enviaré una actualización. | Then I will send you an update.
+Necesitamos involucrar a otra área. | We need to involve another department.
+Creo que Finanzas debería participar. | I think Finance should be involved.
+También necesitamos hablar con el proveedor. | We also need to talk to the vendor.
+Voy a organizar esta información. | I am going to organize this information.
+Podemos crear un plan de acción. | We can create an action plan.
+Necesitamos definir los próximos pasos. | We need to define the next steps.
+¿Cuál es el próximo paso? | What is the next step?
+¿Quién será responsable de esta actividad? | Who will be responsible for this activity?
+¿Cuál es la fecha límite? | What is the deadline?
+¿Tenemos algún riesgo? | Do we have any risks?
+¿Existe alguna dependencia? | Is there any dependency?
+¿Necesitamos alguna aprobación? | Do we need any approval?
+Necesitamos documentar esta decisión. | We need to document this decision.
+Voy a incluirlo en el plan. | I am going to include it in the plan.
+Voy a actualizar el archivo. | I am going to update the file.
+Voy a revisar esta información con mi equipo. | I am going to review this information with my team.
+Después podemos discutirlo nuevamente. | Then we can discuss it again.
+Creo que estamos en el camino correcto. | I think we are on the right track.
+Todavía tenemos algunas actividades pendientes. | We still have some pending activities.
+Pero el proyecto está avanzando bien. | But the project is progressing well.
+Necesitamos mantener el ritmo. | We need to keep the momentum.
+El objetivo es terminar dentro del plazo. | The goal is to finish on time.  
+¿Cómo estás? | How are you?
+Estoy bien, gracias. | I am fine, thank you.
+¿Y tú? | And you?
+¿Cómo fue tu fin de semana? | How was your weekend?
+Mi fin de semana fue tranquilo. | My weekend was quiet.
+Hoy ha sido un día ocupado. | Today has been a busy day.
+Tengo varias reuniones hoy. | I have several meetings today.
+Esta semana está muy ocupada. | This week is very busy.
+Tenemos cierre de nómina esta semana. | We have payroll closing this week.
+Por eso tengo muchas actividades. | That is why I have many activities.
+Estoy aprendiendo inglés. | I am learning English.
+También estoy estudiando español. | I am also studying Spanish.
+Quiero mejorar mi conversación. | I want to improve my conversation skills.
+Entiendo más de lo que puedo hablar. | I understand more than I can speak.
+A veces sé la palabra, pero no puedo recordarla rápidamente. | Sometimes I know the word, but I cannot remember it quickly.
+Necesito practicar más la conversación. | I need to practice speaking more.
+Intento pensar directamente en inglés. | I try to think directly in English.
+No quiero traducir cada palabra. | I do not want to translate every word.
+Quiero aprender frases completas. | I want to learn complete sentences.
+Quiero reconocer patrones. | I want to recognize patterns.
+Después puedo reutilizar esos patrones. | Then I can reuse those patterns.
+Cuanto más practico, más fácil se vuelve. | The more I practice, the easier it becomes.
+No necesito hablar perfectamente. | I do not need to speak perfectly.
+Necesito poder comunicar mis ideas. | I need to be able to communicate my ideas.
+Los errores son parte del proceso. | Mistakes are part of the process.
+Intento aprender de mis errores. | I try to learn from my mistakes.
+A veces necesito unos segundos para pensar. | Sometimes I need a few seconds to think.
+Eso está bien. | That is okay.
+Lo importante es continuar hablando. | The important thing is to keep speaking.
+Cada conversación es una oportunidad para practicar. | Every conversation is an opportunity to practice.
+Quiero sentirme más cómodo hablando inglés. | I want to feel more comfortable speaking English.
+Quiero participar más en reuniones internacionales. | I want to participate more in international meetings.
+Quiero explicar mi trabajo claramente. | I want to explain my work clearly.
+No necesito utilizar palabras difíciles. | I do not need to use difficult words.
+Las frases simples funcionan muy bien. | Simple sentences work very well.
+Primero quiero dominar las estructuras básicas. | First, I want to master the basic structures.
+Después puedo ampliar mi vocabulario. | Then I can expand my vocabulary.
+La práctica diaria es importante. | Daily practice is important.
+Quince minutos al día pueden hacer una gran diferencia. | Fifteen minutes a day can make a big difference.
+Prefiero practicar un poco todos los días. | I prefer to practice a little every day.
+Quiero convertir estas frases en respuestas automáticas. | I want to turn these sentences into automatic responses.
+Quiero poder responder sin traducir mentalmente. | I want to be able to answer without translating in my head.
+Estoy construyendo nuevos patrones mentales. | I am building new mental patterns.
+Cada frase nueva se conecta con otras frases. | Each new sentence connects with other sentences.
+Así puedo crear muchas combinaciones. | This way, I can create many combinations.
+No estoy memorizando solamente palabras. | I am not just memorizing words.
+Estoy aprendiendo cómo construir ideas. | I am learning how to build ideas.
+Quiero hablar de manera natural. | I want to speak naturally.
+Sé que esto requiere práctica. | I know this requires practice.
+Pero estoy mejorando poco a poco. | But I am improving little by little.
 Occidente no ha logrado suficientes avances tecnológicos. | The West has not achieved enough technological progress.
 La gente está debatiendo si hay demasiada aceleración. | People are debating whether there is too much acceleration.
 ¿La inteligencia artificial progresa demasiado rápido? | Is artificial intelligence progressing too fast?
@@ -347,6 +697,306 @@ La tecnología, por sí sola, no decide cómo será utilizada. | Technology itse
 Depende de nosotros cómo usamos la tecnología. | It is up to us how we use technology.
 Moralizamos demasiado las nuevas tecnologías. | We moralize new technologies too much.
 La competencia también importa. | Competence also matters.
+Había una vez un granjero. | Once there was a farmer.
+El granjero vivía con su esposa. | The farmer lived with his wife.
+Vivían en una granja. | They lived on a farm.
+La granja estaba muy lejos. | The farm was very far away.
+Vivían lejos de la ciudad. | They lived far from the city.
+La granja estaba al oeste de México. | The farm was in western Mexico.
+Ella se había casado antes. | She had been married before.
+Su primer marido había muerto. | Her first husband had died.
+Después se casó nuevamente. | Then she got married again.
+Era su segundo marido. | He was her second husband.
+Los dos vivían juntos. | They both lived together.
+No eran muy inteligentes. | They were not very smart.
+¿Quién era más tonto? | Who was more foolish?
+¿Cuál de los dos era más tonto? | Which of the two was more foolish?
+Decide por ti mismo. | Decide for yourself.
+Escucha primero la historia. | Listen to the story first.
+Después puedes decidir. | Then you can decide.
+Había también un viejo soldado. | There was also an old soldier.
+El soldado se llamaba Juan Rodríguez. | The soldier's name was Juan Rodríguez.
+Juan era pobre. | Juan was poor.
+Su ropa estaba vieja. | His clothes were old.
+Su abrigo estaba hecho harapos. | His coat was in rags.
+No tenía mucho dinero. | He did not have much money.
+Sin embargo, era muy inteligente. | However, he was very clever.
+Nadie pensaba que fuera estúpido. | Nobody thought he was stupid.
+Era muy astuto. | He was very cunning.
+Era tan astuto como un zorro. | He was as cunning as a fox.
+Había sido soldado. | He had been a soldier.
+Había salido del ejército. | He had left the army.
+Después de salir del ejército, empezó a viajar. | After leaving the army, he began to travel.
+Viajaba por todo el país. | He traveled around the country.
+Pasaba de un lugar a otro. | He went from place to place.
+Siempre estaba buscando oportunidades. | He was always looking for opportunities.
+Pensaba en diferentes planes. | He thought about different plans.
+Intentaba engañar a las personas. | He tried to trick people.
+Sabía cómo engañar a la gente. | He knew how to trick people.
+Era bueno inventando historias. | He was good at making up stories.
+Después de viajar durante mucho tiempo, encontró una granja. | After traveling for a long time, he found a farm.
+Llegó a una granja remota. | He arrived at a remote farm.
+La granja pertenecía a una pareja. | The farm belonged to a couple.
+Juan no conocía a la pareja. | Juan did not know the couple.
+La pareja tampoco conocía a Juan. | The couple did not know Juan either.
+Juan llegó hasta la casa. | Juan reached the house.
+Se acercó a la puerta. | He approached the door.
+Llamó a la puerta. | He knocked on the door.
+Esperó algunos momentos. | He waited a few moments.
+Una mujer abrió la puerta. | A woman opened the door.
+La mujer estaba sorprendida. | The woman was surprised.
+Lo miró de arriba abajo. | She looked him up and down.
+No esperaba encontrar a un forastero. | She did not expect to see a stranger.
+Pocas personas llegaban hasta allí. | Few people made it there.
+El viaje era difícil. | The journey was difficult.
+El lugar estaba muy aislado. | The place was very isolated.
+Ella quería saber de dónde venía. | She wanted to know where he came from.
+¿De dónde eres? | Where are you from?
+¿De dónde vienes? | Where do you come from?
+Ella le preguntó de dónde era. | She asked him where he was from.
+Juan miró hacia arriba. | Juan looked up.
+Miró el cielo. | He looked at the sky.
+El cielo estaba azul. | The sky was blue.
+Entonces tuvo una idea. | Then he had an idea.
+Dijo que venía del cielo. | He said he came from heaven.
+Vengo del cielo. | I come from heaven.
+La mujer creyó la historia. | The woman believed the story.
+Ella se sorprendió mucho. | She was very surprised.
+No podía creerlo. | She could not believe it.
+Pensó inmediatamente en su primer marido. | She immediately thought about her first husband.
+Su primer marido estaba muerto. | Her first husband was dead.
+Ella pensaba que estaba en el cielo. | She thought he was in heaven.
+Le hizo otra pregunta. | She asked him another question.
+¿Encontraste a mi esposo allá? | Did you meet my husband there?
+¿Lo viste en el cielo? | Did you see him in heaven?
+¿Conoces a mi marido? | Do you know my husband?
+Juan dijo que sí. | Juan said yes.
+Dijo que lo conocía muy bien. | He said he knew him very well.
+Por supuesto. | Of course.
+Por supuesto que lo conozco. | Of course I know him.
+Lo conocí muy bien. | I knew him very well.
+La mujer quería saber más. | The woman wanted to know more.
+¿Cómo está? | How is he?
+Ella preguntó cómo estaba su marido. | She asked how her husband was.
+Juan dijo que estaba bien. | Juan said he was fine.
+Está bien. | He is fine.
+Está trabajando. | He is working.
+Trabaja todos los días. | He works every day.
+Trabaja mucho. | He works hard.
+Está trabajando en el paraíso. | He is working in paradise.
+Está cosiendo ropa. | He is sewing clothes.
+Está reparando ropa. | He is mending clothes.
+Trabaja para los ángeles. | He works for the angels.
+También trabaja para los santos. | He also works for the saints.
+No gana mucho dinero. | He does not earn much money.
+A veces no tiene suficiente dinero. | Sometimes he does not have enough money.
+No tiene suficiente dinero para comer. | He does not have enough money to eat.
+La mujer estaba preocupada. | The woman was worried.
+Quería ayudarlo. | She wanted to help him.
+Preguntó si había enviado un mensaje. | She asked if he had sent a message.
+¿Envió algún mensaje para mí? | Did he send me a message?
+¿Tiene algún mensaje para mí? | Does he have a message for me?
+Juan dijo que sí. | Juan said yes.
+De hecho, por eso estoy aquí. | In fact, that is why I am here.
+Esa es la razón por la que vine. | That is the reason I came.
+Vine para hablar contigo. | I came to talk to you.
+Necesita tu ayuda. | He needs your help.
+Necesita dinero. | He needs money.
+Necesita un poco más de dinero. | He needs a little more money.
+Quiere vivir con más comodidad. | He wants to live more comfortably.
+El dinero podría ayudarlo. | The money could help him.
+Juan pidió algunas monedas. | Juan asked for some coins.
+¿Puedes darme algunas monedas? | Can you give me some coins?
+Si puedes ayudarme, sería maravilloso. | If you can help me, that would be wonderful.
+Si me das las monedas, se las entregaré. | If you give me the coins, I will give them to him.
+Puedo llevarle el dinero. | I can take the money to him.
+Se lo entregaré personalmente. | I will give it to him personally.
+La mujer creyó todo. | The woman believed everything.
+No dudó de la historia. | She did not doubt the story.
+Al escuchar eso, se puso triste. | When she heard that, she became sad.
+Sintió mucho dolor. | She felt a lot of pain.
+Su corazón casi se rompió. | Her heart almost broke.
+Quería ayudar a su primer marido. | She wanted to help her first husband.
+Le daré todo lo que quiera. | I will give him everything he wants.
+Haré todo lo que pueda. | I will do everything I can.
+Era un buen hombre. | He was a good man.
+Es un buen hombre. | He is a good man.
+Que Dios lo bendiga. | God bless him.
+La mujer fue hasta la chimenea. | The woman went to the fireplace.
+La pareja escondía dinero allí. | The couple hid money there.
+Allí estaban sus ahorros. | Their savings were there.
+Habían escondido sus ahorros. | They had hidden their savings.
+Ella sabía dónde estaba el dinero. | She knew where the money was.
+Sacó algunas monedas. | She took out some coins.
+Tomó dos monedas de oro. | She took two gold coins.
+También tomó cinco monedas de plata. | She also took five silver coins.
+Las monedas valían mucho. | The coins were worth a lot.
+En aquellos días, eran muy valiosas. | In those days, they were very valuable.
+Le entregó todo el dinero a Juan. | She gave all the money to Juan.
+Juan aceptó el dinero. | Juan accepted the money.
+Ella le pidió que se apurara. | She asked him to hurry.
+Apúrate, por favor. | Hurry up, please.
+Llévale el dinero rápidamente. | Take him the money quickly.
+Ella quería que Juan regresara al cielo. | She wanted Juan to return to heaven.
+Juan prometió entregar el dinero. | Juan promised to deliver the money.
+Lo haré tan pronto como pueda. | I will do it as soon as I can.
+Se lo daré tan pronto como regrese. | I will give it to him as soon as I return.
+Tan pronto como llegue, hablaré con él. | As soon as I arrive, I will talk to him.
+Juan salió de la casa. | Juan left the house.
+Se fue con el dinero. | He left with the money.
+Más tarde, el granjero llegó a casa. | Later, the farmer came home.
+Su esposa estaba esperándolo. | His wife was waiting for him.
+Ella le contó lo que había ocurrido. | She told him what had happened.
+Le contó toda la historia. | She told him the whole story.
+Dijo que había llegado un mensajero. | She said a messenger had arrived.
+El mensajero había venido del cielo. | The messenger had come from heaven.
+Eso fue lo que ella creyó. | That was what she believed.
+El hombre había pedido dinero. | The man had asked for money.
+Había pedido dinero para su primer marido. | He had asked for money for her first husband.
+Su marido estaba trabajando duro. | Her husband was working hard.
+Pero seguía siendo pobre. | But he was still poor.
+El granjero no podía creer la historia. | The farmer could not believe the story.
+Se enfadó con su esposa. | He became angry with his wife.
+Pensó que ella había cometido un gran error. | He thought she had made a big mistake.
+¿Cómo pudiste creer eso? | How could you believe that?
+¿Cómo puedes creer esa historia? | How can you believe that story?
+Eso no tiene sentido. | That does not make sense.
+Es imposible. | It is impossible.
+No deberías haberle dado el dinero. | You should not have given him the money.
+La mujer respondió inmediatamente. | The woman answered immediately.
+Ella también criticó a su marido. | She criticized her husband too.
+Tú eres aún más tonto. | You are even more foolish.
+Fuiste tú quien me mostró el dinero. | You were the one who showed me the money.
+Tú me mostraste dónde estaba escondido. | You showed me where it was hidden.
+El granjero dejó de discutir. | The farmer stopped arguing.
+No quería perder más tiempo. | He did not want to waste any more time.
+Decidió buscar al soldado. | He decided to look for the soldier.
+Quería recuperar su dinero. | He wanted to get his money back.
+Montó su caballo. | He got on his horse.
+Salió rápidamente. | He left quickly.
+Fue en busca de Juan. | He went looking for Juan.
+Esperaba encontrarlo cerca. | He hoped to find him nearby.
+Tal vez Juan todavía estaba cerca. | Maybe Juan was still nearby.
+Juan escuchó algo. | Juan heard something.
+Escuchó un caballo acercándose. | He heard a horse approaching.
+Escuchó el sonido de los cascos. | He heard the sound of hoofbeats.
+El caballo se estaba acercando. | The horse was getting closer.
+Juan entendió inmediatamente lo que estaba pasando. | Juan immediately understood what was happening.
+Sabía que el granjero lo estaba buscando. | He knew the farmer was looking for him.
+Sabía por qué lo buscaba. | He knew why he was looking for him.
+El granjero quería recuperar el dinero. | The farmer wanted to recover the money.
+Juan necesitaba otro plan. | Juan needed another plan.
+Pensó rápidamente. | He thought quickly.
+Ideó otro plan. | He came up with another plan.
+Siempre tenía una idea. | He always had an idea.
+Se arrodilló junto al camino. | He knelt down beside the road.
+Se cubrió los ojos. | He covered his eyes.
+Se cubrió los ojos con una mano. | He covered his eyes with one hand.
+Levantó la otra mano. | He raised the other hand.
+Señaló hacia el cielo. | He pointed toward the sky.
+Esperó al granjero. | He waited for the farmer.
+El granjero se acercó. | The farmer approached.
+Finalmente lo alcanzó. | He finally caught up with him.
+El granjero vio a Juan junto al camino. | The farmer saw Juan beside the road.
+No entendía lo que estaba haciendo. | He did not understand what he was doing.
+Le hizo una pregunta. | He asked him a question.
+¿Qué estás haciendo? | What are you doing?
+¿Qué haces aquí? | What are you doing here?
+¿Por qué estás aquí? | Why are you here?
+¿Por qué te cubres los ojos? | Why are you covering your eyes?
+¿Por qué estás mirando al cielo? | Why are you looking at the sky?
+¿Qué estás señalando? | What are you pointing at?
+Juan fingió estar sorprendido. | Juan pretended to be amazed.
+Dijo que estaba viendo algo maravilloso. | He said he was seeing something wonderful.
+¡Es increíble! | It is incredible!
+¡Es maravilloso! | It is wonderful!
+Nunca había visto algo así. | I had never seen anything like that.
+Es obra de Dios. | It is the work of God.
+Estoy viendo algo increíble. | I am seeing something incredible.
+El granjero sintió curiosidad. | The farmer became curious.
+Quería verlo también. | He wanted to see it too.
+¿Qué estás viendo? | What are you seeing?
+¿Qué cosa maravillosa? | What wonderful thing?
+Juan inventó otra historia. | Juan made up another story.
+Dijo que había un hombre en el cielo. | He said there was a man in the sky.
+El hombre estaba subiendo al cielo. | The man was going up to heaven.
+Estaba caminando sobre un arcoíris. | He was walking on a rainbow.
+Parecía una carretera. | It looked like a road.
+El granjero miró hacia arriba. | The farmer looked up.
+Miró directamente al cielo. | He looked straight at the sky.
+Pero no vio nada. | But he did not see anything.
+No podía ver el arcoíris. | He could not see the rainbow.
+Tampoco podía ver al hombre. | He could not see the man either.
+¿Dónde está? | Where is it?
+No puedo verlo. | I cannot see it.
+No veo nada. | I do not see anything.
+Juan le dijo qué hacer. | Juan told him what to do.
+Arrodíllate aquí. | Kneel down here.
+Ponte a mi lado. | Stand next to me.
+Mira hacia el cielo. | Look up at the sky.
+Haz exactamente lo que estoy haciendo. | Do exactly what I am doing.
+Tienes que hacerlo de esta manera. | You have to do it this way.
+Tienes que mirar desde aquí. | You have to look from here.
+El granjero creyó nuevamente la historia. | The farmer believed the story again.
+Pero tenía un problema. | But he had a problem.
+Estaba montando un caballo. | He was riding a horse.
+Necesitaba que alguien sostuviera el caballo. | He needed someone to hold the horse.
+Tendrás que sostener mi caballo. | You will have to hold my horse.
+¿Puedes sostenerlo un momento? | Can you hold it for a moment?
+Juan aceptó. | Juan agreed.
+El granjero bajó del caballo. | The farmer got off the horse.
+Se arrodilló junto al camino. | He knelt down beside the road.
+Miró hacia arriba. | He looked up.
+Intentó ver el arcoíris. | He tried to see the rainbow.
+Intentó ver al hombre. | He tried to see the man.
+Mientras tanto, Juan tenía otro plan. | Meanwhile, Juan had another plan.
+Juan estaba junto al caballo. | Juan was beside the horse.
+Esperó el momento adecuado. | He waited for the right moment.
+Tan pronto como el granjero se arrodilló, Juan actuó. | As soon as the farmer knelt down, Juan acted.
+Juan saltó sobre el caballo. | Juan jumped onto the horse.
+Tomó el caballo. | He took the horse.
+Se fue rápidamente. | He rode away quickly.
+Escapó con el caballo. | He escaped with the horse.
+Ahora tenía el dinero y el caballo. | Now he had the money and the horse.
+El granjero había sido engañado. | The farmer had been tricked.
+Juan había engañado a los dos. | Juan had tricked both of them.
+Primero engañó a la mujer. | First, he tricked the woman.
+Después engañó al granjero. | Then he tricked the farmer.
+Los dos creyeron historias imposibles. | They both believed impossible stories.
+Ahora podemos hacer la pregunta nuevamente. | Now we can ask the question again.
+¿Quién fue más tonto? | Who was more foolish?
+¿El granjero o su esposa? | The farmer or his wife?
+Los dos cometieron errores. | They both made mistakes.
+La mujer confió demasiado rápido. | The woman trusted too quickly.
+El granjero también fue demasiado confiado. | The farmer was too trusting as well.
+Juan aprovechó la situación. | Juan took advantage of the situation.
+Sabía cómo convencer a las personas. | He knew how to convince people.
+Pensaba rápidamente. | He thought quickly.
+Sabía adaptarse a cada situación. | He knew how to adapt to each situation.
+Cuando tenía un problema, inventaba otro plan. | When he had a problem, he came up with another plan.
+No tuvo mucho tiempo para pensar. | He did not have much time to think.
+Aun así, encontró una solución. | Even so, he found a solution.
+Usó la curiosidad del granjero contra él. | He used the farmer's curiosity against him.
+La historia parece sencilla. | The story seems simple.
+Pero contiene muchas estructuras útiles. | But it contains many useful structures.
+Podemos aprender mucho con historias. | We can learn a lot from stories.
+Las historias ayudan a recordar frases. | Stories help us remember sentences.
+El contexto facilita la memorización. | Context makes memorization easier.
+Es más fácil recordar una frase dentro de una historia. | It is easier to remember a sentence within a story.
+No necesito memorizar cada palabra. | I do not need to memorize every word.
+Necesito entender la estructura. | I need to understand the structure.
+Después puedo reutilizarla. | Then I can reuse it.
+Puedo cambiar algunas palabras. | I can change some words.
+Puedo crear una frase nueva. | I can create a new sentence.
+Puedo contar la misma historia con mis propias palabras. | I can tell the same story in my own words.
+Puedo intentar contarla sin mirar el texto. | I can try to tell it without looking at the text.
+Primero recuerdo la idea principal. | First, I remember the main idea.
+Después reconstruyo las frases. | Then I reconstruct the sentences.
+No importa si cambio algunas palabras. | It does not matter if I change some words.
+Lo importante es comunicar la idea. | The important thing is to communicate the idea.
+Cuanto más reconstruyo frases, más rápido puedo hablar. | The more I reconstruct sentences, the faster I can speak.
+Poco a poco dejo de traducir mentalmente. | Little by little, I stop translating in my head.
+Mi objetivo es pensar directamente en el idioma. | My goal is to think directly in the language.
 La incompetencia puede ser un problema mayor de lo que pensamos. | Incompetence can be a bigger problem than we think.
 Es peligroso escribir cosas sin suficiente contexto. | It is dangerous to write things without enough context.
 A veces necesitamos una segunda opinión. | Sometimes we need a second opinion.
