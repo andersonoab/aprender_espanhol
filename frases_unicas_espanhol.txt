@@ -1,19 +1,19 @@
-What do you usually do on your way to work? | ¿Qué sueles hacer de camino al trabajo?
-On my way to work, I listen to audio lessons. | De camino al trabajo, escucho lecciones en audio.
-On my way to work, I listen to audio lessons and practice English and Spanish. | De camino al trabajo, escucho lecciones en audio y practico inglés y español.
-On my way to work, I listen to podcasts and practice English and Spanish. | De camino al trabajo, escucho pódcast y practico inglés y español.
-And you, what do you usually do on your way to work? | Y tú, ¿qué sueles hacer de camino al trabajo?
-On my way to work, I usually review my schedule. | De camino al trabajo, suelo revisar mi agenda.
-On my way to work, I usually review my schedule and think about priorities. | De camino al trabajo, suelo revisar mi agenda y pensar en las prioridades.
-I’m learning English with you. | Estoy aprendiendo inglés contigo.
-They gave me a free coffee. How cool! | Me dieron un café gratis. ¡Qué chévere!
-We finished processing payroll on time. How cool! | Terminamos de procesar la nómina a tiempo. ¡Qué chévere!
-The payroll calculations are correct. How cool! | Los cálculos de la nómina están correctos. ¡Qué chévere!
-We automated the report and saved time. How cool! | Automatizamos el informe y ahorramos tiempo. ¡Qué chévere!
-Everyone received their benefits on time. How cool! | Todos recibieron sus beneficios a tiempo. ¡Qué chévere!
-The new employee has already completed the onboarding process. How cool! | La nueva persona del equipo ya completó el proceso de incorporación. ¡Qué chévere!
-The team solved the problem before payroll closed. How cool! | El equipo resolvió el problema antes del cierre de la nómina. ¡Qué chévere!
-We now have an HR dashboard. How cool! | Ahora tenemos un panel de indicadores de recursos humanos. ¡Qué chévere!
+¿Qué sueles hacer de camino al trabajo? | What do you usually do on your way to work?
+De camino al trabajo, escucho lecciones en audio. | On my way to work, I listen to audio lessons.
+De camino al trabajo, escucho lecciones en audio y practico inglés y español. | On my way to work, I listen to audio lessons and practice English and Spanish.
+De camino al trabajo, escucho pódcast y practico inglés y español. | On my way to work, I listen to podcasts and practice English and Spanish.
+Y tú, ¿qué sueles hacer de camino al trabajo? | And you, what do you usually do on your way to work?
+De camino al trabajo, suelo revisar mi agenda. | On my way to work, I usually review my schedule.
+De camino al trabajo, suelo revisar mi agenda y pensar en las prioridades. | On my way to work, I usually review my schedule and think about priorities.
+Estoy aprendiendo inglés contigo. | I’m learning English with you.
+Me dieron un café gratis. ¡Qué chévere! | They gave me a free coffee. How cool!
+Terminamos de procesar la nómina a tiempo. ¡Qué chévere! | We finished processing payroll on time. How cool!
+Los cálculos de la nómina están correctos. ¡Qué chévere! | The payroll calculations are correct. How cool!
+Automatizamos el informe y ahorramos tiempo. ¡Qué chévere! | We automated the report and saved time. How cool!
+Todos recibieron sus beneficios a tiempo. ¡Qué chévere! | Everyone received their benefits on time. How cool!
+La nueva persona del equipo ya completó el proceso de incorporación. ¡Qué chévere! | The new employee has already completed the onboarding process. How cool!
+El equipo resolvió el problema antes del cierre de la nómina. ¡Qué chévere! | The team solved the problem before payroll closed. How cool!
+Ahora tenemos un panel de indicadores de recursos humanos. ¡Qué chévere! | We now have an HR dashboard. How cool!
 Y renunciaría a la eternidad por tocarte. | And I'd give up forever to touch you.
 Porque sé que de alguna manera me sientes. | 'Cause I know that you feel me somehow.
 Eres lo más cerca del cielo que jamás estaré. | You're the closest to Heaven that I'll ever be.
@@ -238,7 +238,8 @@ A veces necesitamos salir de nuestra zona de confort. | Sometimes we need to lea
 El cambio puede dar miedo, pero también puede traer oportunidades. | Change can be scary, but it can also bring opportunities.
 Nunca sabemos qué experiencia será importante en el futuro. | We never know which experience will be important in the future.
 Cada experiencia puede enseñarnos algo. | Every experience can teach us something.
-Mantente hambriento. Mantente alocado. | Stay hungry. Stay foolish.Hablo inglés. | I speak English.
+Mantente hambriento. Mantente alocado. | Stay hungry. Stay foolish.
+Hablo inglés. | I speak English.
 Piensas demasiado. | You think too much.
 Vemos gente muerta. | We see dead people.
 Hablan inglés. | They speak English.
