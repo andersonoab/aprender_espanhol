@@ -98,7 +98,6 @@ window.WalkEngine = (function () {
     unlocked: false,
     seqToken: 0,
     wakeLock: null,
-    suppressAutoStart: false,
     pendingCard: null
   };
 
@@ -145,7 +144,14 @@ window.WalkEngine = (function () {
     for (const k of Object.keys(defaults)) {
       if (raw && raw[k] !== undefined && raw[k] !== null) prefs[k] = raw[k];
     }
+    prefs.repeatEn = normalizeRepeat(prefs.repeatEn, defaults.repeatEn);
+    prefs.repeatPt = normalizeRepeat(prefs.repeatPt, defaults.repeatPt);
     applyPace();
+  }
+
+  function normalizeRepeat(value, fallback) {
+    const n = Number(value);
+    return Number.isFinite(n) ? Math.min(5, Math.max(1, Math.trunc(n))) : fallback;
   }
 
   function savePrefs() {
@@ -159,6 +165,7 @@ window.WalkEngine = (function () {
   }
 
   function setPref(key, value) {
+    if (key === "repeatEn" || key === "repeatPt") value = normalizeRepeat(value, defaults[key]);
     prefs[key] = value;
     if (key === "pace") applyPace();
     savePrefs();
@@ -504,15 +511,16 @@ window.WalkEngine = (function () {
 
   function buildQueue(card, pt, nextCard) {
     const q = [];
-    const reps = Math.max(1, prefs.repeatEn);
+    const reps = normalizeRepeat(prefs.repeatEn, defaults.repeatEn);
     for (let i = 0; i < reps; i++) {
       q.push({ text: card.en, lang: "es-ES", rate: prefs.rate - i * 0.04 });
     }
     if (prefs.includePt) {
-      const repsPt = Math.max(1, prefs.repeatPt);
+      const repsPt = normalizeRepeat(prefs.repeatPt, defaults.repeatPt);
       for (let j = 0; j < repsPt; j++) {
         q.push({ text: pt || "Tradução indisponível", lang: "en-US", rate: 1.02 - j * 0.04 });
       }
+      // Reforço final em espanhol após ouvir a tradução, além do seletor.
       q.push({ text: card.en, lang: "es-ES", rate: prefs.rate - 0.02 });
     }
     q.push({ silence: prefs.gapMs });
@@ -530,12 +538,6 @@ window.WalkEngine = (function () {
     card = card || currentCard;
     if (!card || !card.en) return;
 
-    // Chamada de cortesia vinda do loadSentence que nós mesmos
-    // disparamos: o ciclo já está correndo, não duplica.
-    if (state.suppressAutoStart) {
-      state.suppressAutoStart = false;
-      return;
-    }
     if (state.paused) return;
 
     unlock();
@@ -584,22 +586,26 @@ window.WalkEngine = (function () {
     }
 
     if (document.visibilityState === "visible") {
-      state.suppressAutoStart = true;   // loadSentence chamaria de novo
-      loadSentence(next);
+      state.pendingCard = null;
+      loadSentence(next, { preservePlayback: true });
       autoReadToken += 1;
       guidedReading(next);
     } else {
-      // Estado mínimo, sem tocar no DOM pesado.
-      currentCard = next;
-      textEn = next.en;
-      textPt = next.pt || "";
-      currentWords = String(next.en).split(" ").filter(Boolean);
-      const idx = sentences.findIndex((s) => s.en === next.en);
-      currentCardIndex = idx >= 0 ? idx : 0;
-      state.pendingCard = next;
+      selectBackgroundCard(next);
       autoReadToken += 1;
       guidedReading(next);
     }
+  }
+
+  // Mesmo estado e mesma âncora salvos na tela de bloqueio e no fone.
+  function selectBackgroundCard(card) {
+    currentCard = card;
+    textEn = card.en;
+    textPt = card.pt || "";
+    currentWords = String(card.en).split(" ").filter(Boolean);
+    saveReadingPosition();
+    state.pendingCard = card;
+    renderPocket(card.en, textPt);
   }
 
   // Ao voltar para a tela, coloca a interface no card certo.
@@ -608,8 +614,7 @@ window.WalkEngine = (function () {
     if (!card) return;
     state.pendingCard = null;
     try {
-      state.suppressAutoStart = true;
-      loadSentence(card);
+      loadSentence(card, { preservePlayback: true });
     } catch {}
   }
 
@@ -640,12 +645,10 @@ window.WalkEngine = (function () {
     stopSpeaking();
     autoReadToken += 1;
     if (document.visibilityState === "visible") {
-      state.suppressAutoStart = true;
-      loadSentence(card);
+      state.pendingCard = null;
+      loadSentence(card, { preservePlayback: true });
     } else {
-      currentCard = card;
-      textEn = card.en;
-      state.pendingCard = card;
+      selectBackgroundCard(card);
     }
     guidedReading(card);
     renderPocketButtons();
@@ -733,7 +736,7 @@ window.WalkEngine = (function () {
   function stop() {
     state.running = false;
     state.paused = false;
-    state.pendingCard = null;
+    syncUiIfPending();
     if (watchdog) { clearTimeout(watchdog); watchdog = null; }
 
     stopSpeaking();
@@ -904,6 +907,11 @@ window.WalkEngine = (function () {
   }
 
   function renderPocket(en, pt) {
+    const position = document.getElementById("pocketPosition");
+    if (position) {
+      const idx = sentences.findIndex(card => card.en === en);
+      position.textContent = idx >= 0 ? `Frase ${idx + 1} de ${sentences.length}` : "";
+    }
     const elEn = document.getElementById("pocketEn");
     const elPt = document.getElementById("pocketPt");
     if (elEn) elEn.textContent = en || "";
@@ -1009,9 +1017,9 @@ window.WalkEngine = (function () {
         pocketVideoStart();  // o video pausa ao esconder a aba; retoma aqui
         acquirePocketWakeLock().then(renderPocketWakeLockBtn);
       }
+      syncUiIfPending();
       if (!state.running) return;
       if (prefs.screenAwake) acquireWakeLock();
-      syncUiIfPending();
       try { if (keepEl && keepEl.paused && !state.paused) keepEl.play().catch(() => {}); } catch {}
       renderStatus();
     });

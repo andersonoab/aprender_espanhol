@@ -153,13 +153,12 @@ window.AddPhrases = (function () {
 
   // Se o app ainda não tinha frase alguma na tela, carrega uma.
   function ensureACardIsLoaded() {
-    const board = document.getElementById("sentenceEn");
-    const vazio = !board || !board.textContent.trim();
+    const vazio = typeof currentCard === "undefined" || !currentCard;
     if (vazio &&
         typeof pickCardForNavigation === "function" &&
         typeof loadSentence === "function") {
       try {
-        const card = pickCardForNavigation(false, 1);
+        const card = resolveResumeCard();
         if (card) loadSentence(card);
       } catch {}
     }

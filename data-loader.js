@@ -181,7 +181,7 @@ window.DataLoader = (function () {
 
     if (trainMode === "worst") refreshWorstListIfNeeded();
 
-    const next = pickCardForNavigation(false, 1);
+    const next = resolveResumeCard();
     if (next) loadSentence(next);
 
     revealButtons();

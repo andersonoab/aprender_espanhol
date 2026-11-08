@@ -1525,6 +1525,14 @@ body.bridge-on .slot .hint { opacity: 0.25; }
   margin-bottom: 20px;
 }
 
+.pocket-position {
+  margin-bottom: 18px;
+  color: #94a3b8;
+  font-size: clamp(1rem, 4vw, 1.4rem);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
 .pocket-en {
   font-family: var(--font-head);
   font-size: clamp(1.5rem, 6vw, 2.4rem);

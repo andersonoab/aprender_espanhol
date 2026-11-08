@@ -52,7 +52,7 @@ window.StorageGuard = (function () {
   const LOUSA_KEYS = new Set([
     "trainMode_v1", "worstPointer_v1", "worstListCache_v1",
     "newOnlyMode_v1", "seqPointer_v1", "attemptLog_v1", "errorEventLog_v1",
-    "srsData_v1", "sentences_v2", "currentKey_v1", "translationCache_v1",
+    "srsData_v1", "sentences_v2", "currentKey_v1", "resumePos_v1", "translationCache_v1",
     "repeatSoon_v1", "madeCount", "history", "autoReadMode_v1",
     "walkMode_v1", "appPrefs_v2", "favoritePhrases_v1", "micPermission_v1",
     "sentenceGroups_v1", "activeGroupKey_v1", "bridgeMode_v1",
@@ -62,7 +62,8 @@ window.StorageGuard = (function () {
   // Dados da Lousa que NUNCA saem em poda automática.
   const PROTECTED = new Set([
     "srsData_v1", "sentences_v2", "favoritePhrases_v1",
-    "sentenceGroups_v1", "activeGroupKey_v1", "appPrefs_v2", "madeCount"
+    "sentenceGroups_v1", "activeGroupKey_v1", "appPrefs_v2", "madeCount",
+    "currentKey_v1", "resumePos_v1", "seqPointer_v1", "walkEngine_v2"
   ]);
 
   const nativeSet = Storage.prototype.setItem;

@@ -527,6 +527,19 @@ function resolveResumeCard() {
   return pickCardForNavigation(false, 1);
 }
 
+// Compartilhado pela lousa e pelo avanço de áudio em segundo plano.
+// Salva imediatamente: o navegador pode encerrar a aba sem pagehide.
+function saveReadingPosition() {
+  if (!currentCard || !currentCard.en) return;
+  const idx = sentences.findIndex(s => s.en === currentCard.en);
+  if (idx < 0) return;
+  currentCardIndex = idx;
+  seqPointer = idx;
+  saveNewOnlyMode();
+  localStorage.setItem(CURRENT_KEY, currentCard.en);
+  localStorage.setItem(RESUME_POS_KEY, String(idx + 1));
+}
+
 // =========================
 // NAVEGAÇÃO POSICIONAL (voltar / ir para número)
 // =========================
@@ -1043,9 +1056,9 @@ async function playGuidedReading(card = currentCard) {
   // isto, esta leitura ignorava o seletor de inglês e falava a tradução
   // sempre uma vez só.
   const wp = (window.WalkEngine && window.WalkEngine.prefs) || {};
-  const repsEs = Math.max(1, wp.repeatEn || 2);
+  const repsEs = Math.min(5, Math.max(1, Math.trunc(Number(wp.repeatEn)) || 2));
   const falarPt = wp.includePt !== false;
-  const repsPt = Math.max(1, wp.repeatPt || 1);
+  const repsPt = Math.min(5, Math.max(1, Math.trunc(Number(wp.repeatPt)) || 1));
 
   for (let i = 0; i < repsEs; i++) {
     await speakQueued(card.en, 'es-ES', 0.98 - i * 0.04);
@@ -1088,12 +1101,12 @@ async function toggleAutoReadMode() {
   const el = document.getElementById('speechStatus');
   if (el) {
     const wp = (window.WalkEngine && window.WalkEngine.prefs) || {};
-    const rEs = Math.max(1, wp.repeatEn || 2);
-    const rPt = Math.max(1, wp.repeatPt || 1);
+    const rEs = Math.min(5, Math.max(1, Math.trunc(Number(wp.repeatEn)) || 2));
+    const rPt = Math.min(5, Math.max(1, Math.trunc(Number(wp.repeatPt)) || 1));
     const temPt = wp.includePt !== false;
     el.textContent = autoReadMode
       ? `Leitura guiada contínua ativa: ${rEs}x em espanhol` +
-        (temPt ? `, ${rPt}x em inglês e 1x em espanhol` : '') +
+        (temPt ? `, ${rPt}x em inglês e 1x extra em espanhol` : '') +
         ' até você parar.'
       : 'Leitura guiada desligada.';
   }
@@ -1397,10 +1410,10 @@ function resetErrorStats() {
 // =========================
 // CARREGAR E MOSTRAR FRASE
 // =========================
-function loadSentence(card) {
+function loadSentence(card, { preservePlayback = false } = {}) {
   if (!card) return;
 
-  window.speechSynthesis.cancel();
+  if (!preservePlayback) window.speechSynthesis.cancel();
 
   currentCard = card;
   textEn = card.en;
@@ -1435,17 +1448,17 @@ function loadSentence(card) {
   updateAutoReadButton();
   updateWalkModeButton();
 
-  if (autoReadMode) {
-    autoReadToken += 1;
-    setTimeout(() => playGuidedReading(card), 200);
-  } else {
-    setTimeout(() => speak(textEn, "es-ES", 1), 200);
+  if (!preservePlayback) {
+    if (autoReadMode) {
+      autoReadToken += 1;
+      setTimeout(() => playGuidedReading(card), 200);
+    } else {
+      setTimeout(() => speak(textEn, "es-ES", 1), 200);
+    }
   }
 
   markCardShown(textEn);
-  localStorage.setItem(CURRENT_KEY, textEn);
-  // Âncora posicional para retomada tolerante a atualizações do banco.
-  localStorage.setItem(RESUME_POS_KEY, String(currentCardIndex + 1));
+  saveReadingPosition();
 
   renderStatusLine(textEn);
 }
